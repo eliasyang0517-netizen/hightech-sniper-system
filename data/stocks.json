@@ -70,10 +70,13 @@
     "conclusion": "国产GPU旗手但毛利拐点未现、估值偏高，黄灯限仓观望右侧确认",
     "price": 1199.93,
     "marketCap": 7539.08,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥749.22–868.0",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥913.68）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 913.68
+    "fairValue": 913.68,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "海光信息",
@@ -146,10 +149,13 @@
     "conclusion": "双生态位稳健但毛利拐点缺失，黄灯持有待毛利修复确认",
     "price": 295.75,
     "marketCap": 6874.23,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥124.08–143.75",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥151.32）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 151.32
+    "fairValue": 151.32,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "沐曦股份",
@@ -222,10 +228,13 @@
     "conclusion": "新上市GPU高成长标的，3命中绿灯但盈利未兑现、客户集中，限仓持有",
     "price": 729.08,
     "marketCap": 2917.05,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥262.47–291.63",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥291.63）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 291.63
+    "fairValue": 291.63,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "龙芯中科",
@@ -298,10 +307,13 @@
     "conclusion": "全自主CPU信创标的但拐点未确认、持续亏损，红灯低配观望",
     "price": 112.09,
     "marketCap": 449.48,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "不狙击",
     "sniperNote": "0维命中，不符合建仓标准，暂不入池",
-    "fairValue": null
+    "fairValue": null,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "北方华创",
@@ -374,10 +386,13 @@
     "conclusion": "设备平台型龙头国产化主线清晰，绿灯核心仓持有",
     "price": 751.99,
     "marketCap": 5457.11,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥404.31–449.23",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥449.23）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 449.23
+    "fairValue": 449.23,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "中微公司",
@@ -450,10 +465,13 @@
     "conclusion": "高端刻蚀龙头4命中绿灯，订单饱满但盯现金流质量",
     "price": 367.65,
     "marketCap": 3521.51,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥178.4–198.22",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥198.22）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 198.22
+    "fairValue": 198.22,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "拓荆科技",
@@ -526,10 +544,13 @@
     "conclusion": "薄膜沉积龙头4命中绿灯，110亿订单支撑主升",
     "price": 690.65,
     "marketCap": 2007.57,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥248.63–276.26",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥276.26）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 276.26
+    "fairValue": 276.26,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "芯源微",
@@ -602,10 +623,13 @@
     "conclusion": "涂胶显影唯一量产4命中绿灯，但扣非亏损限底仓",
     "price": 310.87,
     "marketCap": 627.23,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥111.91–124.35",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥124.35）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 124.35
+    "fairValue": 124.35,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "富创精密",
@@ -678,10 +702,13 @@
     "conclusion": "设备零部件国产化3命中绿灯，产能爬坡兑现中",
     "price": 195.51,
     "marketCap": 598.67,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥70.38–78.2",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥78.2）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 78.2
+    "fairValue": 78.2,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "源杰科技",
@@ -754,10 +781,13 @@
     "conclusion": "光芯片稀缺龙头5命中满绿，基本面极优但绝对涨幅过大需移动止盈",
     "price": 1355.5,
     "marketCap": 1687.6,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥487.98–542.2",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥542.2）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 542.2
+    "fairValue": 542.2,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "长飞光纤",
@@ -830,10 +860,13 @@
     "conclusion": "光纤一体化龙头4命中绿灯，涨价弹性强但绝对市值已透支需防回撤",
     "price": 338.69,
     "marketCap": 2804.03,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥328.53–365.51",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥365.51）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 365.51
+    "fairValue": 365.51,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "中际旭创",
@@ -906,10 +939,13 @@
     "conclusion": "绿灯龙头戴维斯双击，持有但防PEG透支",
     "price": 919.87,
     "marketCap": 10760.04,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥892.27–1195.83",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥1379.81）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 1379.81
+    "fairValue": 1379.81,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "新易盛",
@@ -982,10 +1018,13 @@
     "conclusion": "黄灯，环比承压待1.6T接力",
     "price": 420.95,
     "marketCap": 5869.12,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥408.32–547.24",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥631.42）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 631.42
+    "fairValue": 631.42,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "天孚通信",
@@ -1058,10 +1097,13 @@
     "conclusion": "绿灯，稳健光器件平台",
     "price": 230.68,
     "marketCap": 2516.32,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥202.44–224.93",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥224.93）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 224.93
+    "fairValue": 224.93,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "太辰光",
@@ -1134,10 +1176,13 @@
     "conclusion": "红灯，业绩下滑等MPO兑现",
     "price": 143.43,
     "marketCap": 325.77,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "不狙击",
     "sniperNote": "0维命中，不符合建仓标准，暂不入池",
-    "fairValue": null
+    "fairValue": null,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "盛合晶微",
@@ -1210,10 +1255,13 @@
     "conclusion": "黄灯，先进封装稀缺标的但毛利承压",
     "price": 140.84,
     "marketCap": 2623.53,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥46.2–53.52",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥56.34）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 56.34
+    "fairValue": 56.34,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "长电科技",
@@ -1286,10 +1334,13 @@
     "conclusion": "黄灯，盈利修复中",
     "price": 77.75,
     "marketCap": 1391.27,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥32.59–37.75",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥39.74）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 39.74
+    "fairValue": 39.74,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "通富微电",
@@ -1362,10 +1413,13 @@
     "conclusion": "绿灯，AMD链高弹性但含投资收益",
     "price": 64.72,
     "marketCap": 982.19,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥30.19–33.54",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥33.54）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 33.54
+    "fairValue": 33.54,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "深科技",
@@ -1438,10 +1492,13 @@
     "conclusion": "黄灯，景气修复温和",
     "price": 40.85,
     "marketCap": 643.13,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥33.82–39.18",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥41.24）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 41.24
+    "fairValue": 41.24,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "江波龙",
@@ -1516,10 +1573,13 @@
     "conclusion": "绿灯五维但触发虚假繁荣红线，控仓",
     "price": 386.6,
     "marketCap": 1635.55,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "控仓观望",
     "sniperNote": "触发红线（虚假繁荣），不计狙击价，仅观察/减仓",
-    "fairValue": null
+    "fairValue": null,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "佰维存储",
@@ -1594,10 +1654,13 @@
     "conclusion": "绿灯五维但触发虚假繁荣红线，控仓",
     "price": 244.88,
     "marketCap": 1154.77,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "控仓观望",
     "sniperNote": "触发红线（虚假繁荣），不计狙击价，仅观察/减仓",
-    "fairValue": null
+    "fairValue": null,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "德明利",
@@ -1672,10 +1735,13 @@
     "conclusion": "绿灯五维但触发虚假繁荣红线，控仓",
     "price": 404.16,
     "marketCap": 916.82,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "控仓观望",
     "sniperNote": "触发红线（虚假繁荣），不计狙击价，仅观察/减仓",
-    "fairValue": null
+    "fairValue": null,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "香农芯创",
@@ -1748,10 +1814,13 @@
     "conclusion": "黄灯，分销低毛利但回款强",
     "price": 158.69,
     "marketCap": 745.12,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥153.93–184.72",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥194.44）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 194.44
+    "fairValue": 194.44,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "长鑫科技",
@@ -1824,17 +1893,20 @@
     "conclusion": "绿灯，国产DRAM IDM龙头，AI+国产替代双轮，但mega-cap周期股，仓位从严",
     "price": 52.48,
     "marketCap": 35099.09,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥50.91–68.22",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥78.72）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 78.72
+    "fairValue": 78.72,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "亨通光电",
     "code": "600487",
     "price": 59.52,
-    "marketCap": 1468,
-    "asOf": "2026-08-07",
+    "marketCap": 1468.0,
+    "asOf": "2026-08-10 00:27",
     "exchange": "沪市主板",
     "sector": "光纤光缆+海洋通信",
     "layer": "L1",
@@ -1905,14 +1977,17 @@
     "conclusion": "🟢 大市值光通信+海缆龙头，PEG偏低具安全边际",
     "sniperPrice": "¥57.73–77.38",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥88.83）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 88.83
+    "fairValue": 88.83,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "中天科技",
     "code": "600522",
     "price": 33.67,
     "marketCap": 1149.14,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "exchange": "沪市主板",
     "sector": "通信光缆+海洋系统",
     "layer": "L1",
@@ -1983,7 +2058,10 @@
     "conclusion": "🟡 光通信+海洋工程双驱动但多元化分散，黄灯观察",
     "sniperPrice": "¥32.66–43.77",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥50.51）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 50.51
+    "fairValue": 50.51,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "立昂微",
@@ -2056,10 +2134,13 @@
     "conclusion": "黄灯。12英寸硅片放量带来拐点，但毛利率绝对值低、现金流弱，属高赔率左侧标的，需验证良率与盈利持续性。",
     "price": 44.88,
     "marketCap": 346.56,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥27.63–32.02",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥33.7）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 33.7
+    "fairValue": 33.7,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "雅克科技",
@@ -2132,10 +2213,13 @@
     "conclusion": "黄灯。平台化与HBM前驱体逻辑扎实，但整体营收承压、现金流转负，需等前驱体稼动率与光刻胶放量兑现。",
     "price": 148.78,
     "marketCap": 708.09,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥98.26–113.84",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥119.83）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 119.83
+    "fairValue": 119.83,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "鼎龙股份",
@@ -2208,10 +2292,13 @@
     "conclusion": "绿灯。五维命中4项，CMP抛光垫龙头加速兑现，经营杠杆与现金流健康，属半导体材料核心持仓。",
     "price": 77.74,
     "marketCap": 742.02,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥57.66–64.07",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥64.07）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 64.07
+    "fairValue": 64.07,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "安集科技",
@@ -2284,10 +2371,13 @@
     "conclusion": "黄灯。质地优异、现金流好，但毛利率微降、PEG偏高，属需要等估值消化的高质量标的。",
     "price": 251.68,
     "marketCap": 572.55,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥151.99–176.08",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥185.35）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 185.35
+    "fairValue": 185.35,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "上海新阳",
@@ -2360,10 +2450,13 @@
     "conclusion": "绿灯。五维命中4项，平台型材料加速兑现、盈利质量改善，属高确定性成长标的。",
     "price": 92.91,
     "marketCap": 291.16,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥61.22–68.02",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥68.02）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 68.02
+    "fairValue": 68.02,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "昊华科技",
@@ -2436,10 +2529,13 @@
     "conclusion": "绿灯。五维命中4项，低PEG+半导体耗材稀缺性，安全边际高；唯一隐患是经营现金流为负需跟踪。",
     "price": 49.09,
     "marketCap": 633.26,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥47.62–63.82",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥73.64）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 73.64
+    "fairValue": 73.64,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "生益科技",
@@ -2512,10 +2608,13 @@
     "conclusion": "绿灯。五维命中4项，AI+涨价双逻辑最强，现金流健康，属PCB/CCL主线核心持仓。",
     "price": 139.98,
     "marketCap": 3400.12,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥125.8–139.78",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥139.78）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 139.78
+    "fairValue": 139.78,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "南亚新材",
@@ -2588,10 +2687,13 @@
     "conclusion": "绿灯。五维全中，AI算力CCL弹性最大；唯一隐患是现金流仍为负、估值预期高，宜分批建仓。",
     "price": 302.55,
     "marketCap": 711.54,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥177.39–197.1",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥197.1）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 197.1
+    "fairValue": 197.1,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "沪电股份",
@@ -2664,10 +2766,13 @@
     "conclusion": "绿灯。五维命中4项，AI PCB龙头订单可见度最高、定价权最强，属主线核心持仓。",
     "price": 125.87,
     "marketCap": 2422.2,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥122.09–163.63",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥176.18）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 176.18
+    "fairValue": 176.18,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "深南电路",
@@ -2740,10 +2845,13 @@
     "conclusion": "绿灯。五维命中4项，AI PCB+IC载板双主线，盈利结构优化，属稳健成长核心持仓。",
     "price": 382.63,
     "marketCap": 2606.35,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥271.3–301.44",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥301.44）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 301.44
+    "fairValue": 301.44,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "胜宏科技",
@@ -2816,10 +2924,13 @@
     "conclusion": "绿灯。五维命中4项，全球AI PCB龙头、现金流最强，属主线核心持仓（S2未达仅因增速略低于30%）。",
     "price": 280.2,
     "marketCap": 2753.76,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥271.79–364.26",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥420.3）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 420.3
+    "fairValue": 420.3,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "景旺电子",
@@ -2892,10 +3003,13 @@
     "conclusion": "黄灯。13只中基本面最弱，毛利下滑、净利负增；仅有高端AI/光模块前瞻逻辑，宜小仓观察等待反转确认。",
     "price": 94.95,
     "marketCap": 950.64,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥90.77–105.16",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥110.7）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 110.7
+    "fairValue": 110.7,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "东山精密",
@@ -2968,17 +3082,20 @@
     "conclusion": "绿灯。五维命中4项，光模块并表带来高弹性；但PCB基本盘盈利走弱、估值偏高，需区分光模块与PCB两块质量。",
     "price": 195.27,
     "marketCap": 3576.58,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥189.41–253.85",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥292.91）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 292.91
+    "fairValue": 292.91,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "环旭电子",
     "code": "601231",
     "price": 27.61,
     "marketCap": 659.59,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "exchange": "沪市主板",
     "sector": "SiP系统级封装",
     "layer": "L1",
@@ -3049,14 +3166,17 @@
     "conclusion": "🟢 SiP封装龙头戴维斯双击，PEG极低具安全边际",
     "sniperPrice": "¥26.78–35.89",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥41.41）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 41.41
+    "fairValue": 41.41,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "兴森科技",
     "code": "002436",
     "price": 33.8,
     "marketCap": 574.49,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "exchange": "深市主板",
     "sector": "PCB/IC载板",
     "layer": "L1",
@@ -3127,14 +3247,17 @@
     "conclusion": "🟢 国产IC载板龙头但PEG已偏高，建议仓位≤10%",
     "sniperPrice": "¥17.82–19.8",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥19.8）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 19.8
+    "fairValue": 19.8,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "东材科技",
     "code": "601208",
     "price": 45.94,
     "marketCap": 464.08,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "exchange": "沪市主板",
     "sector": "电子材料/光学膜",
     "layer": "L1",
@@ -3205,7 +3328,10 @@
     "conclusion": "🟢 AI算力链上游材料平台，PEG合理可建仓",
     "sniperPrice": "¥32.66–36.29",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥36.29）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 36.29
+    "fairValue": 36.29,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "思泉新材",
@@ -3278,10 +3404,13 @@
     "conclusion": "黄灯。三维命中，国产导热界面材料弹性大，但 SiP 突破尚未量产验证；修正后 g=78% 远低于市场乐观口径，需警惕 g 失真。",
     "price": 102.5,
     "marketCap": 119.2,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥99.42–130.71",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥137.59）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 137.59
+    "fairValue": 137.59,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "沃格光电",
@@ -3354,10 +3483,13 @@
     "conclusion": "黄灯。三维命中，TGV 是好赛道但量产时间窗不明确；当前 PE 极高（400+），PEG 失效，建议以 '量产事件驱动' 替代纯 PEG 框架。",
     "price": 95.07,
     "marketCap": 213.68,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥31.18–36.13",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥38.03）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 38.03
+    "fairValue": 38.03,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "中巨芯-U",
@@ -3430,10 +3562,13 @@
     "conclusion": "黄灯。两维命中，电子特气国产替代是好赛道，但亏损+小盘+PEG 失效，需 PS 锚定；建议 5% 仓位上限。",
     "price": 28.77,
     "marketCap": 425.01,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥9.44–10.93",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥11.51）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 11.51
+    "fairValue": 11.51,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "唯特偶",
@@ -3506,10 +3641,13 @@
     "conclusion": "黄灯。三维命中，国产微电子焊接材料替代是好赛道；PEG 失真需配合 PE 锚定。",
     "price": 119.63,
     "marketCap": 218.27,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥39.24–45.46",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥47.85）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 47.85
+    "fairValue": 47.85,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "有研新材",
@@ -3582,10 +3720,13 @@
     "conclusion": "黄灯。三维命中，国产溅射靶材是好赛道；PEG 失真需 PS 锚定。",
     "price": 48.17,
     "marketCap": 407.78,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥15.8–18.31",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥19.27）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 19.27
+    "fairValue": 19.27,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "建滔积层板",
@@ -3657,11 +3798,14 @@
     },
     "conclusion": "黄灯。三维命中，港股 CCL 龙头稳健增长；PEG 中性，估值合理。港币汇率波动需关注。",
     "price": 38.36,
-    "marketCap": 1208.9,
-    "asOf": "2026-08-07",
+    "marketCap": 1112.18,
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "HK$37.21–49.87",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 HK$53.3）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪（港股，单位为港元）",
-    "fairValue": 53.3
+    "fairValue": 53.3,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "国瓷材料",
@@ -3734,10 +3878,13 @@
     "conclusion": "黄灯。四维命中（仅指引缺失），MLCC 国产化龙头；现价 PEG 偏高但 EPS 置信度高，建议金字塔分批建仓。",
     "price": 70.88,
     "marketCap": 706.71,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥23.25–26.93",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥28.35）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 28.35
+    "fairValue": 28.35,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "英维克",
@@ -3810,10 +3957,13 @@
     "conclusion": "黄灯（1维命中），成熟期阶段，金字塔建仓：待Q1利空消化、",
     "price": 55.9,
     "marketCap": 712.36,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥53.14–61.56",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥64.8）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 64.8
+    "fairValue": 64.8,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "申菱环境",
@@ -3886,10 +4036,13 @@
     "conclusion": "黄灯（1维命中），成熟期阶段，金字塔：跟踪订单交付兑现",
     "price": 86.68,
     "marketCap": 324.43,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥68.43–79.28",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥83.45）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 83.45
+    "fairValue": 83.45,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "科创新源",
@@ -3962,10 +4115,13 @@
     "conclusion": "黄灯（1维命中），成熟期阶段，小仓位观察",
     "price": 38.55,
     "marketCap": 68.34,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥37.39–50.11",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥57.82）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 57.82
+    "fairValue": 57.82,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "澜起科技",
@@ -4038,10 +4194,13 @@
     "conclusion": "绿灯（4维命中），拐点期阶段，金字塔建仓，回调加仓",
     "price": 215.52,
     "marketCap": 2630.5,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥137.19–152.43",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥152.43）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 152.43
+    "fairValue": 152.43,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "兆易创新",
@@ -4114,10 +4273,13 @@
     "conclusion": "绿灯（5维命中），拐点期阶段，金字塔建仓",
     "price": 417.05,
     "marketCap": 2926.63,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥219.56–243.95",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥243.95）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 243.95
+    "fairValue": 243.95,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "士兰微",
@@ -4190,10 +4352,13 @@
     "conclusion": "黄灯（1维命中），成熟期阶段，金字塔，分批",
     "price": 32.55,
     "marketCap": 541.66,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥19.07–22.1",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥23.26）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 23.26
+    "fairValue": 23.26,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "锐捷网络",
@@ -4266,10 +4431,13 @@
     "conclusion": "黄灯（2维命中），主升期阶段，金字塔，等Q2验证",
     "price": 118.17,
     "marketCap": 1315.98,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥77.43–89.71",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥94.43）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 94.43
+    "fairValue": 94.43,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "中兴通讯",
@@ -4342,10 +4510,13 @@
     "conclusion": "黄灯（1维命中），成熟期阶段，观察，等毛利拐点",
     "price": 34.7,
     "marketCap": 1659.89,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥33.66–44.55",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥46.89）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 46.89
+    "fairValue": 46.89,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "麦格米特",
@@ -4418,10 +4589,13 @@
     "conclusion": "黄灯（2维命中），主升期阶段，金字塔，分批",
     "price": 124.4,
     "marketCap": 727.75,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥61.02–70.69",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥74.41）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 74.41
+    "fairValue": 74.41,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "禾望电气",
@@ -4494,10 +4668,13 @@
     "conclusion": "黄灯（1维命中），成熟期阶段，谨慎小仓",
     "price": 32.97,
     "marketCap": 153.03,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥31.98–42.86",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥49.45）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 49.45
+    "fairValue": 49.45,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "杰普特",
@@ -4570,10 +4747,13 @@
     "conclusion": "绿灯（4维命中），拐点期阶段，金字塔建仓",
     "price": 342.81,
     "marketCap": 325.84,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥307.69–341.88",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥341.88）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 341.88
+    "fairValue": 341.88,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "大族激光",
@@ -4646,10 +4826,13 @@
     "conclusion": "绿灯（5维命中），拐点期阶段，金字塔建仓",
     "price": 99.75,
     "marketCap": 1027.03,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥96.76–129.68",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥149.62）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 149.62
+    "fairValue": 149.62,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "华工科技",
@@ -4722,10 +4905,13 @@
     "conclusion": "黄灯（2维命中），主升期阶段，金字塔，关注毛利",
     "price": 106.6,
     "marketCap": 1071.87,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥64.75–75.01",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥78.96）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 78.96
+    "fairValue": 78.96,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "东方电缆",
@@ -4798,10 +4984,13 @@
     "conclusion": "绿灯（4维命中），主升期阶段，金字塔建仓",
     "price": 38.7,
     "marketCap": 319.2,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥37.54–50.31",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥58.05）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 58.05
+    "fairValue": 58.05,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "特变电工",
@@ -4874,10 +5063,13 @@
     "conclusion": "黄灯（1维命中），成熟期阶段，价值底仓",
     "price": 21.33,
     "marketCap": 1077.76,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥20.69–27.73",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥31.99）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 31.99
+    "fairValue": 31.99,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "许继电气",
@@ -4950,17 +5142,20 @@
     "conclusion": "黄灯（2维命中），成熟期阶段，等特高压交付信号",
     "price": 22.76,
     "marketCap": 231.84,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥22.08–29.59",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥34.14）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 34.14
+    "fairValue": 34.14,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "福晶科技",
     "code": "002222",
     "price": 62.07,
     "marketCap": 291.88,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "exchange": "深市主板",
     "sector": "非线性光学晶体",
     "layer": "L1",
@@ -5031,7 +5226,10 @@
     "conclusion": "🟢 全球晶体龙头但PEG已偏高+覆盖度低，建议仓位≤10%",
     "sniperPrice": "¥35.15–39.06",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥39.06）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 39.06
+    "fairValue": 39.06,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "国电南瑞",
@@ -5104,10 +5302,13 @@
     "conclusion": "稳健成长型绿灯标的，适合底仓配置，确定性高但弹性有限。",
     "price": 24.12,
     "marketCap": 1937.26,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥23.4–29.28",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥29.28）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 29.28
+    "fairValue": 29.28,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "润泽科技",
@@ -5180,10 +5381,13 @@
     "conclusion": "高景气算力基建绿灯标的，成长性与确定性兼具，注意整体毛利波动。",
     "price": 69.75,
     "marketCap": 1144.63,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥58.32–64.8",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥64.8）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 64.8
+    "fairValue": 64.8,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "协创数据",
@@ -5258,10 +5462,13 @@
     "conclusion": "高增但护城河存疑的绿灯标的，仓位上限收紧至15%，重点跟踪算力服务纯度。",
     "price": 253.67,
     "marketCap": 1241.37,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "控仓观望",
     "sniperNote": "触发红线（1伪护城河），不计狙击价，仅观察/减仓",
-    "fairValue": null
+    "fairValue": null,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "工业富联",
@@ -5337,10 +5544,13 @@
     "conclusion": "AI代工核心但护城河薄、客户集中，绿灯评分下须严控15%上限并设转单止损。",
     "price": 68.18,
     "marketCap": 13529.7,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "控仓观望",
     "sniperNote": "触发红线（1伪护城河、5客户依赖），不计狙击价，仅观察/减仓",
-    "fairValue": null
+    "fairValue": null,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "浪潮信息",
@@ -5416,10 +5626,13 @@
     "conclusion": "黄灯且触发虚假繁荣红线，仅适合小仓事件驱动，严禁逆势补仓。",
     "price": 77.99,
     "marketCap": 1145.26,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "控仓观望",
     "sniperNote": "触发红线（2虚假繁荣、1伪护城河），不计狙击价，仅观察/减仓",
-    "fairValue": null
+    "fairValue": null,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "立讯精密",
@@ -5494,10 +5707,13 @@
     "conclusion": "平台型绿灯但苹果依赖红线突出，15%上限+地缘止损不可省略。",
     "price": 56.99,
     "marketCap": 4402.64,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "控仓观望",
     "sniperNote": "触发红线（5客户依赖），不计狙击价，仅观察/减仓",
-    "fairValue": null
+    "fairValue": null,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "领益智造",
@@ -5572,10 +5788,13 @@
     "conclusion": "黄灯+伪护城河警示，转型逻辑待订单验证，仅小仓。",
     "price": 12.72,
     "marketCap": 1032.9,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "控仓观望",
     "sniperNote": "触发红线（1伪护城河），不计狙击价，仅观察/减仓",
-    "fairValue": null
+    "fairValue": null,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "长盈精密",
@@ -5650,10 +5869,13 @@
     "conclusion": "黄灯+伪护城河，机器人概念弹性大但确定性低，小仓博弈。",
     "price": 28.02,
     "marketCap": 381.45,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "控仓观望",
     "sniperNote": "触发红线（1伪护城河），不计狙击价，仅观察/减仓",
-    "fairValue": null
+    "fairValue": null,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "利通电子",
@@ -5728,10 +5950,13 @@
     "conclusion": "高弹性绿灯但客户集中红线突出，15%上限+腾讯履约跟踪为核心。",
     "price": 127.4,
     "marketCap": 467.21,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "控仓观望",
     "sniperNote": "触发红线（5客户依赖），不计狙击价，仅观察/减仓",
-    "fairValue": null
+    "fairValue": null,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "拓普集团",
@@ -5806,10 +6031,13 @@
     "conclusion": "黄灯，汽零底色+机器人期权，特斯拉依赖与客户集中需重点跟踪。",
     "price": 50.38,
     "marketCap": 875.52,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "控仓观望",
     "sniperNote": "触发红线（5客户依赖），不计狙击价，仅观察/减仓",
-    "fairValue": null
+    "fairValue": null,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "双环传动",
@@ -5882,10 +6110,13 @@
     "conclusion": "具技术壁垒的绿灯标的，机器人+新能源双主线，适合作为精密制造中优先配置。",
     "price": 39.28,
     "marketCap": 333.88,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥36.76–40.84",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥40.84）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 40.84
+    "fairValue": 40.84,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "华亚智能",
@@ -5958,10 +6189,13 @@
     "conclusion": "黄灯小市值标的，半导体设备壁垒真实但短期承压，仅小仓等待拐点。",
     "price": 67.5,
     "marketCap": 97.21,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥51.27–59.4",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥62.53）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 62.53
+    "fairValue": 62.53,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "顺络电子",
@@ -6034,10 +6268,13 @@
     "conclusion": "黄灯元件龙头，毛利短期承压但AI/车规主线清晰，待修复信号加仓。",
     "price": 49.79,
     "marketCap": 401.47,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥46.39–53.74",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥56.57）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 56.57
+    "fairValue": 56.57,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "法拉电子",
@@ -6110,10 +6347,13 @@
     "conclusion": "高确定性绿灯龙头，适合底仓，关注Q1现金流异常是否为季节性。",
     "price": 136.21,
     "marketCap": 306.47,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥132.12–157.3",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥157.3）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 157.3
+    "fairValue": 157.3,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "绿的谐波",
@@ -6188,10 +6428,13 @@
     "conclusion": "最纯谐波减速器龙头，技术壁垒与产业地位无可争议，但当前估值透支(PEG≈5.8)，按系统纪律列为控仓观望，等回调至合理中枢再狙击。",
     "price": 347.76,
     "marketCap": 637.55,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "控仓观望",
     "sniperNote": "触发红线（3估值透支），不计狙击价，仅观察/减仓",
-    "fairValue": null
+    "fairValue": null,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "鸣志电器",
@@ -6266,10 +6509,13 @@
     "conclusion": "灵巧手电机最纯标的之一，先发壁垒真实，但当前估值透支(PEG≈6.0)，列控仓观望，等回调。",
     "price": 52.95,
     "marketCap": 221.8,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "控仓观望",
     "sniperNote": "触发红线（3估值透支），不计狙击价，仅观察/减仓",
-    "fairValue": null
+    "fairValue": null,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "柯力传感",
@@ -6342,10 +6588,13 @@
     "conclusion": "传感器龙头+机器人六维力先发，壁垒真实、毛利高，估值临界(PEG≈2.47)未触红线，适合等回调至¥25附近底仓。",
     "price": 54.39,
     "marketCap": 152.74,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥25.52–28.35",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥28.35）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 28.35
+    "fairValue": 28.35,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "中大力德",
@@ -6420,10 +6669,13 @@
     "conclusion": "全品类减速器领先+人形机器人关节卡位，产业逻辑正，但估值严重透支(PEG≈9.4)，列控仓观望，等回调。",
     "price": 78.97,
     "marketCap": 155.19,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "控仓观望",
     "sniperNote": "触发红线（3估值透支），不计狙击价，仅观察/减仓",
-    "fairValue": null
+    "fairValue": null,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "江苏雷利",
@@ -6496,10 +6748,13 @@
     "conclusion": "微特电机头部+机器人新品批量交付，壁垒真实、估值合理偏高(PEG≈1.8)，黄灯小仓等回调至¥14附近。",
     "price": 28.14,
     "marketCap": 163.57,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "¥13.82–16.01",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥16.85）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
-    "fairValue": 16.85
+    "fairValue": 16.85,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "阿里巴巴",
@@ -6571,11 +6826,14 @@
     },
     "conclusion": "L2生态平台层，云+AI商业化加速进入验证期，五维全中绿灯，适合波段操作非底仓",
     "price": 123.8,
-    "marketCap": 23738.6363,
-    "asOf": "2026-08-07",
+    "marketCap": 21839.55,
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "HK$120.09–160.94",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 HK$185.7）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪（港股，单位为港元）",
-    "fairValue": 185.7
+    "fairValue": 185.7,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "腾讯控股",
@@ -6647,11 +6905,14 @@
     },
     "conclusion": "L2生态平台层，AI全面赋能核心业务，现金流健康，五维全中绿灯，波段操作",
     "price": 478.8,
-    "marketCap": 43488.0714,
-    "asOf": "2026-08-07",
+    "marketCap": 40009.03,
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "HK$464.44–622.44",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 HK$718.2）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪（港股，单位为港元）",
-    "fairValue": 718.2
+    "fairValue": 718.2,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "宁德时代",
@@ -6724,10 +6985,13 @@
     "conclusion": "非狙击(动力电池)，全球龙头但按纪律本应出局，用户要求保留；机械打分4命中绿灯，需关注毛利率环比承压与技术颠覆风险",
     "price": 388.07,
     "marketCap": 17954.66,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "—（非狙击区）",
     "sniperNote": "保留观察，不在狙击靶区，不给狙击价",
-    "fairValue": null
+    "fairValue": null,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "阳光电源",
@@ -6800,17 +7064,20 @@
     "conclusion": "非狙击(光伏逆变器)，Q1高基数+汇兑致利润承压但环比修复，用户要求保留；机械打分4命中绿灯，需警惕行业产能过剩与海外政策风险",
     "price": 114.16,
     "marketCap": 2366.78,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "—（非狙击区）",
     "sniperNote": "保留观察，不在狙击靶区，不给狙击价",
-    "fairValue": null
+    "fairValue": null,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "聚和材料",
     "code": "688503",
     "price": 75.89,
     "marketCap": 183.68,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "exchange": "科创板",
     "sector": "光伏银浆",
     "layer": "非狙击",
@@ -6883,14 +7150,17 @@
     "conclusion": "⚪ 非狙击范围（光伏行业β向下），观察池",
     "sniperPrice": "—（非狙击区）",
     "sniperNote": "保留观察，不在狙击靶区，不给狙击价",
-    "fairValue": null
+    "fairValue": null,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "科瑞技术",
     "code": "002957",
     "price": 41.31,
     "marketCap": 173.49,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "exchange": "深市主板",
     "sector": "锂电设备+工业自动化",
     "layer": "非狙击",
@@ -6963,7 +7233,10 @@
     "conclusion": "⚪ 非狙击范围（锂电设备景气下行），观察池",
     "sniperPrice": "—（非狙击区）",
     "sniperNote": "保留观察，不在狙击靶区，不给狙击价",
-    "fairValue": null
+    "fairValue": null,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "智光电气",
@@ -7036,10 +7309,13 @@
     "conclusion": "黄灯。两维命中，储能国内见顶+海外未现突破；按系统约定归'非狙击'分类，灯色保留以观察。",
     "price": 12.91,
     "marketCap": 101.05,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "—（非狙击区）",
     "sniperNote": "保留观察，不在狙击靶区，不给狙击价",
-    "fairValue": null
+    "fairValue": null,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   },
   {
     "name": "云南锗业",
@@ -7112,9 +7388,12 @@
     "conclusion": "黄灯。两维命中，锗价反弹驱动但周期性强；按系统约定归'非狙击'（资源股）。",
     "price": 100.08,
     "marketCap": 653.64,
-    "asOf": "2026-08-07",
+    "asOf": "2026-08-10 00:27",
     "sniperPrice": "—（非狙击区）",
     "sniperNote": "保留观察，不在狙击靶区，不给狙击价",
-    "fairValue": null
+    "fairValue": null,
+    "analysisAsOf": "2026-08-07",
+    "quoteUpdatedAt": "2026-08-10T00:27:57+08:00",
+    "quoteProvider": "腾讯行情"
   }
 ]

@@ -1,7 +1,14 @@
 {
-  "quoteProvider": "原始静态快照",
-  "lastPriceUpdate": null,
+  "quoteProvider": "AKShare / 腾讯行情（自动回退）",
+  "lastPriceUpdate": "2026-08-10T00:27:57+08:00",
   "lastNewsUpdate": null,
   "stockCount": 93,
-  "note": "行情脚本尚未首次运行"
+  "note": "行情脚本尚未首次运行",
+  "updatedQuotes": 93,
+  "missingQuotes": [],
+  "hkdCnyRate": 0.92,
+  "warnings": [
+    "A股行情失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+    "港股行情失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  ]
 }
