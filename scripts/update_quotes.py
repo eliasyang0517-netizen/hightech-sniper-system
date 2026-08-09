@@ -5,6 +5,7 @@ from __future__ import annotations
 import json
 import math
 import os
+import re
 import urllib.request
 from datetime import datetime
 from pathlib import Path
@@ -91,6 +92,54 @@ def hk_quotes():
     return result
 
 
+def tencent_symbol(code):
+    text = str(code).upper()
+    if text.endswith(".HK"):
+        return "hk" + normalize_hk_code(text)
+    bare = normalize_a_code(text)
+    if bare.startswith(("4", "8", "92")):
+        return "bj" + bare
+    if bare.startswith(("5", "6", "9")):
+        return "sh" + bare
+    return "sz" + bare
+
+
+def tencent_quotes(stocks):
+    """Tencent's public quote endpoint; used when Eastmoney blocks cloud runners."""
+    symbol_to_code = {tencent_symbol(stock["code"]): str(stock["code"]) for stock in stocks}
+    symbols = list(symbol_to_code)
+    result = {}
+    for offset in range(0, len(symbols), 50):
+        batch = symbols[offset : offset + 50]
+        request = urllib.request.Request(
+            "https://qt.gtimg.cn/q=" + ",".join(batch),
+            headers={
+                "User-Agent": "Mozilla/5.0 (compatible; hightech-sniper-system/1.0)",
+                "Referer": "https://finance.qq.com/",
+            },
+        )
+        with urllib.request.urlopen(request, timeout=20) as response:
+            body = response.read().decode("gb18030", errors="replace")
+        for symbol, payload in re.findall(r'v_([^=]+)="([^"]*)"', body):
+            fields = payload.split("~")
+            if len(fields) < 4:
+                continue
+            price = number(fields[3])
+            if not price or price <= 0:
+                continue
+            total_cap_yi = number(fields[45]) if len(fields) > 45 else None
+            if not total_cap_yi and len(fields) > 44:
+                total_cap_yi = number(fields[44])
+            original_code = symbol_to_code.get(symbol.lower()) or symbol_to_code.get(symbol)
+            if original_code:
+                result[original_code] = {
+                    "price": price,
+                    "marketCapYi": total_cap_yi,
+                    "provider": "腾讯行情",
+                }
+    return result
+
+
 def main():
     stocks = json.loads(DATA_PATH.read_text(encoding="utf-8"))
     now = datetime.now(TZ)
@@ -109,6 +158,12 @@ def main():
         quotes_hk = {}
         failures.append(f"港股行情失败: {exc}")
 
+    try:
+        quotes_tencent = tencent_quotes(stocks)
+    except Exception as exc:
+        quotes_tencent = {}
+        failures.append(f"腾讯行情失败: {exc}")
+
     fx = hkd_cny_rate()
     updated = 0
     missing = []
@@ -117,30 +172,35 @@ def main():
         is_hk = code.upper().endswith(".HK")
         lookup = quotes_hk if is_hk else quotes_a
         key = normalize_hk_code(code) if is_hk else normalize_a_code(code)
-        quote = lookup.get(key)
+        quote = lookup.get(key) or quotes_tencent.get(code)
         if not quote or not quote.get("price"):
             missing.append(code)
             continue
 
         stock.setdefault("analysisAsOf", stock.get("asOf"))
         stock["price"] = round(quote["price"], 3)
+        cap_yi = quote.get("marketCapYi")
         raw_cap = quote.get("marketCap")
-        if raw_cap:
+        if cap_yi:
+            stock["marketCap"] = round(cap_yi * fx if is_hk else cap_yi, 2)
+        elif raw_cap:
             cap_cny = raw_cap * fx if is_hk else raw_cap
             stock["marketCap"] = round(cap_cny / 100_000_000, 2)
         stock["asOf"] = now.strftime("%Y-%m-%d %H:%M")
         stock["quoteUpdatedAt"] = updated_at
-        stock["quoteProvider"] = "AKShare（东方财富行情）"
+        stock["quoteProvider"] = quote.get("provider", "AKShare（东方财富行情）")
         updated += 1
 
     if updated == 0:
+        for failure in failures:
+            print(f"WARNING: {failure}")
         raise RuntimeError("No quotes were updated; refusing to overwrite the data file")
 
     DATA_PATH.write_text(json.dumps(stocks, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     meta = json.loads(META_PATH.read_text(encoding="utf-8")) if META_PATH.exists() else {}
     meta.update(
         {
-            "quoteProvider": "AKShare（东方财富行情）",
+            "quoteProvider": "AKShare / 腾讯行情（自动回退）",
             "lastPriceUpdate": updated_at,
             "stockCount": len(stocks),
             "updatedQuotes": updated,
@@ -157,4 +217,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
