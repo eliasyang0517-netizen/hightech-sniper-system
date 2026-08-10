@@ -332,6 +332,9 @@ def main():
         market.update(
             {
                 "marketCapLocalYi": round(local_cap_yi, 4) if local_cap_yi else None,
+                "floatMarketCapLocalYi": round(quote.get("floatMarketCapYi"), 4)
+                if quote.get("floatMarketCapYi")
+                else None,
                 "marketCapAccepted": bool(local_cap_yi and cap_ok),
                 "fxRateApplied": fx if is_hk else 1.0,
                 "updatedAt": updated_at,
