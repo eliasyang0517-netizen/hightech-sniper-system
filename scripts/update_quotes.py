@@ -311,7 +311,15 @@ def main():
         old_price = stock.get("price")
         old_cap = stock.get("marketCap")
         local_cap_yi = quote.get("marketCapYi")
-        cap_ok = market_cap_is_consistent(old_cap, old_price, local_cap_yi, quote["price"], fx, is_hk)
+        cap_ok = market_cap_is_consistent(
+            old_cap,
+            old_price,
+            local_cap_yi,
+            quote["price"],
+            fx,
+            is_hk,
+            quote.get("floatMarketCapYi"),
+        )
 
         stock.setdefault("analysisAsOf", stock.get("asOf"))
         stock["price"] = round(quote["price"], 3)
