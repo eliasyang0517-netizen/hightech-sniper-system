@@ -3,8 +3,8 @@ name: Update stock quotes
 on:
   workflow_dispatch:
   schedule:
-    # 09:00-15:59 Asia/Shanghai, weekdays. GitHub cron uses UTC.
-    - cron: "*/15 1-7 * * 1-5"
+    # 09:00-15:00 Asia/Shanghai, hourly on weekdays. GitHub cron uses UTC.
+    - cron: "0 1-7 * * 1-5"
 
 permissions:
   contents: write
