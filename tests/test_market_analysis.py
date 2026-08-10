@@ -35,6 +35,19 @@ class MarketAnalysisTests(unittest.TestCase):
         self.assertTrue(market_cap_is_consistent(7539, 1199.93, 7539, 1199.93, 1.0, False))
         self.assertFalse(market_cap_is_consistent(7539, 1199.93, 75390000, 1199.93, 1.0, False))
 
+    def test_market_cap_guard_allows_float_to_total_migration(self):
+        self.assertTrue(
+            market_cap_is_consistent(
+                584.2,
+                77.74,
+                752.81,
+                78.87,
+                1.0,
+                False,
+                new_float_cap_local_yi=587.03,
+            )
+        )
+
     def test_parse_tencent_a_share_fields(self):
         fields = [""] * 60
         for index, value in {
