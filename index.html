@@ -39,7 +39,8 @@ header p{margin:6px 0 0;font-size:13px;opacity:.92}
 .panel{display:none;margin-top:14px}
 .panel.active{display:block}
 table{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--line);border-radius:10px}
-#mtable{min-width:0}
+#p-master{overflow-x:auto}
+#mtable{min-width:2100px}
 th,td{padding:8px 10px;text-align:left;border-bottom:1px solid var(--line);font-size:12.5px;vertical-align:top;word-break:break-word}
 th{background:#eef2f7;color:#3a4654;font-weight:700;white-space:nowrap;border-bottom:2px solid var(--line)}
 thead th{position:sticky;top:var(--cluster-h,166px);z-index:7;background:#eef2f7}
@@ -79,6 +80,20 @@ tbody tr:hover{background:#f9fbff}
 .note{font-size:12px;color:var(--muted);background:var(--chip);border-radius:6px;padding:6px 9px;margin-top:4px}
 .rl-warn{font-size:12px;background:var(--red-bg);color:var(--red);border-radius:6px;padding:6px 9px;margin-top:6px}
 .concl{font-size:13px;font-weight:600;margin-top:8px;border-left:3px solid var(--blue);padding-left:9px}
+.market-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(135px,1fr));gap:6px;margin-top:8px}
+.market-item{background:#f7f9fc;border:1px solid var(--line);border-radius:7px;padding:6px 8px;font-size:11.5px;color:var(--muted)}
+.market-item b{display:block;color:var(--ink);font-size:12.5px}
+.auto-analysis{margin-top:9px;padding:8px 10px;border-radius:8px;background:var(--blue-bg);border:1px solid #cddcfa;font-size:12px}
+.auto-analysis .signal{font-weight:800;color:var(--blue);margin-right:6px}
+.auto-analysis small{display:block;color:var(--muted);margin-top:3px}
+.original-conclusion{margin-top:9px}
+.original-conclusion .label{font-size:11px;color:var(--muted);font-weight:600}
+.change-up{color:var(--red);font-weight:700}
+.change-down{color:var(--green);font-weight:700}
+.change-flat{color:var(--muted);font-weight:700}
+.validation-ok{color:var(--green);font-weight:700}
+.validation-single{color:var(--amber);font-weight:700}
+.validation-bad{color:var(--red);font-weight:700}
 .news-panel{margin-top:12px;border-top:1px solid var(--line);padding-top:10px}
 .news-panel h4{margin:0 0 6px;font-size:13px;color:var(--blue)}
 .news-list{margin:0;padding:0;list-style:none}
@@ -172,7 +187,8 @@ tbody tr:hover{background:#f9fbff}
       <h4>④ 排序与数据口径</h4>
       <ul>
         <li>排序：总表与各层级面板均按「绿灯→黄灯→红灯」分组，同组内按当前市值降序。</li>
-        <li>数据：研究Agent抓取的最新行情（asOf 见各标的；港股折算为亿元RMB），为模型推演、非实时报价，交易前请以券商行情复核。本系统不构成投资建议。</li>
+        <li>数据：GitHub Actions 每 15 分钟抓取腾讯公开行情，并在 AKShare/东方财富可用时做双源校验；港股市值按动态 HKD/CNY 汇率折算。免费行情会延迟，交易前请以券商行情复核。</li>
+        <li>自动市场分析只比较现价、当日涨跌、原研究狙击区间、合理中枢和红线状态，<b>不会改写</b> S1–S5、灯色、狙击价与原始基本面结论。</li>
         <li>交互：总表点击<b>股票名称或代码</b>（或各层级卡片标题）即可弹出该标的完整 SOP 详细分析。</li>
       </ul>
     </div>
@@ -226,7 +242,8 @@ tbody tr:hover{background:#f9fbff}
         <th>#</th><th>名称</th><th>代码</th><th>层级</th><th>板块</th>
         <th>S1</th><th>S2</th><th>S3</th><th>S4</th><th>S5</th>
         <th>命中</th><th>灯色</th><th>阶段</th><th>PEG</th><th>红线</th>
-        <th>当前市值(亿)</th><th>当前股价</th><th>狙击价</th><th>合理中枢</th><th>狙击区间</th><th>结论</th>
+        <th>当前市值(亿)</th><th>当前股价</th><th>当日涨跌</th><th>狙击价</th><th>合理中枢</th><th>狙击区间</th>
+        <th>行情校验</th><th>自动市场分析</th><th>原始基本面结论</th>
       </tr></thead>
       <tbody id="mtbody"></tbody>
     </table>
@@ -244,7 +261,8 @@ tbody tr:hover{background:#f9fbff}
     <b>说明</b><br>
     <span class="k">· 排序：总表与各层级面板均按「绿灯 → 黄灯 → 红灯」分组，同组内按总市值降序。</span>
     <span class="k">· 狙击价＝建仓区间（非单点）：取一致预期EPS与预期增速g算隐含PEG，合理中枢＝现价×clamp(目标PEG÷隐含PEG,0.4,1.5)；目标PEG随增速分段（g≥25%→1.2、15–25%→1.5、&lt;15%→2.0）；绿灯区间=[中枢×0.90,中枢×1.00]、黄灯=[中枢×0.82,中枢×0.95]；狙击价上限另受现价×1.3 锁（防极端增速建仓带过宽）；下限=底仓触发价、上限=右侧加仓确认价；跌破下限不左侧摊平。红灯/非狙击区不给出；触发红线显示「控仓观望」；PEG/增速缺失退化为现价折扣（绿灯0.80–0.90、黄灯0.70–0.85）。</span>
-    <span class="k">· 市值/现价：研究 Agent 抓取的最新行情（截至各标的 asOf，港股已折算为亿元 RMB），为模型推演用，非实时报价，交易前请以券商行情复核。</span>
+    <span class="k">· 市值/现价：工作日盘中约每 15 分钟自动更新；腾讯行情为可用主源，AKShare/东方财富可用时做双源校验；港股按动态汇率折算为亿元 RMB。</span>
+    <span class="k">· 自动市场分析是行情层提示，不是新的基本面研究；原始 S1–S5、红线、狙击价与结论单独保留且不会被定时任务覆盖。</span>
     <span class="k">· 本系统为个人投资框架推演，不构成任何投资建议。</span>
   </div>
 </div>
@@ -273,6 +291,38 @@ function sortList(arr){
 function fmtCap(v){ return v==null ? "—" : Number(v).toLocaleString("zh-CN",{maximumFractionDigits:1}); }
 function priceCur(code){ return String(code).endsWith(".HK") ? "HK$" : "¥"; }
 function fmtFair(d){ return (d.fairValue==null) ? "—" : priceCur(d.code)+Number(d.fairValue).toLocaleString("zh-CN",{maximumFractionDigits:2}); }
+function fmtNum(v,digits=2){
+  return v==null || Number.isNaN(Number(v)) ? "—" : Number(v).toLocaleString("zh-CN",{maximumFractionDigits:digits});
+}
+function changeClass(v){ return Number(v)>0 ? "change-up" : Number(v)<0 ? "change-down" : "change-flat"; }
+function fmtChange(d){
+  const v=d.market&&d.market.changePct;
+  return v==null ? "—" : '<span class="'+changeClass(v)+'">'+(Number(v)>0?"+":"")+fmtNum(v,2)+'%</span>';
+}
+function validationHtml(d){
+  const m=d.market||{};
+  if(m.validationStatus==="dual-source") return '<span class="validation-ok" title="腾讯与东方财富价格差 '+fmtNum(m.sourceDifferencePct,3)+'%">✓ 双源一致</span>';
+  if(m.validationStatus==="single-source") return '<span class="validation-single" title="当前只有一个公开行情源可用">△ 单源有效</span>';
+  return '<span class="validation-bad">— 未校验</span>';
+}
+function autoAnalysisHtml(d,compact=false){
+  const a=d.autoAnalysis||{};
+  if(!a.signal) return '<span class="zone-na">等待自动任务生成</span>';
+  if(compact) return '<span class="signal">'+esc(a.signal)+'</span><br>'+esc(a.summary||"");
+  return '<div class="auto-analysis"><span class="signal">自动市场分析 · '+esc(a.signal)+'</span>'+esc(a.summary||"")+
+    '<small>依据：'+esc(a.basis||"")+' ｜ 生成：'+esc(formatDataTime(a.generatedAt))+'</small></div>';
+}
+function marketDetailsHtml(d){
+  const m=d.market||{};
+  return '<div class="market-grid">'+
+    '<div class="market-item">当日涨跌<b class="'+changeClass(m.changePct)+'">'+(m.changePct==null?'—':(Number(m.changePct)>0?'+':'')+fmtNum(m.changePct,2)+'%')+'</b></div>'+ 
+    '<div class="market-item">开 / 高 / 低<b>'+fmtNum(m.open,3)+' / '+fmtNum(m.high,3)+' / '+fmtNum(m.low,3)+'</b></div>'+ 
+    '<div class="market-item">PE / PB<b>'+fmtNum(m.pe,2)+' / '+fmtNum(m.pb,2)+'</b></div>'+ 
+    '<div class="market-item">换手率<b>'+(m.turnoverRate==null?'—':fmtNum(m.turnoverRate,2)+'%')+'</b></div>'+ 
+    '<div class="market-item">行情时间<b>'+esc(formatDataTime(m.quoteTime))+'</b></div>'+ 
+    '<div class="market-item">数据校验<b>'+validationHtml(d)+'</b></div>'+ 
+    '</div>';
+}
 const lightBadge = l => l==="绿灯" ? '<span class="badge b-green">绿灯</span>'
   : l==="黄灯" ? '<span class="badge b-amber">黄灯</span>'
   : '<span class="badge b-red">红灯</span>';
@@ -357,17 +407,20 @@ function renderMaster(q){
       '<td data-label="灯色">'+lightBadge(s0.light)+'</td>'+
       '<td data-label="阶段">'+esc(d.step2.stage)+'</td>'+
       '<td data-label="PEG">'+esc(d.step2.peg||"")+'</td>'+
-      '<td data-label="红线">'+redlineBadge(d.redline)+'</td>'+
-      '<td data-label="当前市值(亿)">'+fmtCap(d.marketCap)+'</td>'+
-      '<td data-label="当前股价">'+priceCur(d.code)+esc(d.price==null?"—":d.price)+'</td>'+
-      '<td class="sniper" data-label="狙击价">'+esc(d.sniperPrice||"—")+'</td>'+
-      '<td data-label="合理中枢">'+fmtFair(d)+'</td>'+
-      '<td class="'+(zoneStatus(d).cls)+'" data-label="狙击区间">'+zoneStatus(d).label+'</td>'+
-      '<td data-label="结论">'+esc(d.conclusion||"")+'</td>'+
+      '<td data-label="红线">'+redlineBadge(d.redline)+'</td>'+ 
+      '<td data-label="当前市值(亿)">'+fmtCap(d.marketCap)+'</td>'+ 
+      '<td data-label="当前股价">'+priceCur(d.code)+esc(d.price==null?"—":d.price)+'</td>'+ 
+      '<td data-label="当日涨跌">'+fmtChange(d)+'</td>'+ 
+      '<td class="sniper" data-label="狙击价">'+esc(d.sniperPrice||"—")+'</td>'+ 
+      '<td data-label="合理中枢">'+fmtFair(d)+'</td>'+ 
+      '<td class="'+(zoneStatus(d).cls)+'" data-label="狙击区间">'+zoneStatus(d).label+'</td>'+ 
+      '<td data-label="行情校验">'+validationHtml(d)+'</td>'+ 
+      '<td data-label="自动市场分析">'+autoAnalysisHtml(d,true)+'</td>'+ 
+      '<td data-label="原始基本面结论">'+esc(d.conclusion||"")+'</td>'+ 
       '</tr>';
     cards += card(d, true);
   });
-  tb.innerHTML = rows || '<tr><td colspan="21" class="empty">无匹配结果</td></tr>';
+  tb.innerHTML = rows || '<tr><td colspan="24" class="empty">无匹配结果</td></tr>';
   mc.innerHTML = cards || '<div class="empty">无匹配结果</div>';
 }
 
@@ -390,9 +443,11 @@ function card(d, clickable){
     '<h3'+h3attr+'>'+d.name+' <span class="badge b-blue">'+d.layer+'</span> '+lightBadge(s0.light)+
       ' <span class="badge b-gray">'+s0.hitCount+'/5</span></h3>'+
     '<div class="meta">'+d.code+' · '+d.exchange+' · '+d.sector+' · 阶段 '+d.step2.stage+
-      ' · PEG '+(d.step2.peg||"—")+'</div>'+
-    '<div class="mkt">现价 <b>'+priceCur(d.code)+esc(d.price==null?"—":d.price)+'</b> ｜ 合理中枢 <b>'+fmtFair(d)+'</b> ｜ 当前市值 <b>'+fmtCap(d.marketCap)+' 亿</b> ｜ 狙击价 <b class="sniper">'+esc(d.sniperPrice||"—")+'</b></div>'+
-    '<div class="note">狙击逻辑：'+esc(d.sniperNote||"")+'</div>'+
+      ' · PEG '+(d.step2.peg||"—")+'</div>'+ 
+    '<div class="mkt">现价 <b>'+priceCur(d.code)+esc(d.price==null?"—":d.price)+'</b> ｜ 合理中枢 <b>'+fmtFair(d)+'</b> ｜ 当前市值 <b>'+fmtCap(d.marketCap)+' 亿</b> ｜ 狙击价 <b class="sniper">'+esc(d.sniperPrice||"—")+'</b></div>'+ 
+    marketDetailsHtml(d)+
+    autoAnalysisHtml(d)+
+    '<div class="note">狙击逻辑：'+esc(d.sniperNote||"")+'</div>'+ 
     '<div class="dim">'+dims+'</div>'+
     '<div class="sec"><div class="t">步骤1 · L层次</div>'+
       '<div class="kv"><b>角色：</b>'+esc(d.step1.role||"")+'</div>'+
@@ -415,7 +470,7 @@ function card(d, clickable){
       '<div class="kv"><b>止损：</b>'+esc(d.step4.stopLoss||"")+'</div>'+
       '<div class="kv"><b>止盈：</b>'+esc(d.step4.takeProfit||"")+'</div></div>'+
     rlHtml+
-    '<div class="concl">'+esc(d.conclusion||"")+'</div>'+
+    '<div class="original-conclusion"><div class="label">原始基本面结论（自动任务不改写）</div><div class="concl">'+esc(d.conclusion||"")+'</div></div>'+ 
     '</div>';
 }
 
@@ -536,13 +591,15 @@ document.getElementById("q").addEventListener("input",e=>{ refreshCurrent(); });
 function updateStats(q){
   const list=DATA.filter(d=>passes(d));
   const lc={}; const rlc=list.filter(d=>d.redline.passed===false).length;
+  const autoCount=list.filter(d=>d.autoAnalysis&&d.autoAnalysis.signal).length;
   list.forEach(d=>{lc[d.step0.light]=(lc[d.step0.light]||0)+1;});
   const s=document.getElementById("stats");
   s.innerHTML='<div class="stat"><b>'+list.length+'</b>只</div>'+
     '<div class="stat">🟢 绿灯 <b>'+(lc["绿灯"]||0)+'</b></div>'+
-    '<div class="stat">🟡 黄灯 <b>'+(lc["黄灯"]||0)+'</b></div>'+
-    '<div class="stat">🔴 红灯 <b>'+(lc["红灯"]||0)+'</b></div>'+
-    '<div class="stat">⚠ 触红线 <b>'+rlc+'</b></div>';
+    '<div class="stat">🟡 黄灯 <b>'+(lc["黄灯"]||0)+'</b></div>'+ 
+    '<div class="stat">🔴 红灯 <b>'+(lc["红灯"]||0)+'</b></div>'+ 
+    '<div class="stat">⚠ 触红线 <b>'+rlc+'</b></div>'+ 
+    '<div class="stat">自动分析 <b>'+autoCount+'</b></div>';
 }
 
 // keep header pinned just below the sticky toolbar+tabs cluster
@@ -582,9 +639,18 @@ function renderDataStatus(){
   const priceTime=formatDataTime(DATA_META.lastPriceUpdate);
   const newsTime=formatDataTime(DATA_META.lastNewsUpdate);
   const provider=DATA_META.quoteProvider||"原始静态快照";
+  const updated=DATA_META.updatedQuotes||0, total=DATA_META.stockCount||DATA.length;
+  const validation=DATA_META.validation||{};
+  const rejected=(validation.rejectedQuotes||[]).length;
+  const stale=validation.staleQuotes||0;
+  const fx=DATA_META.fx||{};
   const cls=DATA_META.lastPriceUpdate ? "live" : "warn";
   el.innerHTML='<span class="'+cls+'">● 行情：'+esc(priceTime)+'</span>'+ 
-    '<span>来源：'+esc(provider)+'</span><span>公告/新闻：'+esc(newsTime)+'</span>'+ 
+    '<span>覆盖：'+updated+'/'+total+'（'+fmtNum(DATA_META.coveragePct,2)+'%）</span>'+ 
+    '<span>校验：双源 '+(validation.dualSourceQuotes||0)+' / 单源 '+(validation.singleSourceQuotes||0)+'</span>'+ 
+    '<span class="'+(rejected||stale?'warn':'live')+'">拒绝 '+rejected+' / 滞后 '+stale+'</span>'+ 
+    '<span>汇率：1 HKD = '+fmtNum(fx.rate||DATA_META.hkdCnyRate,4)+' CNY · '+esc(fx.provider||"未记录")+(fx.isFallback?'（后备）':'')+'</span>'+ 
+    '<span title="'+esc(provider)+'">来源：公开行情</span><span>公告/新闻：'+esc(newsTime)+'</span>'+ 
     '<a href="./legacy/" target="_blank" rel="noopener">查看原始静态版</a>';
 }
 async function loadData(){
