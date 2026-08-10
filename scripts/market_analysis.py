@@ -45,7 +45,7 @@ def parse_tencent_fields(fields, is_hk=False):
         "turnoverAmount": positive(37),
         "turnoverRate": number(at(38)),
         "pe": number(at(39)),
-        "pb": number(at(58 if is_hk else 56)),
+        "pb": number(at(58 if is_hk else 46)),
         "floatMarketCapYi": positive(44),
         "marketCapYi": positive(45),
         "quoteRawTime": at(30),

@@ -53,14 +53,14 @@ class MarketAnalysisTests(unittest.TestCase):
         for index, value in {
             3: "1199.90", 4: "1199.93", 5: "1163.00", 30: "20260810093343",
             31: "-0.03", 32: "-0.00", 33: "1213.00", 34: "1162.00",
-            38: "0.44", 39: "226.25", 44: "136.19", 45: "2917.05", 56: "2.53",
+            38: "0.44", 39: "226.25", 44: "136.19", 45: "2917.05", 46: "55.62",
         }.items():
             fields[index] = value
         quote = parse_tencent_fields(fields)
         self.assertEqual(quote["price"], 1199.9)
         self.assertEqual(quote["floatMarketCapYi"], 136.19)
         self.assertEqual(quote["marketCapYi"], 2917.05)
-        self.assertEqual(quote["pb"], 2.53)
+        self.assertEqual(quote["pb"], 55.62)
         self.assertEqual(quote["currency"], "CNY")
 
     def test_parse_tencent_hk_preopen_zeros(self):
