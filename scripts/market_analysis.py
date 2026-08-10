@@ -53,15 +53,26 @@ def parse_tencent_fields(fields, is_hk=False):
     }
 
 
-def market_cap_is_consistent(old_cap_cny_yi, old_price, new_cap_local_yi, new_price, fx_rate, is_hk):
+def market_cap_is_consistent(
+    old_cap_cny_yi,
+    old_price,
+    new_cap_local_yi,
+    new_price,
+    fx_rate,
+    is_hk,
+    new_float_cap_local_yi=None,
+):
     """Compare implied shares to catch currency/unit mapping errors."""
     values = [number(old_cap_cny_yi), number(old_price), number(new_cap_local_yi), number(new_price)]
     if any(v is None or v <= 0 for v in values):
         return True
     old_cap_local = values[0] / fx_rate if is_hk else values[0]
     old_implied_shares = old_cap_local / values[1]
-    new_implied_shares = values[2] / values[3]
-    return abs(new_implied_shares / old_implied_shares - 1) <= 0.25
+    candidate_shares = [values[2] / values[3]]
+    float_cap = number(new_float_cap_local_yi)
+    if float_cap and float_cap > 0:
+        candidate_shares.append(float_cap / values[3])
+    return any(abs(shares / old_implied_shares - 1) <= 0.25 for shares in candidate_shares)
 
 
 def build_market_analysis(stock, market, generated_at):
