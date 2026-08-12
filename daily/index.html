@@ -12,6 +12,7 @@
   --blue-bg:#eaf1fe; --chip:#eef2f7;
 }
 *{box-sizing:border-box}
+html,body{max-width:100%;overflow-x:clip}
 body{margin:0;font-family:-apple-system,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;
   background:var(--bg);color:var(--ink);font-size:14px;line-height:1.6}
 header{padding:18px 24px;background:linear-gradient(120deg,#1f3a5f,#2f6fed);color:#fff}
@@ -19,7 +20,7 @@ header h1{margin:0;font-size:20px;font-weight:700}
 header p{margin:6px 0 0;font-size:13px;opacity:.92}
 .wrap{max-width:1440px;margin:0 auto;padding:16px}
 .toolbar{padding:12px 0;border-bottom:1px solid var(--line)}
-.topcluster{position:sticky;top:0;z-index:30;background:#f5f7fa;box-shadow:0 2px 6px rgba(0,0,0,.06)}
+.topcluster{position:static;background:transparent}
 .search{width:100%;max-width:420px;padding:9px 12px;border:1px solid var(--line);border-radius:8px;font-size:14px;outline:none}
 .search:focus{border-color:var(--blue)}
 .stats{display:flex;gap:10px;flex-wrap:wrap;margin:10px 0 4px}
@@ -28,9 +29,10 @@ header p{margin:6px 0 0;font-size:13px;opacity:.92}
 .data-status{margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:8px;flex-wrap:wrap;align-items:center}
 .data-status .live{color:var(--green);font-weight:700}
 .data-status .warn{color:var(--amber);font-weight:700}
-.tabs{display:flex;gap:4px;flex-wrap:wrap;border-bottom:2px solid var(--line);margin:14px 0 0}
+.tabs{display:flex;gap:4px;flex-wrap:nowrap;max-width:100%;overflow-x:auto;overflow-y:hidden;
+  border-bottom:2px solid var(--line);margin:14px 0 0;scrollbar-width:thin;-webkit-overflow-scrolling:touch}
 .tab{padding:9px 16px;cursor:pointer;border:none;background:none;font-size:14px;color:var(--muted);
-  border-bottom:2px solid transparent;margin-bottom:-2px;font-weight:600}
+  border-bottom:2px solid transparent;margin-bottom:-2px;font-weight:600;white-space:nowrap;flex:0 0 auto}
 .tab.active{color:var(--blue);border-bottom-color:var(--blue)}
 .subtabs{display:flex;gap:4px;flex-wrap:wrap;margin:12px 0}
 .subtab{padding:5px 11px;cursor:pointer;border:1px solid var(--line);background:var(--card);
@@ -39,11 +41,11 @@ header p{margin:6px 0 0;font-size:13px;opacity:.92}
 .panel{display:none;margin-top:14px}
 .panel.active{display:block}
 table{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--line);border-radius:10px}
-#p-master{overflow-x:auto}
+#p-master{max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
 #mtable{min-width:2100px}
 th,td{padding:8px 10px;text-align:left;border-bottom:1px solid var(--line);font-size:12.5px;vertical-align:top;word-break:break-word}
 th{background:#eef2f7;color:#3a4654;font-weight:700;white-space:nowrap;border-bottom:2px solid var(--line)}
-thead th{position:sticky;top:var(--cluster-h,166px);z-index:7;background:#eef2f7}
+thead th{position:static;background:#eef2f7}
 thead th:first-child{border-top-left-radius:10px}
 thead th:last-child{border-top-right-radius:10px}
 td.sdim{text-align:center}
@@ -52,9 +54,10 @@ td.sniper,.sniper{font-weight:700;color:#b3261e}
 .stock-link:hover{text-decoration:underline}
 .mkt{font-size:12px;color:var(--muted);margin:5px 0 2px}
 .mkt b{color:var(--ink)}
-.foot{margin:18px 0 40px;font-size:12px;color:var(--muted);background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 16px;line-height:1.75}
-.foot b{color:var(--ink)}
-.foot .k{display:inline-block;margin-right:14px;white-space:nowrap}
+.foot{clear:both;margin:24px 0 40px;font-size:12px;color:var(--muted);background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 16px;line-height:1.75}
+.foot b{display:block;color:var(--ink);margin-bottom:4px}
+.foot>br{display:none}
+.foot .k{display:block;max-width:100%;margin:4px 0 0;white-space:normal;overflow-wrap:anywhere;word-break:break-word}
 tbody tr:hover{background:#f9fbff}
 .hit{display:inline-block;width:18px;height:18px;line-height:18px;text-align:center;border-radius:4px;font-size:11px;font-weight:700;margin-right:2px}
 .hit.y{background:var(--green-bg);color:var(--green)}
@@ -107,6 +110,10 @@ tbody tr:hover{background:#f9fbff}
 @media(max-width:820px){
   #mtable{display:none}
   #mcards{display:grid}
+}
+@media(max-width:420px){
+  .grid{grid-template-columns:minmax(0,1fr)}
+  .card{min-width:0}
 }
 .rules{margin:14px 0 4px;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 16px}
 .rules summary{cursor:pointer;font-weight:700;color:var(--blue);font-size:14px;outline:none}
@@ -602,14 +609,6 @@ function updateStats(q){
     '<div class="stat">自动分析 <b>'+autoCount+'</b></div>';
 }
 
-// keep header pinned just below the sticky toolbar+tabs cluster
-function syncClusterH(){
-  const c=document.querySelector('.topcluster');
-  if(c) document.documentElement.style.setProperty('--cluster-h', c.offsetHeight+'px');
-}
-syncClusterH();
-window.addEventListener('resize', syncClusterH);
-
 // ---- filters ----
 document.querySelectorAll("#fbar .fchip[data-f]").forEach(c=>{
   c.onclick=()=>{
@@ -672,7 +671,6 @@ async function init(){
     renderMaster("");
     updateStats("");
     renderDataStatus();
-    syncClusterH();
   }catch(error){
     console.error(error);
     document.getElementById('data-status').innerHTML='<span class="warn">数据加载失败，请稍后刷新。</span> <a href="../legacy/">打开原始静态版</a>';
