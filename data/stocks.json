@@ -70,12 +70,12 @@
     "conclusion": "国产GPU旗手但毛利拐点未现、估值偏高，黄灯限仓观望右侧确认",
     "price": 1140.98,
     "marketCap": 7168.7,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥749.22–868.0",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥913.68）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 913.68,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 1093.0,
@@ -90,8 +90,8 @@
       "pe": 215.14,
       "pb": 52.88,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:59+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:29+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -104,7 +104,7 @@
       "floatMarketCapLocalYi": 7168.7,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -112,7 +112,7 @@
       "dailyChangePct": 4.39,
       "valuationGapPct": -19.92,
       "summary": "高于计划区间；当日涨跌 +4.39%；合理中枢位于现价下方 19.92%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -187,12 +187,12 @@
     "conclusion": "双生态位稳健但毛利拐点缺失，黄灯持有待毛利修复确认",
     "price": 284.05,
     "marketCap": 6602.28,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥124.08–143.75",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥151.32）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 151.32,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 280.99,
@@ -207,8 +207,8 @@
       "pe": 210.14,
       "pb": 26.02,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:38+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:38+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -221,7 +221,7 @@
       "floatMarketCapLocalYi": 6602.28,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -229,7 +229,7 @@
       "dailyChangePct": 1.09,
       "valuationGapPct": -46.73,
       "summary": "高于计划区间；当日涨跌 +1.09%；合理中枢位于现价下方 46.73%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -304,12 +304,12 @@
     "conclusion": "新上市GPU高成长标的，3命中绿灯但盈利未兑现、客户集中，限仓持有",
     "price": 784.85,
     "marketCap": 3140.18,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥262.47–291.63",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥291.63）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 291.63,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 748.0,
@@ -324,8 +324,8 @@
       "pe": -478.85,
       "pb": 23.97,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:39+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:39+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -338,7 +338,7 @@
       "floatMarketCapLocalYi": 145.42,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -346,7 +346,7 @@
       "dailyChangePct": 4.93,
       "valuationGapPct": -62.84,
       "summary": "高于计划区间；当日涨跌 +4.93%；合理中枢位于现价下方 62.84%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -421,12 +421,12 @@
     "conclusion": "全自主CPU信创标的但拐点未确认、持续亏损，红灯低配观望",
     "price": 112.75,
     "marketCap": 452.13,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "不狙击",
     "sniperNote": "0维命中，不符合建仓标准，暂不入池",
     "fairValue": null,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 110.65,
@@ -441,8 +441,8 @@
       "pe": -108.21,
       "pb": 18.85,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:54:00+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:30+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -455,7 +455,7 @@
       "floatMarketCapLocalYi": 452.13,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "观察",
@@ -463,7 +463,7 @@
       "dailyChangePct": 1.9,
       "valuationGapPct": null,
       "summary": "不在自动狙击区；当日涨跌 +1.90%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -538,12 +538,12 @@
     "conclusion": "设备平台型龙头国产化主线清晰，绿灯核心仓持有",
     "price": 760.67,
     "marketCap": 5520.1,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥404.31–449.23",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥449.23）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 449.23,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 738.66,
@@ -558,8 +558,8 @@
       "pe": 99.0,
       "pb": 14.25,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:54+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:54+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -572,7 +572,7 @@
       "floatMarketCapLocalYi": 5515.69,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -580,7 +580,7 @@
       "dailyChangePct": 2.98,
       "valuationGapPct": -40.94,
       "summary": "高于计划区间；当日涨跌 +2.98%；合理中枢位于现价下方 40.94%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -655,12 +655,12 @@
     "conclusion": "高端刻蚀龙头4命中绿灯，订单饱满但盯现金流质量",
     "price": 384.62,
     "marketCap": 3684.05,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥178.4–198.22",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥198.22）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 198.22,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 374.85,
@@ -675,8 +675,8 @@
       "pe": 135.0,
       "pb": 13.36,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:50+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:50+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -689,7 +689,7 @@
       "floatMarketCapLocalYi": 3623.88,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -697,7 +697,7 @@
       "dailyChangePct": 2.61,
       "valuationGapPct": -48.46,
       "summary": "高于计划区间；当日涨跌 +2.61%；合理中枢位于现价下方 48.46%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -772,12 +772,12 @@
     "conclusion": "薄膜沉积龙头4命中绿灯，110亿订单支撑主升",
     "price": 716.49,
     "marketCap": 2082.69,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥248.63–276.26",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥276.26）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 276.26,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 688.2,
@@ -792,8 +792,8 @@
       "pe": 126.66,
       "pb": 17.74,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:57+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:57+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -806,7 +806,7 @@
       "floatMarketCapLocalYi": 2025.47,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -814,7 +814,7 @@
       "dailyChangePct": 4.11,
       "valuationGapPct": -61.44,
       "summary": "高于计划区间；当日涨跌 +4.11%；合理中枢位于现价下方 61.44%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -889,12 +889,12 @@
     "conclusion": "涂胶显影唯一量产4命中绿灯，但扣非亏损限底仓",
     "price": 344.57,
     "marketCap": 695.23,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥111.91–124.35",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥124.35）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 124.35,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 336.8,
@@ -909,8 +909,8 @@
       "pe": 985.38,
       "pb": 24.84,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:54:01+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:31+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -923,7 +923,7 @@
       "floatMarketCapLocalYi": 695.23,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -931,7 +931,7 @@
       "dailyChangePct": 2.31,
       "valuationGapPct": -63.91,
       "summary": "高于计划区间；当日涨跌 +2.31%；合理中枢位于现价下方 63.91%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -1006,12 +1006,12 @@
     "conclusion": "设备零部件国产化3命中绿灯，产能爬坡兑现中",
     "price": 223.22,
     "marketCap": 683.52,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥70.38–78.2",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥78.2）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 78.2,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 209.55,
@@ -1026,8 +1026,8 @@
       "pe": 956.11,
       "pb": 15.13,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:38+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:38+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -1040,7 +1040,7 @@
       "floatMarketCapLocalYi": 683.52,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -1048,7 +1048,7 @@
       "dailyChangePct": 6.52,
       "valuationGapPct": -64.97,
       "summary": "高于计划区间；当日涨跌 +6.52%；合理中枢位于现价下方 64.97%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -1123,12 +1123,12 @@
     "conclusion": "光芯片稀缺龙头5命中满绿，基本面极优但绝对涨幅过大需移动止盈",
     "price": 1586.88,
     "marketCap": 1975.67,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥487.98–542.2",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥542.2）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 542.2,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 1519.0,
@@ -1143,8 +1143,8 @@
       "pe": 554.89,
       "pb": 80.16,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:36+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:36+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -1157,7 +1157,7 @@
       "floatMarketCapLocalYi": 1950.15,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -1165,7 +1165,7 @@
       "dailyChangePct": 4.47,
       "valuationGapPct": -65.83,
       "summary": "高于计划区间；当日涨跌 +4.47%；合理中枢位于现价下方 65.83%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -1240,12 +1240,12 @@
     "conclusion": "光纤一体化龙头4命中绿灯，涨价弹性强但绝对市值已透支需防回撤",
     "price": 365.74,
     "marketCap": 3027.98,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥328.53–365.51",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥365.51）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 365.51,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 355.18,
@@ -1260,8 +1260,8 @@
       "pe": 261.67,
       "pb": 21.28,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:50+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:50+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -1274,7 +1274,7 @@
       "floatMarketCapLocalYi": 1486.14,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -1282,7 +1282,7 @@
       "dailyChangePct": 2.97,
       "valuationGapPct": -0.06,
       "summary": "高于计划区间；当日涨跌 +2.97%；合理中枢位于现价下方 0.06%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -1357,12 +1357,12 @@
     "conclusion": "绿灯龙头戴维斯双击，持有但防PEG透支",
     "price": 960.11,
     "marketCap": 11230.74,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥892.27–1195.83",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥1379.81）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 1379.81,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 943.0,
@@ -1377,8 +1377,8 @@
       "pe": 75.13,
       "pb": 32.42,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:42+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:42+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -1391,7 +1391,7 @@
       "floatMarketCapLocalYi": 10656.64,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "区间内",
@@ -1399,7 +1399,7 @@
       "dailyChangePct": 1.81,
       "valuationGapPct": 43.71,
       "summary": "位于计划区间；当日涨跌 +1.81%；合理中枢位于现价上方 43.71%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -1474,12 +1474,12 @@
     "conclusion": "黄灯，环比承压待1.6T接力",
     "price": 448.46,
     "marketCap": 6252.68,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥408.32–547.24",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥631.42）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 631.42,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 448.08,
@@ -1494,8 +1494,8 @@
       "pe": 58.22,
       "pb": 32.21,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:36+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:36+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -1508,7 +1508,7 @@
       "floatMarketCapLocalYi": 5624.78,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "区间内",
@@ -1516,7 +1516,7 @@
       "dailyChangePct": 0.08,
       "valuationGapPct": 40.8,
       "summary": "位于计划区间；当日涨跌 +0.08%；合理中枢位于现价上方 40.80%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -1591,12 +1591,12 @@
     "conclusion": "绿灯，稳健光器件平台",
     "price": 283.92,
     "marketCap": 3097.07,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥202.44–224.93",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥224.93）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 224.93,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 267.71,
@@ -1611,8 +1611,8 @@
       "pe": 142.6,
       "pb": 56.65,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:33+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:33+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -1625,7 +1625,7 @@
       "floatMarketCapLocalYi": 3090.15,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -1633,7 +1633,7 @@
       "dailyChangePct": 6.06,
       "valuationGapPct": -20.78,
       "summary": "高于计划区间；当日涨跌 +6.06%；合理中枢位于现价下方 20.78%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -1708,12 +1708,12 @@
     "conclusion": "红灯，业绩下滑等MPO兑现",
     "price": 193.8,
     "marketCap": 440.17,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "不狙击",
     "sniperNote": "0维命中，不符合建仓标准，暂不入池",
     "fairValue": null,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 161.5,
@@ -1728,8 +1728,8 @@
       "pe": 145.79,
       "pb": 26.39,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:33+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:33+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -1742,7 +1742,7 @@
       "floatMarketCapLocalYi": 372.47,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "观察",
@@ -1750,7 +1750,7 @@
       "dailyChangePct": 20.0,
       "valuationGapPct": null,
       "summary": "不在自动狙击区；当日涨跌 +20.00%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -1825,12 +1825,12 @@
     "conclusion": "黄灯，先进封装稀缺标的但毛利承压",
     "price": 153.63,
     "marketCap": 2861.78,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥46.2–53.52",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥56.34）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 56.34,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 137.97,
@@ -1845,8 +1845,8 @@
       "pe": 290.37,
       "pb": 14.87,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:48+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:48+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -1859,7 +1859,7 @@
       "floatMarketCapLocalYi": 265.63,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -1867,7 +1867,7 @@
       "dailyChangePct": 11.35,
       "valuationGapPct": -63.33,
       "summary": "高于计划区间；当日涨跌 +11.35%；合理中枢位于现价下方 63.33%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -1942,12 +1942,12 @@
     "conclusion": "黄灯，盈利修复中",
     "price": 82.62,
     "marketCap": 1478.41,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥32.59–37.75",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥39.74）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 39.74,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 78.71,
@@ -1962,8 +1962,8 @@
       "pe": 89.48,
       "pb": 5.17,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:39+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:39+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -1976,7 +1976,7 @@
       "floatMarketCapLocalYi": 1478.41,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -1984,7 +1984,7 @@
       "dailyChangePct": 4.97,
       "valuationGapPct": -51.9,
       "summary": "高于计划区间；当日涨跌 +4.97%；合理中枢位于现价下方 51.90%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -2059,12 +2059,12 @@
     "conclusion": "绿灯，AMD链高弹性但含投资收益",
     "price": 68.66,
     "marketCap": 1041.98,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥30.19–33.54",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥33.54）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 33.54,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 62.96,
@@ -2079,8 +2079,8 @@
       "pe": 72.04,
       "pb": 6.71,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:36+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:36+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -2093,7 +2093,7 @@
       "floatMarketCapLocalYi": 1041.88,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -2101,7 +2101,7 @@
       "dailyChangePct": 9.05,
       "valuationGapPct": -51.15,
       "summary": "高于计划区间；当日涨跌 +9.05%；合理中枢位于现价下方 51.15%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -2176,12 +2176,12 @@
     "conclusion": "黄灯，景气修复温和",
     "price": 41.89,
     "marketCap": 659.5,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥33.82–39.18",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥41.24）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 41.24,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 40.23,
@@ -2196,8 +2196,8 @@
       "pe": 55.01,
       "pb": 5.07,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:12+08:00",
-      "quoteAgeHours": 0.01,
+      "quoteTime": "2026-08-17T12:05:12+08:00",
+      "quoteAgeHours": 0.72,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -2210,7 +2210,7 @@
       "floatMarketCapLocalYi": 659.41,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -2218,7 +2218,7 @@
       "dailyChangePct": 4.13,
       "valuationGapPct": -1.55,
       "summary": "高于计划区间；当日涨跌 +4.13%；合理中枢位于现价下方 1.55%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -2295,12 +2295,12 @@
     "conclusion": "绿灯五维但触发虚假繁荣红线，控仓",
     "price": 418.87,
     "marketCap": 1799.75,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "控仓观望",
     "sniperNote": "触发红线（虚假繁荣），不计狙击价，仅观察/减仓",
     "fairValue": null,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 406.45,
@@ -2315,8 +2315,8 @@
       "pe": 15.02,
       "pb": 8.09,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:21+08:00",
-      "quoteAgeHours": 0.01,
+      "quoteTime": "2026-08-17T12:05:21+08:00",
+      "quoteAgeHours": 0.72,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -2329,7 +2329,7 @@
       "floatMarketCapLocalYi": 1180.59,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "控仓观察",
@@ -2337,7 +2337,7 @@
       "dailyChangePct": 3.06,
       "valuationGapPct": null,
       "summary": "触发红线；当日涨跌 +3.06%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -2414,12 +2414,12 @@
     "conclusion": "绿灯五维但触发虚假繁荣红线，控仓",
     "price": 254.8,
     "marketCap": 1201.55,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "控仓观望",
     "sniperNote": "触发红线（虚假繁荣），不计狙击价，仅观察/减仓",
     "fairValue": null,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 242.0,
@@ -2434,8 +2434,8 @@
       "pe": 30.42,
       "pb": 14.02,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:51+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:51+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -2448,7 +2448,7 @@
       "floatMarketCapLocalYi": 1201.55,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "控仓观察",
@@ -2456,7 +2456,7 @@
       "dailyChangePct": 5.29,
       "valuationGapPct": null,
       "summary": "触发红线；当日涨跌 +5.29%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -2533,12 +2533,12 @@
     "conclusion": "绿灯五维但触发虚假繁荣红线，控仓",
     "price": 433.2,
     "marketCap": 982.68,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "控仓观望",
     "sniperNote": "触发红线（虚假繁荣），不计狙击价，仅观察/减仓",
     "fairValue": null,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 406.19,
@@ -2553,8 +2553,8 @@
       "pe": 23.95,
       "pb": 14.84,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:36+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:36+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -2567,7 +2567,7 @@
       "floatMarketCapLocalYi": 714.91,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "控仓观察",
@@ -2575,7 +2575,7 @@
       "dailyChangePct": 6.65,
       "valuationGapPct": null,
       "summary": "触发红线；当日涨跌 +6.65%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -2650,12 +2650,12 @@
     "conclusion": "黄灯，分销低毛利但回款强",
     "price": 168.39,
     "marketCap": 790.66,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥153.93–184.72",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥194.44）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 194.44,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 161.03,
@@ -2670,8 +2670,8 @@
       "pe": 42.62,
       "pb": 16.15,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:12+08:00",
-      "quoteAgeHours": 0.01,
+      "quoteTime": "2026-08-17T12:05:12+08:00",
+      "quoteAgeHours": 0.72,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -2684,7 +2684,7 @@
       "floatMarketCapLocalYi": 757.82,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "区间内",
@@ -2692,7 +2692,7 @@
       "dailyChangePct": 4.57,
       "valuationGapPct": 15.47,
       "summary": "位于计划区间；当日涨跌 +4.57%；合理中枢位于现价上方 15.47%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -2767,12 +2767,12 @@
     "conclusion": "绿灯，国产DRAM IDM龙头，AI+国产替代双轮，但mega-cap周期股，仓位从严",
     "price": 60.15,
     "marketCap": 40228.85,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥50.91–68.22",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥78.72）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 78.72,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 55.18,
@@ -2787,8 +2787,8 @@
       "pe": 142.68,
       "pb": 28.87,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:38+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:38+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -2801,7 +2801,7 @@
       "floatMarketCapLocalYi": 2708.58,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "区间内",
@@ -2809,7 +2809,7 @@
       "dailyChangePct": 9.01,
       "valuationGapPct": 30.87,
       "summary": "位于计划区间；当日涨跌 +9.01%；合理中枢位于现价上方 30.87%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -2818,7 +2818,7 @@
     "code": "600487",
     "price": 64.35,
     "marketCap": 1587.12,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "exchange": "沪市主板",
     "sector": "光纤光缆+海洋通信",
     "layer": "L1",
@@ -2891,7 +2891,7 @@
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥88.83）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 88.83,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 62.98,
@@ -2906,8 +2906,8 @@
       "pe": 49.15,
       "pb": 5.0,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:40+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:40+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -2920,7 +2920,7 @@
       "floatMarketCapLocalYi": 1578.92,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "区间内",
@@ -2928,7 +2928,7 @@
       "dailyChangePct": 2.18,
       "valuationGapPct": 38.04,
       "summary": "位于计划区间；当日涨跌 +2.18%；合理中枢位于现价上方 38.04%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -2937,7 +2937,7 @@
     "code": "600522",
     "price": 35.54,
     "marketCap": 1212.96,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "exchange": "沪市主板",
     "sector": "通信光缆+海洋系统",
     "layer": "L1",
@@ -3010,7 +3010,7 @@
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥50.51）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 50.51,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 35.55,
@@ -3025,8 +3025,8 @@
       "pe": 37.98,
       "pb": 3.27,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:36+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:36+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -3039,7 +3039,7 @@
       "floatMarketCapLocalYi": 1212.96,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "区间内",
@@ -3047,7 +3047,7 @@
       "dailyChangePct": -0.03,
       "valuationGapPct": 42.12,
       "summary": "位于计划区间；当日涨跌 -0.03%；合理中枢位于现价上方 42.12%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -3122,12 +3122,12 @@
     "conclusion": "黄灯。12英寸硅片放量带来拐点，但毛利率绝对值低、现金流弱，属高赔率左侧标的，需验证良率与盈利持续性。",
     "price": 45.92,
     "marketCap": 354.59,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥27.63–32.02",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥33.7）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 33.7,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 44.85,
@@ -3142,8 +3142,8 @@
       "pe": 517.25,
       "pb": 3.31,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:56+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:56+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -3156,7 +3156,7 @@
       "floatMarketCapLocalYi": 354.59,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -3164,7 +3164,7 @@
       "dailyChangePct": 2.39,
       "valuationGapPct": -26.61,
       "summary": "高于计划区间；当日涨跌 +2.39%；合理中枢位于现价下方 26.61%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -3239,12 +3239,12 @@
     "conclusion": "黄灯。平台化与HBM前驱体逻辑扎实，但整体营收承压、现金流转负，需等前驱体稼动率与光刻胶放量兑现。",
     "price": 158.0,
     "marketCap": 751.97,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥98.26–113.84",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥119.83）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 119.83,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 151.22,
@@ -3259,8 +3259,8 @@
       "pe": 74.69,
       "pb": 9.45,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:21+08:00",
-      "quoteAgeHours": 0.01,
+      "quoteTime": "2026-08-17T12:05:21+08:00",
+      "quoteAgeHours": 0.72,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -3273,7 +3273,7 @@
       "floatMarketCapLocalYi": 503.27,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -3281,7 +3281,7 @@
       "dailyChangePct": 4.48,
       "valuationGapPct": -24.16,
       "summary": "高于计划区间；当日涨跌 +4.48%；合理中枢位于现价下方 24.16%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -3356,12 +3356,12 @@
     "conclusion": "绿灯。五维命中4项，CMP抛光垫龙头加速兑现，经营杠杆与现金流健康，属半导体材料核心持仓。",
     "price": 81.68,
     "marketCap": 779.63,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥57.66–64.07",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥64.07）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 64.07,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 76.14,
@@ -3376,8 +3376,8 @@
       "pe": 93.91,
       "pb": 14.53,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:54:00+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:00+08:00",
+      "quoteAgeHours": 0.72,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -3390,7 +3390,7 @@
       "floatMarketCapLocalYi": 607.94,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -3398,7 +3398,7 @@
       "dailyChangePct": 7.28,
       "valuationGapPct": -21.56,
       "summary": "高于计划区间；当日涨跌 +7.28%；合理中枢位于现价下方 21.56%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -3473,12 +3473,12 @@
     "conclusion": "黄灯。质地优异、现金流好，但毛利率微降、PEG偏高，属需要等估值消化的高质量标的。",
     "price": 257.62,
     "marketCap": 588.29,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥151.99–176.08",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥185.35）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 185.35,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 248.2,
@@ -3493,8 +3493,8 @@
       "pe": 71.53,
       "pb": 12.96,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:54:00+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:30+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -3507,7 +3507,7 @@
       "floatMarketCapLocalYi": 588.29,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -3515,7 +3515,7 @@
       "dailyChangePct": 3.8,
       "valuationGapPct": -28.05,
       "summary": "高于计划区间；当日涨跌 +3.80%；合理中枢位于现价下方 28.05%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -3590,12 +3590,12 @@
     "conclusion": "绿灯。五维命中4项，平台型材料加速兑现、盈利质量改善，属高确定性成长标的。",
     "price": 101.62,
     "marketCap": 318.46,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥61.22–68.02",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥68.02）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 68.02,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 93.95,
@@ -3610,8 +3610,8 @@
       "pe": 90.17,
       "pb": 6.83,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:42+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:42+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -3624,7 +3624,7 @@
       "floatMarketCapLocalYi": 283.06,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -3632,7 +3632,7 @@
       "dailyChangePct": 8.16,
       "valuationGapPct": -33.06,
       "summary": "高于计划区间；当日涨跌 +8.16%；合理中枢位于现价下方 33.06%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -3707,12 +3707,12 @@
     "conclusion": "绿灯。五维命中4项，低PEG+半导体耗材稀缺性，安全边际高；唯一隐患是经营现金流为负需跟踪。",
     "price": 49.61,
     "marketCap": 639.97,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥47.62–63.82",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥73.64）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 73.64,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 48.7,
@@ -3727,8 +3727,8 @@
       "pe": 40.82,
       "pb": 3.54,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:43+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:43+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -3741,7 +3741,7 @@
       "floatMarketCapLocalYi": 532.1,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "区间内",
@@ -3749,7 +3749,7 @@
       "dailyChangePct": 1.87,
       "valuationGapPct": 48.44,
       "summary": "位于计划区间；当日涨跌 +1.87%；合理中枢位于现价上方 48.44%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -3824,12 +3824,12 @@
     "conclusion": "绿灯。五维命中4项，AI+涨价双逻辑最强，现金流健康，属PCB/CCL主线核心持仓。",
     "price": 143.51,
     "marketCap": 3485.86,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥125.8–139.78",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥139.78）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 139.78,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 143.21,
@@ -3844,8 +3844,8 @@
       "pe": 67.11,
       "pb": 18.84,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:37+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:37+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -3858,7 +3858,7 @@
       "floatMarketCapLocalYi": 3461.1,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -3866,7 +3866,7 @@
       "dailyChangePct": 0.21,
       "valuationGapPct": -2.6,
       "summary": "高于计划区间；当日涨跌 +0.21%；合理中枢位于现价下方 2.60%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -3941,12 +3941,12 @@
     "conclusion": "绿灯。五维全中，AI算力CCL弹性最大；唯一隐患是现金流仍为负、估值预期高，宜分批建仓。",
     "price": 312.36,
     "marketCap": 734.61,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥177.39–197.1",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥197.1）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 197.1,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 309.0,
@@ -3961,8 +3961,8 @@
       "pe": 198.9,
       "pb": 26.09,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:41+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:41+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -3975,7 +3975,7 @@
       "floatMarketCapLocalYi": 734.61,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -3983,7 +3983,7 @@
       "dailyChangePct": 1.09,
       "valuationGapPct": -36.9,
       "summary": "高于计划区间；当日涨跌 +1.09%；合理中枢位于现价下方 36.90%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -4058,12 +4058,12 @@
     "conclusion": "绿灯。五维命中4项，AI PCB龙头订单可见度最高、定价权最强，属主线核心持仓。",
     "price": 122.77,
     "marketCap": 2362.54,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥122.09–163.63",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥176.18）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 176.18,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 121.27,
@@ -4078,8 +4078,8 @@
       "pe": 54.92,
       "pb": 14.93,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:06+08:00",
-      "quoteAgeHours": 0.01,
+      "quoteTime": "2026-08-17T12:05:06+08:00",
+      "quoteAgeHours": 0.72,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -4092,7 +4092,7 @@
       "floatMarketCapLocalYi": 2360.63,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "区间内",
@@ -4100,7 +4100,7 @@
       "dailyChangePct": 1.24,
       "valuationGapPct": 43.5,
       "summary": "位于计划区间；当日涨跌 +1.24%；合理中枢位于现价上方 43.50%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -4175,12 +4175,12 @@
     "conclusion": "绿灯。五维命中4项，AI PCB+IC载板双主线，盈利结构优化，属稳健成长核心持仓。",
     "price": 381.1,
     "marketCap": 2595.93,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥271.3–301.44",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥301.44）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 301.44,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 378.0,
@@ -4195,8 +4195,8 @@
       "pe": 71.42,
       "pb": 15.78,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:24+08:00",
-      "quoteAgeHours": 0.01,
+      "quoteTime": "2026-08-17T12:05:24+08:00",
+      "quoteAgeHours": 0.72,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -4209,7 +4209,7 @@
       "floatMarketCapLocalYi": 2533.59,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -4217,7 +4217,7 @@
       "dailyChangePct": 0.82,
       "valuationGapPct": -20.9,
       "summary": "高于计划区间；当日涨跌 +0.82%；合理中枢位于现价下方 20.90%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -4292,12 +4292,12 @@
     "conclusion": "绿灯。五维命中4项，全球AI PCB龙头、现金流最强，属主线核心持仓（S2未达仅因增速略低于30%）。",
     "price": 270.0,
     "marketCap": 2653.52,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥271.79–364.26",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥420.3）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 420.3,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 269.33,
@@ -4312,8 +4312,8 @@
       "pe": 56.7,
       "pb": 16.94,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:03+08:00",
-      "quoteAgeHours": 0.01,
+      "quoteTime": "2026-08-17T12:05:03+08:00",
+      "quoteAgeHours": 0.72,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -4326,7 +4326,7 @@
       "floatMarketCapLocalYi": 2336.03,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "等待确认",
@@ -4334,7 +4334,7 @@
       "dailyChangePct": 0.25,
       "valuationGapPct": 55.67,
       "summary": "低于计划区间；当日涨跌 +0.25%；合理中枢位于现价上方 55.67%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -4409,12 +4409,12 @@
     "conclusion": "黄灯。13只中基本面最弱，毛利下滑、净利负增；仅有高端AI/光模块前瞻逻辑，宜小仓观察等待反转确认。",
     "price": 94.17,
     "marketCap": 942.83,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥90.77–105.16",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥110.7）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 110.7,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 98.01,
@@ -4429,8 +4429,8 @@
       "pe": 82.79,
       "pb": 7.09,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:57+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:57+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -4443,7 +4443,7 @@
       "floatMarketCapLocalYi": 924.67,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "区间内",
@@ -4451,7 +4451,7 @@
       "dailyChangePct": -3.92,
       "valuationGapPct": 17.55,
       "summary": "位于计划区间；当日涨跌 -3.92%；合理中枢位于现价上方 17.55%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -4526,12 +4526,12 @@
     "conclusion": "绿灯。五维命中4项，光模块并表带来高弹性；但PCB基本盘盈利走弱、估值偏高，需区分光模块与PCB两块质量。",
     "price": 214.23,
     "marketCap": 3923.85,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥189.41–253.85",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥292.91）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 292.91,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 205.19,
@@ -4546,8 +4546,8 @@
       "pe": 192.34,
       "pb": 17.33,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:09+08:00",
-      "quoteAgeHours": 0.01,
+      "quoteTime": "2026-08-17T12:05:09+08:00",
+      "quoteAgeHours": 0.72,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -4560,7 +4560,7 @@
       "floatMarketCapLocalYi": 2969.92,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "区间内",
@@ -4568,7 +4568,7 @@
       "dailyChangePct": 4.41,
       "valuationGapPct": 36.73,
       "summary": "位于计划区间；当日涨跌 +4.41%；合理中枢位于现价上方 36.73%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -4577,7 +4577,7 @@
     "code": "601231",
     "price": 28.6,
     "marketCap": 683.24,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "exchange": "沪市主板",
     "sector": "SiP系统级封装",
     "layer": "L1",
@@ -4650,7 +4650,7 @@
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥41.41）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 41.41,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 27.59,
@@ -4665,8 +4665,8 @@
       "pe": 33.53,
       "pb": 3.05,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:46+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:46+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -4679,7 +4679,7 @@
       "floatMarketCapLocalYi": 683.24,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "区间内",
@@ -4687,7 +4687,7 @@
       "dailyChangePct": 3.66,
       "valuationGapPct": 44.79,
       "summary": "位于计划区间；当日涨跌 +3.66%；合理中枢位于现价上方 44.79%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -4696,7 +4696,7 @@
     "code": "002436",
     "price": 36.79,
     "marketCap": 625.31,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "exchange": "深市主板",
     "sector": "PCB/IC载板",
     "layer": "L1",
@@ -4769,7 +4769,7 @@
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥19.8）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 19.8,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 34.82,
@@ -4784,8 +4784,8 @@
       "pe": 433.29,
       "pb": 11.83,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:54:03+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:03+08:00",
+      "quoteAgeHours": 0.72,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -4798,7 +4798,7 @@
       "floatMarketCapLocalYi": 558.45,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -4806,7 +4806,7 @@
       "dailyChangePct": 5.66,
       "valuationGapPct": -46.18,
       "summary": "高于计划区间；当日涨跌 +5.66%；合理中枢位于现价下方 46.18%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -4815,7 +4815,7 @@
     "code": "601208",
     "price": 48.86,
     "marketCap": 493.58,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "exchange": "沪市主板",
     "sector": "电子材料/光学膜",
     "layer": "L1",
@@ -4888,7 +4888,7 @@
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥36.29）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 36.29,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 47.71,
@@ -4903,8 +4903,8 @@
       "pe": 129.75,
       "pb": 8.18,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:54+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:54+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -4917,7 +4917,7 @@
       "floatMarketCapLocalYi": 493.58,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -4925,7 +4925,7 @@
       "dailyChangePct": 2.41,
       "valuationGapPct": -25.73,
       "summary": "高于计划区间；当日涨跌 +2.41%；合理中枢位于现价下方 25.73%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -5000,12 +5000,12 @@
     "conclusion": "黄灯。三维命中，国产导热界面材料弹性大，但 SiP 突破尚未量产验证；修正后 g=78% 远低于市场乐观口径，需警惕 g 失真。",
     "price": 118.69,
     "marketCap": 138.03,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥99.42–130.71",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥137.59）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 137.59,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 119.8,
@@ -5020,8 +5020,8 @@
       "pe": 199.86,
       "pb": 8.96,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:12+08:00",
-      "quoteAgeHours": 0.01,
+      "quoteTime": "2026-08-17T12:05:12+08:00",
+      "quoteAgeHours": 0.72,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -5034,7 +5034,7 @@
       "floatMarketCapLocalYi": 82.59,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "区间内",
@@ -5042,7 +5042,7 @@
       "dailyChangePct": -0.93,
       "valuationGapPct": 15.92,
       "summary": "位于计划区间；当日涨跌 -0.93%；合理中枢位于现价上方 15.92%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -5117,12 +5117,12 @@
     "conclusion": "黄灯。三维命中，TGV 是好赛道但量产时间窗不明确；当前 PE 极高（400+），PEG 失效，建议以 '量产事件驱动' 替代纯 PEG 框架。",
     "price": 104.49,
     "marketCap": 234.85,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥31.18–36.13",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥38.03）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 38.03,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 94.99,
@@ -5137,8 +5137,8 @@
       "pe": -126.67,
       "pb": 22.23,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:43+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:43+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -5151,7 +5151,7 @@
       "floatMarketCapLocalYi": 234.77,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -5159,7 +5159,7 @@
       "dailyChangePct": 10.0,
       "valuationGapPct": -63.6,
       "summary": "高于计划区间；当日涨跌 +10.00%；合理中枢位于现价下方 63.60%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -5234,12 +5234,12 @@
     "conclusion": "黄灯。两维命中，电子特气国产替代是好赛道，但亏损+小盘+PEG 失效，需 PS 锚定；建议 5% 仓位上限。",
     "price": 29.96,
     "marketCap": 442.59,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥9.44–10.93",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥11.51）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 11.51,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 29.5,
@@ -5254,8 +5254,8 @@
       "pe": -4145.6,
       "pb": 14.67,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:57+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:57+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -5268,7 +5268,7 @@
       "floatMarketCapLocalYi": 176.56,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -5276,7 +5276,7 @@
       "dailyChangePct": 1.56,
       "valuationGapPct": -61.58,
       "summary": "高于计划区间；当日涨跌 +1.56%；合理中枢位于现价下方 61.58%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -5351,12 +5351,12 @@
     "conclusion": "黄灯。三维命中，国产微电子焊接材料替代是好赛道；PEG 失真需配合 PE 锚定。",
     "price": 119.3,
     "marketCap": 217.67,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥39.24–45.46",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥47.85）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 47.85,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 115.12,
@@ -5371,8 +5371,8 @@
       "pe": 245.42,
       "pb": 18.1,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:06+08:00",
-      "quoteAgeHours": 0.01,
+      "quoteTime": "2026-08-17T12:05:06+08:00",
+      "quoteAgeHours": 0.72,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -5385,7 +5385,7 @@
       "floatMarketCapLocalYi": 164.05,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -5393,7 +5393,7 @@
       "dailyChangePct": 3.63,
       "valuationGapPct": -59.89,
       "summary": "高于计划区间；当日涨跌 +3.63%；合理中枢位于现价下方 59.89%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -5468,12 +5468,12 @@
     "conclusion": "黄灯。三维命中，国产溅射靶材是好赛道；PEG 失真需 PS 锚定。",
     "price": 55.86,
     "marketCap": 472.88,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥15.8–18.31",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥19.27）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 19.27,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 50.78,
@@ -5488,8 +5488,8 @@
       "pe": 148.71,
       "pb": 10.85,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:47+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:47+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -5502,7 +5502,7 @@
       "floatMarketCapLocalYi": 472.88,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -5510,7 +5510,7 @@
       "dailyChangePct": 10.0,
       "valuationGapPct": -65.5,
       "summary": "高于计划区间；当日涨跌 +10.00%；合理中枢位于现价下方 65.50%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -5583,51 +5583,51 @@
       "note": "现金流健康，无红线触发"
     },
     "conclusion": "黄灯。三维命中，港股 CCL 龙头稳健增长；PEG 中性，估值合理。港币汇率波动需关注。",
-    "price": 40.64,
-    "marketCap": 1100.24,
-    "asOf": "2026-08-17 11:53",
+    "price": 40.7,
+    "marketCap": 1101.86,
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "HK$37.21–49.87",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 HK$53.3）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪（港股，单位为港元）",
     "fairValue": 53.3,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 38.6,
       "open": 39.1,
       "high": 41.36,
       "low": 38.9,
-      "change": 2.04,
-      "changePct": 5.28,
-      "volume": 61099269.0,
-      "turnoverAmount": 2478347080.83,
+      "change": 2.1,
+      "changePct": 5.44,
+      "volume": 62586769.0,
+      "turnoverAmount": 2538858678.83,
       "turnoverRate": 0.0,
-      "pe": 52.44,
-      "pb": 7.84,
+      "pe": 52.52,
+      "pb": 7.85,
       "currency": "HKD",
-      "quoteTime": "2026-08-17T11:38:57+08:00",
-      "quoteAgeHours": 0.25,
+      "quoteTime": "2026-08-17T11:59:59+08:00",
+      "quoteAgeHours": 0.81,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
       "validationLabel": "单源有效",
       "sourcePrices": {
-        "腾讯行情": 40.64
+        "腾讯行情": 40.7
       },
       "sourceDifferencePct": null,
-      "marketCapLocalYi": 1280.7493,
-      "floatMarketCapLocalYi": 1280.7493,
+      "marketCapLocalYi": 1282.6402,
+      "floatMarketCapLocalYi": 1282.6402,
       "marketCapAccepted": true,
       "fxRateApplied": 0.85906,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "区间内",
       "zone": "位于计划区间",
-      "dailyChangePct": 5.28,
-      "valuationGapPct": 31.15,
-      "summary": "位于计划区间；当日涨跌 +5.28%；合理中枢位于现价上方 31.15%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "dailyChangePct": 5.44,
+      "valuationGapPct": 30.96,
+      "summary": "位于计划区间；当日涨跌 +5.44%；合理中枢位于现价上方 30.96%；当前为单一行情源，交易前需用券商复核",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -5702,12 +5702,12 @@
     "conclusion": "黄灯。四维命中（仅指引缺失），MLCC 国产化龙头；现价 PEG 偏高但 EPS 置信度高，建议金字塔分批建仓。",
     "price": 71.96,
     "marketCap": 717.48,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥23.25–26.93",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥28.35）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 28.35,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 70.96,
@@ -5722,8 +5722,8 @@
       "pe": 111.87,
       "pb": 9.79,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:30+08:00",
-      "quoteAgeHours": 0.01,
+      "quoteTime": "2026-08-17T12:05:30+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -5736,7 +5736,7 @@
       "floatMarketCapLocalYi": 613.87,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -5744,7 +5744,7 @@
       "dailyChangePct": 1.41,
       "valuationGapPct": -60.6,
       "summary": "高于计划区间；当日涨跌 +1.41%；合理中枢位于现价下方 60.60%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -5819,12 +5819,12 @@
     "conclusion": "黄灯（1维命中），成熟期阶段，金字塔建仓：待Q1利空消化、",
     "price": 57.95,
     "marketCap": 738.49,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥53.14–61.56",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥64.8）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 64.8,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 57.09,
@@ -5839,8 +5839,8 @@
       "pe": 153.03,
       "pb": 22.41,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:27+08:00",
-      "quoteAgeHours": 0.01,
+      "quoteTime": "2026-08-17T12:05:27+08:00",
+      "quoteAgeHours": 0.72,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -5853,7 +5853,7 @@
       "floatMarketCapLocalYi": 655.1,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "区间内",
@@ -5861,7 +5861,7 @@
       "dailyChangePct": 1.51,
       "valuationGapPct": 11.82,
       "summary": "位于计划区间；当日涨跌 +1.51%；合理中枢位于现价上方 11.82%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -5936,12 +5936,12 @@
     "conclusion": "黄灯（1维命中），成熟期阶段，金字塔：跟踪订单交付兑现",
     "price": 98.14,
     "marketCap": 367.32,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥68.43–79.28",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥83.45）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 83.45,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 92.6,
@@ -5956,8 +5956,8 @@
       "pe": 192.37,
       "pb": 13.58,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:48+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:48+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -5970,7 +5970,7 @@
       "floatMarketCapLocalYi": 277.56,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -5978,7 +5978,7 @@
       "dailyChangePct": 5.98,
       "valuationGapPct": -14.97,
       "summary": "高于计划区间；当日涨跌 +5.98%；合理中枢位于现价下方 14.97%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -6053,12 +6053,12 @@
     "conclusion": "黄灯（1维命中），成熟期阶段，小仓位观察",
     "price": 40.9,
     "marketCap": 72.51,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥37.39–50.11",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥57.82）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 57.82,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 39.84,
@@ -6073,8 +6073,8 @@
       "pe": 321.77,
       "pb": 11.82,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:54:06+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:06+08:00",
+      "quoteAgeHours": 0.72,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -6087,7 +6087,7 @@
       "floatMarketCapLocalYi": 68.81,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "区间内",
@@ -6095,7 +6095,7 @@
       "dailyChangePct": 2.66,
       "valuationGapPct": 41.37,
       "summary": "位于计划区间；当日涨跌 +2.66%；合理中枢位于现价上方 41.37%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -6170,12 +6170,12 @@
     "conclusion": "绿灯（4维命中），拐点期阶段，金字塔建仓，回调加仓",
     "price": 218.47,
     "marketCap": 2666.51,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥137.19–152.43",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥152.43）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 152.43,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 211.91,
@@ -6190,8 +6190,8 @@
       "pe": 104.26,
       "pb": 13.23,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:39+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:39+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -6204,7 +6204,7 @@
       "floatMarketCapLocalYi": 2500.97,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -6212,7 +6212,7 @@
       "dailyChangePct": 3.1,
       "valuationGapPct": -30.23,
       "summary": "高于计划区间；当日涨跌 +3.10%；合理中枢位于现价下方 30.23%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -6287,12 +6287,12 @@
     "conclusion": "绿灯（5维命中），拐点期阶段，金字塔建仓",
     "price": 438.48,
     "marketCap": 3077.01,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥219.56–243.95",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥243.95）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 243.95,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 417.48,
@@ -6307,8 +6307,8 @@
       "pe": 107.04,
       "pb": 12.43,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:54:01+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:31+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -6321,7 +6321,7 @@
       "floatMarketCapLocalYi": 2931.2,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -6329,7 +6329,7 @@
       "dailyChangePct": 5.03,
       "valuationGapPct": -44.36,
       "summary": "高于计划区间；当日涨跌 +5.03%；合理中枢位于现价下方 44.36%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -6404,12 +6404,12 @@
     "conclusion": "黄灯（1维命中），成熟期阶段，金字塔，分批",
     "price": 33.83,
     "marketCap": 562.96,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥19.07–22.1",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥23.26）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 23.26,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 32.75,
@@ -6424,8 +6424,8 @@
       "pe": 122.7,
       "pb": 4.67,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:54:02+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:32+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -6438,7 +6438,7 @@
       "floatMarketCapLocalYi": 562.96,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -6446,7 +6446,7 @@
       "dailyChangePct": 3.3,
       "valuationGapPct": -31.24,
       "summary": "高于计划区间；当日涨跌 +3.30%；合理中枢位于现价下方 31.24%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -6521,12 +6521,12 @@
     "conclusion": "黄灯（2维命中），主升期阶段，金字塔，等Q2验证",
     "price": 144.45,
     "marketCap": 1608.65,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥77.43–89.71",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥94.43）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 94.43,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 143.9,
@@ -6541,8 +6541,8 @@
       "pe": 171.42,
       "pb": 30.14,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:54+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:54+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -6555,7 +6555,7 @@
       "floatMarketCapLocalYi": 1608.65,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -6563,7 +6563,7 @@
       "dailyChangePct": 0.38,
       "valuationGapPct": -34.63,
       "summary": "高于计划区间；当日涨跌 +0.38%；合理中枢位于现价下方 34.63%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -6638,12 +6638,12 @@
     "conclusion": "黄灯（1维命中），成熟期阶段，观察，等毛利拐点",
     "price": 35.26,
     "marketCap": 1686.67,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥33.66–44.55",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥46.89）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 46.89,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 35.05,
@@ -6658,8 +6658,8 @@
       "pe": 37.69,
       "pb": 2.26,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:21+08:00",
-      "quoteAgeHours": 0.01,
+      "quoteTime": "2026-08-17T12:05:21+08:00",
+      "quoteAgeHours": 0.72,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -6672,7 +6672,7 @@
       "floatMarketCapLocalYi": 1420.14,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "区间内",
@@ -6680,7 +6680,7 @@
       "dailyChangePct": 0.6,
       "valuationGapPct": 32.98,
       "summary": "位于计划区间；当日涨跌 +0.60%；合理中枢位于现价上方 32.98%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -6755,12 +6755,12 @@
     "conclusion": "黄灯（2维命中），主升期阶段，金字塔，分批",
     "price": 133.81,
     "marketCap": 782.8,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥61.02–70.69",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥74.41）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 74.41,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 131.4,
@@ -6775,8 +6775,8 @@
       "pe": 511.02,
       "pb": 8.74,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:48+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:48+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -6789,7 +6789,7 @@
       "floatMarketCapLocalYi": 657.93,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -6797,7 +6797,7 @@
       "dailyChangePct": 1.83,
       "valuationGapPct": -44.39,
       "summary": "高于计划区间；当日涨跌 +1.83%；合理中枢位于现价下方 44.39%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -6872,12 +6872,12 @@
     "conclusion": "黄灯（1维命中），成熟期阶段，谨慎小仓",
     "price": 34.7,
     "marketCap": 161.06,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥31.98–42.86",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥49.45）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 49.45,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 34.44,
@@ -6892,8 +6892,8 @@
       "pe": 36.22,
       "pb": 2.95,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:54:02+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:32+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -6906,7 +6906,7 @@
       "floatMarketCapLocalYi": 160.39,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "区间内",
@@ -6914,7 +6914,7 @@
       "dailyChangePct": 0.75,
       "valuationGapPct": 42.51,
       "summary": "位于计划区间；当日涨跌 +0.75%；合理中枢位于现价上方 42.51%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -6989,12 +6989,12 @@
     "conclusion": "绿灯（4维命中），拐点期阶段，金字塔建仓",
     "price": 417.56,
     "marketCap": 396.89,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥307.69–341.88",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥341.88）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 341.88,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 404.31,
@@ -7009,8 +7009,8 @@
       "pe": 116.59,
       "pb": 17.11,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:54:04+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:34+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -7023,7 +7023,7 @@
       "floatMarketCapLocalYi": 396.89,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -7031,7 +7031,7 @@
       "dailyChangePct": 3.28,
       "valuationGapPct": -18.12,
       "summary": "高于计划区间；当日涨跌 +3.28%；合理中枢位于现价下方 18.12%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -7106,12 +7106,12 @@
     "conclusion": "绿灯（5维命中），拐点期阶段，金字塔建仓",
     "price": 99.35,
     "marketCap": 1022.91,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥96.76–129.68",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥149.62）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 149.62,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 99.0,
@@ -7126,8 +7126,8 @@
       "pe": 51.46,
       "pb": 4.76,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:27+08:00",
-      "quoteAgeHours": 0.01,
+      "quoteTime": "2026-08-17T12:05:27+08:00",
+      "quoteAgeHours": 0.72,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -7140,7 +7140,7 @@
       "floatMarketCapLocalYi": 950.51,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "区间内",
@@ -7148,7 +7148,7 @@
       "dailyChangePct": 0.35,
       "valuationGapPct": 50.6,
       "summary": "位于计划区间；当日涨跌 +0.35%；合理中枢位于现价上方 50.60%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -7223,12 +7223,12 @@
     "conclusion": "黄灯（2维命中），主升期阶段，金字塔，关注毛利",
     "price": 112.23,
     "marketCap": 1128.48,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥64.75–75.01",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥78.96）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 78.96,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 109.79,
@@ -7243,8 +7243,8 @@
       "pe": 66.41,
       "pb": 9.87,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:21+08:00",
-      "quoteAgeHours": 0.01,
+      "quoteTime": "2026-08-17T12:05:21+08:00",
+      "quoteAgeHours": 0.72,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -7257,7 +7257,7 @@
       "floatMarketCapLocalYi": 1127.9,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -7265,7 +7265,7 @@
       "dailyChangePct": 2.22,
       "valuationGapPct": -29.64,
       "summary": "高于计划区间；当日涨跌 +2.22%；合理中枢位于现价下方 29.64%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -7340,12 +7340,12 @@
     "conclusion": "绿灯（4维命中），主升期阶段，金字塔建仓",
     "price": 37.83,
     "marketCap": 312.03,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥37.54–50.31",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥58.05）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 58.05,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 38.0,
@@ -7360,8 +7360,8 @@
       "pe": 22.89,
       "pb": 3.69,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:54+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:54+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -7374,7 +7374,7 @@
       "floatMarketCapLocalYi": 312.03,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "区间内",
@@ -7382,7 +7382,7 @@
       "dailyChangePct": -0.45,
       "valuationGapPct": 53.45,
       "summary": "位于计划区间；当日涨跌 -0.45%；合理中枢位于现价上方 53.45%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -7457,12 +7457,12 @@
     "conclusion": "黄灯（1维命中），成熟期阶段，价值底仓",
     "price": 21.01,
     "marketCap": 1061.59,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥20.69–27.73",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥31.99）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 31.99,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 20.87,
@@ -7477,8 +7477,8 @@
       "pe": 17.21,
       "pb": 1.51,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:47+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:47+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -7491,7 +7491,7 @@
       "floatMarketCapLocalYi": 1061.59,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "区间内",
@@ -7499,7 +7499,7 @@
       "dailyChangePct": 0.67,
       "valuationGapPct": 52.26,
       "summary": "位于计划区间；当日涨跌 +0.67%；合理中枢位于现价上方 52.26%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -7574,12 +7574,12 @@
     "conclusion": "黄灯（2维命中），成熟期阶段，等特高压交付信号",
     "price": 22.16,
     "marketCap": 225.73,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥22.08–29.59",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥34.14）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 34.14,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 22.03,
@@ -7594,8 +7594,8 @@
       "pe": 21.08,
       "pb": 1.87,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:36+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:36+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -7608,7 +7608,7 @@
       "floatMarketCapLocalYi": 224.94,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "区间内",
@@ -7616,7 +7616,7 @@
       "dailyChangePct": 0.59,
       "valuationGapPct": 54.06,
       "summary": "位于计划区间；当日涨跌 +0.59%；合理中枢位于现价上方 54.06%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -7625,7 +7625,7 @@
     "code": "002222",
     "price": 66.6,
     "marketCap": 313.19,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "exchange": "深市主板",
     "sector": "非线性光学晶体",
     "layer": "L1",
@@ -7698,7 +7698,7 @@
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥39.06）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 39.06,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 64.96,
@@ -7713,8 +7713,8 @@
       "pe": 106.56,
       "pb": 17.58,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:54:00+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:00+08:00",
+      "quoteAgeHours": 0.72,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -7727,7 +7727,7 @@
       "floatMarketCapLocalYi": 311.79,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -7735,7 +7735,7 @@
       "dailyChangePct": 2.52,
       "valuationGapPct": -41.35,
       "summary": "高于计划区间；当日涨跌 +2.52%；合理中枢位于现价下方 41.35%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -7810,12 +7810,12 @@
     "conclusion": "稳健成长型绿灯标的，适合底仓配置，确定性高但弹性有限。",
     "price": 23.46,
     "marketCap": 1884.25,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥23.4–29.28",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥29.28）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 29.28,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 23.23,
@@ -7830,8 +7830,8 @@
       "pe": 22.65,
       "pb": 3.79,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:54+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:54+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -7844,7 +7844,7 @@
       "floatMarketCapLocalYi": 1878.72,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "区间内",
@@ -7852,7 +7852,7 @@
       "dailyChangePct": 0.99,
       "valuationGapPct": 24.81,
       "summary": "位于计划区间；当日涨跌 +0.99%；合理中枢位于现价上方 24.81%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -7927,12 +7927,12 @@
     "conclusion": "高景气算力基建绿灯标的，成长性与确定性兼具，注意整体毛利波动。",
     "price": 70.9,
     "marketCap": 1163.5,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥58.32–64.8",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥64.8）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 64.8,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 70.9,
@@ -7947,8 +7947,8 @@
       "pe": 22.37,
       "pb": 8.33,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:45+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:45+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -7961,7 +7961,7 @@
       "floatMarketCapLocalYi": 1160.09,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -7969,7 +7969,7 @@
       "dailyChangePct": 0.0,
       "valuationGapPct": -8.6,
       "summary": "高于计划区间；当日涨跌 +0.00%；合理中枢位于现价下方 8.60%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -8046,12 +8046,12 @@
     "conclusion": "高增但护城河存疑的绿灯标的，仓位上限收紧至15%，重点跟踪算力服务纯度。",
     "price": 263.59,
     "marketCap": 1289.91,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "控仓观望",
     "sniperNote": "触发红线（1伪护城河），不计狙击价，仅观察/减仓",
     "fairValue": null,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 265.99,
@@ -8066,8 +8066,8 @@
       "pe": 49.71,
       "pb": 21.19,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:54:00+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:00+08:00",
+      "quoteAgeHours": 0.72,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -8080,7 +8080,7 @@
       "floatMarketCapLocalYi": 1283.31,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "控仓观察",
@@ -8088,7 +8088,7 @@
       "dailyChangePct": -0.9,
       "valuationGapPct": null,
       "summary": "触发红线；当日涨跌 -0.90%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -8166,12 +8166,12 @@
     "conclusion": "AI代工核心但护城河薄、客户集中，绿灯评分下须严控15%上限并设转单止损。",
     "price": 67.1,
     "marketCap": 13315.39,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "控仓观望",
     "sniperNote": "触发红线（1伪护城河、5客户依赖），不计狙击价，仅观察/减仓",
     "fairValue": null,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 66.19,
@@ -8186,8 +8186,8 @@
       "pe": 28.38,
       "pb": 7.58,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:54:05+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:35+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -8200,7 +8200,7 @@
       "floatMarketCapLocalYi": 13315.39,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "控仓观察",
@@ -8208,7 +8208,7 @@
       "dailyChangePct": 1.37,
       "valuationGapPct": null,
       "summary": "触发红线；当日涨跌 +1.37%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -8286,12 +8286,12 @@
     "conclusion": "黄灯且触发虚假繁荣红线，仅适合小仓事件驱动，严禁逆势补仓。",
     "price": 79.29,
     "marketCap": 1164.36,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "控仓观望",
     "sniperNote": "触发红线（2虚假繁荣、1伪护城河），不计狙击价，仅观察/减仓",
     "fairValue": null,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 78.8,
@@ -8306,8 +8306,8 @@
       "pe": 45.57,
       "pb": 5.23,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:48+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:48+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -8320,7 +8320,7 @@
       "floatMarketCapLocalYi": 1163.05,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "控仓观察",
@@ -8328,7 +8328,7 @@
       "dailyChangePct": 0.62,
       "valuationGapPct": null,
       "summary": "触发红线；当日涨跌 +0.62%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -8405,12 +8405,12 @@
     "conclusion": "平台型绿灯但苹果依赖红线突出，15%上限+地缘止损不可省略。",
     "price": 57.65,
     "marketCap": 4460.85,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "控仓观望",
     "sniperNote": "触发红线（5客户依赖），不计狙击价，仅观察/减仓",
     "fairValue": null,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 56.58,
@@ -8425,8 +8425,8 @@
       "pe": 25.91,
       "pb": 5.11,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:24+08:00",
-      "quoteAgeHours": 0.01,
+      "quoteTime": "2026-08-17T12:05:24+08:00",
+      "quoteAgeHours": 0.72,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -8439,7 +8439,7 @@
       "floatMarketCapLocalYi": 4222.91,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "控仓观察",
@@ -8447,7 +8447,7 @@
       "dailyChangePct": 1.89,
       "valuationGapPct": null,
       "summary": "触发红线；当日涨跌 +1.89%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -8524,12 +8524,12 @@
     "conclusion": "黄灯+伪护城河警示，转型逻辑待订单验证，仅小仓。",
     "price": 12.8,
     "marketCap": 1039.4,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "控仓观望",
     "sniperNote": "触发红线（1伪护城河），不计狙击价，仅观察/减仓",
     "fairValue": null,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 12.69,
@@ -8544,8 +8544,8 @@
       "pe": 49.16,
       "pb": 4.29,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:27+08:00",
-      "quoteAgeHours": 0.01,
+      "quoteTime": "2026-08-17T12:05:27+08:00",
+      "quoteAgeHours": 0.72,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -8558,7 +8558,7 @@
       "floatMarketCapLocalYi": 921.6,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "控仓观察",
@@ -8566,7 +8566,7 @@
       "dailyChangePct": 0.87,
       "valuationGapPct": null,
       "summary": "触发红线；当日涨跌 +0.87%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -8643,12 +8643,12 @@
     "conclusion": "黄灯+伪护城河，机器人概念弹性大但确定性低，小仓博弈。",
     "price": 27.67,
     "marketCap": 376.69,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "控仓观望",
     "sniperNote": "触发红线（1伪护城河），不计狙击价，仅观察/减仓",
     "fairValue": null,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 27.28,
@@ -8663,8 +8663,8 @@
       "pe": 68.74,
       "pb": 4.52,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:54:03+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:03+08:00",
+      "quoteAgeHours": 0.72,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -8677,7 +8677,7 @@
       "floatMarketCapLocalYi": 375.57,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "控仓观察",
@@ -8685,7 +8685,7 @@
       "dailyChangePct": 1.43,
       "valuationGapPct": null,
       "summary": "触发红线；当日涨跌 +1.43%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -8762,12 +8762,12 @@
     "conclusion": "高弹性绿灯但客户集中红线突出，15%上限+腾讯履约跟踪为核心。",
     "price": 137.48,
     "marketCap": 504.18,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "控仓观望",
     "sniperNote": "触发红线（5客户依赖），不计狙击价，仅观察/减仓",
     "fairValue": null,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 137.5,
@@ -8782,8 +8782,8 @@
       "pe": 94.34,
       "pb": 23.47,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:54:00+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:30+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -8796,7 +8796,7 @@
       "floatMarketCapLocalYi": 495.92,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "控仓观察",
@@ -8804,7 +8804,7 @@
       "dailyChangePct": -0.01,
       "valuationGapPct": null,
       "summary": "触发红线；当日涨跌 -0.01%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -8881,12 +8881,12 @@
     "conclusion": "黄灯，汽零底色+机器人期权，特斯拉依赖与客户集中需重点跟踪。",
     "price": 50.14,
     "marketCap": 871.35,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "控仓观望",
     "sniperNote": "触发红线（5客户依赖），不计狙击价，仅观察/减仓",
     "fairValue": null,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 49.51,
@@ -8901,8 +8901,8 @@
       "pe": 31.51,
       "pb": 3.67,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:59+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:29+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -8915,7 +8915,7 @@
       "floatMarketCapLocalYi": 871.35,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "控仓观察",
@@ -8923,7 +8923,7 @@
       "dailyChangePct": 1.27,
       "valuationGapPct": null,
       "summary": "触发红线；当日涨跌 +1.27%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -8998,12 +8998,12 @@
     "conclusion": "具技术壁垒的绿灯标的，机器人+新能源双主线，适合作为精密制造中优先配置。",
     "price": 38.44,
     "marketCap": 326.74,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥36.76–40.84",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥40.84）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 40.84,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 37.89,
@@ -9018,8 +9018,8 @@
       "pe": 25.74,
       "pb": 3.25,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:57+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:57+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -9032,7 +9032,7 @@
       "floatMarketCapLocalYi": 287.76,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "区间内",
@@ -9040,7 +9040,7 @@
       "dailyChangePct": 1.45,
       "valuationGapPct": 6.24,
       "summary": "位于计划区间；当日涨跌 +1.45%；合理中枢位于现价上方 6.24%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -9115,12 +9115,12 @@
     "conclusion": "黄灯小市值标的，半导体设备壁垒真实但短期承压，仅小仓等待拐点。",
     "price": 71.33,
     "marketCap": 102.72,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥51.27–59.4",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥62.53）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 62.53,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 70.35,
@@ -9135,8 +9135,8 @@
       "pe": 136.58,
       "pb": 5.44,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:45+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:45+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -9149,7 +9149,7 @@
       "floatMarketCapLocalYi": 67.06,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -9157,7 +9157,7 @@
       "dailyChangePct": 1.39,
       "valuationGapPct": -12.34,
       "summary": "高于计划区间；当日涨跌 +1.39%；合理中枢位于现价下方 12.34%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -9232,12 +9232,12 @@
     "conclusion": "黄灯元件龙头，毛利短期承压但AI/车规主线清晰，待修复信号加仓。",
     "price": 53.22,
     "marketCap": 429.12,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥46.39–53.74",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥56.57）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 56.57,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 52.21,
@@ -9252,8 +9252,8 @@
       "pe": 43.69,
       "pb": 6.54,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:27+08:00",
-      "quoteAgeHours": 0.01,
+      "quoteTime": "2026-08-17T12:05:27+08:00",
+      "quoteAgeHours": 0.72,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -9266,7 +9266,7 @@
       "floatMarketCapLocalYi": 407.85,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "区间内",
@@ -9274,7 +9274,7 @@
       "dailyChangePct": 1.93,
       "valuationGapPct": 6.29,
       "summary": "位于计划区间；当日涨跌 +1.93%；合理中枢位于现价上方 6.29%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -9349,12 +9349,12 @@
     "conclusion": "高确定性绿灯龙头，适合底仓，关注Q1现金流异常是否为季节性。",
     "price": 139.02,
     "marketCap": 312.8,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥132.12–157.3",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥157.3）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 157.3,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 135.39,
@@ -9369,8 +9369,8 @@
       "pe": 26.16,
       "pb": 5.41,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:41+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:41+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -9383,7 +9383,7 @@
       "floatMarketCapLocalYi": 312.8,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "区间内",
@@ -9391,7 +9391,7 @@
       "dailyChangePct": 2.68,
       "valuationGapPct": 13.15,
       "summary": "位于计划区间；当日涨跌 +2.68%；合理中枢位于现价上方 13.15%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -9468,12 +9468,12 @@
     "conclusion": "最纯谐波减速器龙头，技术壁垒与产业地位无可争议，但当前估值透支(PEG≈5.8)，按系统纪律列为控仓观望，等回调至合理中枢再狙击。",
     "price": 361.0,
     "marketCap": 661.82,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "控仓观望",
     "sniperNote": "触发红线（3估值透支），不计狙击价，仅观察/减仓",
     "fairValue": null,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 349.93,
@@ -9488,8 +9488,8 @@
       "pe": 483.96,
       "pb": 18.75,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:47+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:47+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -9502,7 +9502,7 @@
       "floatMarketCapLocalYi": 661.82,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "控仓观察",
@@ -9510,7 +9510,7 @@
       "dailyChangePct": 3.16,
       "valuationGapPct": null,
       "summary": "触发红线；当日涨跌 +3.16%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -9587,12 +9587,12 @@
     "conclusion": "灵巧手电机最纯标的之一，先发壁垒真实，但当前估值透支(PEG≈6.0)，列控仓观望，等回调。",
     "price": 52.75,
     "marketCap": 220.96,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "控仓观望",
     "sniperNote": "触发红线（3估值透支），不计狙击价，仅观察/减仓",
     "fairValue": null,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 52.17,
@@ -9607,8 +9607,8 @@
       "pe": 326.11,
       "pb": 7.46,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:45+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:45+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -9621,7 +9621,7 @@
       "floatMarketCapLocalYi": 220.96,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "控仓观察",
@@ -9629,7 +9629,7 @@
       "dailyChangePct": 1.11,
       "valuationGapPct": null,
       "summary": "触发红线；当日涨跌 +1.11%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -9704,12 +9704,12 @@
     "conclusion": "传感器龙头+机器人六维力先发，壁垒真实、毛利高，估值临界(PEG≈2.47)未触红线，适合等回调至¥25附近底仓。",
     "price": 54.07,
     "marketCap": 151.84,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥25.52–28.35",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥28.35）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 28.35,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 53.35,
@@ -9724,8 +9724,8 @@
       "pe": 49.62,
       "pb": 5.65,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:53+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:53+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -9738,7 +9738,7 @@
       "floatMarketCapLocalYi": 151.84,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -9746,7 +9746,7 @@
       "dailyChangePct": 1.35,
       "valuationGapPct": -47.57,
       "summary": "高于计划区间；当日涨跌 +1.35%；合理中枢位于现价下方 47.57%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -9823,12 +9823,12 @@
     "conclusion": "全品类减速器领先+人形机器人关节卡位，产业逻辑正，但估值严重透支(PEG≈9.4)，列控仓观望，等回调。",
     "price": 79.7,
     "marketCap": 156.63,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "控仓观望",
     "sniperNote": "触发红线（3估值透支），不计狙击价，仅观察/减仓",
     "fairValue": null,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 77.56,
@@ -9843,8 +9843,8 @@
       "pe": 277.86,
       "pb": 13.26,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:54:00+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:00+08:00",
+      "quoteAgeHours": 0.72,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -9857,7 +9857,7 @@
       "floatMarketCapLocalYi": 156.63,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "控仓观察",
@@ -9865,7 +9865,7 @@
       "dailyChangePct": 2.76,
       "valuationGapPct": null,
       "summary": "触发红线；当日涨跌 +2.76%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -9940,12 +9940,12 @@
     "conclusion": "微特电机头部+机器人新品批量交付，壁垒真实、估值合理偏高(PEG≈1.8)，黄灯小仓等回调至¥14附近。",
     "price": 27.04,
     "marketCap": 157.18,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "¥13.82–16.01",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 ¥16.85）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪",
     "fairValue": 16.85,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 26.75,
@@ -9960,8 +9960,8 @@
       "pe": 57.99,
       "pb": 4.5,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:54:06+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:06+08:00",
+      "quoteAgeHours": 0.72,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -9974,7 +9974,7 @@
       "floatMarketCapLocalYi": 157.08,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "谨慎追高",
@@ -9982,7 +9982,7 @@
       "dailyChangePct": 1.08,
       "valuationGapPct": -37.68,
       "summary": "高于计划区间；当日涨跌 +1.08%；合理中枢位于现价下方 37.68%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -10055,51 +10055,51 @@
       "note": "适合波段非底仓；重投入致FCF为负属真实CapEx，非虚假繁荣，未触发红线"
     },
     "conclusion": "L2生态平台层，云+AI商业化加速进入验证期，五维全中绿灯，适合波段操作非底仓",
-    "price": 121.7,
-    "marketCap": 20046.99,
-    "asOf": "2026-08-17 11:53",
+    "price": 122.0,
+    "marketCap": 20096.41,
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "HK$120.09–160.94",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 HK$185.7）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪（港股，单位为港元）",
     "fairValue": 185.7,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 119.9,
       "open": 122.0,
       "high": 122.9,
       "low": 120.8,
-      "change": 1.8,
-      "changePct": 1.5,
-      "volume": 21400677.0,
-      "turnoverAmount": 2612859392.8,
+      "change": 2.1,
+      "changePct": 1.75,
+      "volume": 22742584.0,
+      "turnoverAmount": 2776447345.4,
       "turnoverRate": 0.0,
-      "pe": 19.89,
+      "pe": 19.94,
       "pb": 1.95,
       "currency": "HKD",
-      "quoteTime": "2026-08-17T11:38:58+08:00",
-      "quoteAgeHours": 0.25,
+      "quoteTime": "2026-08-17T11:59:59+08:00",
+      "quoteAgeHours": 0.81,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
       "validationLabel": "单源有效",
       "sourcePrices": {
-        "腾讯行情": 121.7
+        "腾讯行情": 122.0
       },
       "sourceDifferencePct": null,
-      "marketCapLocalYi": 23335.9615,
-      "floatMarketCapLocalYi": 23335.9615,
+      "marketCapLocalYi": 23393.4865,
+      "floatMarketCapLocalYi": 23393.4865,
       "marketCapAccepted": true,
       "fxRateApplied": 0.85906,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "区间内",
       "zone": "位于计划区间",
-      "dailyChangePct": 1.5,
-      "valuationGapPct": 52.59,
-      "summary": "位于计划区间；当日涨跌 +1.50%；合理中枢位于现价上方 52.59%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "dailyChangePct": 1.75,
+      "valuationGapPct": 52.21,
+      "summary": "位于计划区间；当日涨跌 +1.75%；合理中枢位于现价上方 52.21%；当前为单一行情源，交易前需用券商复核",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -10174,12 +10174,12 @@
     "conclusion": "L2生态平台层，AI全面赋能核心业务，现金流健康，五维全中绿灯，波段操作",
     "price": 446.6,
     "marketCap": 34924.58,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "HK$464.44–622.44",
     "sniperNote": "建仓区间（一致预期EPS×目标PEG1.2×增速推算合理中枢 HK$718.2）：下限=底仓触发价，上限=右侧加仓确认价；跌破下限不左侧摊平，待证伪（港股，单位为港元）",
     "fairValue": 718.2,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 440.0,
@@ -10188,14 +10188,14 @@
       "low": 442.6,
       "change": 6.6,
       "changePct": 1.5,
-      "volume": 10371157.0,
-      "turnoverAmount": 4622461593.49,
+      "volume": 10781384.0,
+      "turnoverAmount": 4805720368.89,
       "turnoverRate": 0.0,
       "pe": 16.33,
       "pb": 3.11,
       "currency": "HKD",
-      "quoteTime": "2026-08-17T11:38:58+08:00",
-      "quoteAgeHours": 0.25,
+      "quoteTime": "2026-08-17T11:59:59+08:00",
+      "quoteAgeHours": 0.81,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -10208,7 +10208,7 @@
       "floatMarketCapLocalYi": 40654.4076,
       "marketCapAccepted": true,
       "fxRateApplied": 0.85906,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "等待确认",
@@ -10216,7 +10216,7 @@
       "dailyChangePct": 1.5,
       "valuationGapPct": 60.82,
       "summary": "低于计划区间；当日涨跌 +1.50%；合理中枢位于现价上方 60.82%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -10291,12 +10291,12 @@
     "conclusion": "非狙击(动力电池)，全球龙头但按纪律本应出局，用户要求保留；机械打分4命中绿灯，需关注毛利率环比承压与技术颠覆风险",
     "price": 395.46,
     "marketCap": 18296.57,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "—（非狙击区）",
     "sniperNote": "保留观察，不在狙击靶区，不给狙击价",
     "fairValue": null,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 393.93,
@@ -10311,8 +10311,8 @@
       "pe": 21.53,
       "pb": 4.91,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:30+08:00",
-      "quoteAgeHours": 0.01,
+      "quoteTime": "2026-08-17T12:05:30+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -10325,7 +10325,7 @@
       "floatMarketCapLocalYi": 16846.92,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "观察",
@@ -10333,7 +10333,7 @@
       "dailyChangePct": 0.39,
       "valuationGapPct": null,
       "summary": "不在自动狙击区；当日涨跌 +0.39%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -10408,12 +10408,12 @@
     "conclusion": "非狙击(光伏逆变器)，Q1高基数+汇兑致利润承压但环比修复，用户要求保留；机械打分4命中绿灯，需警惕行业产能过剩与海外政策风险",
     "price": 116.77,
     "marketCap": 2420.89,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "—（非狙击区）",
     "sniperNote": "保留观察，不在狙击靶区，不给狙击价",
     "fairValue": null,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 116.72,
@@ -10428,8 +10428,8 @@
       "pe": 20.3,
       "pb": 5.12,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:57+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:04:57+08:00",
+      "quoteAgeHours": 0.72,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -10442,7 +10442,7 @@
       "floatMarketCapLocalYi": 1853.75,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "观察",
@@ -10450,7 +10450,7 @@
       "dailyChangePct": 0.04,
       "valuationGapPct": null,
       "summary": "不在自动狙击区；当日涨跌 +0.04%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -10459,7 +10459,7 @@
     "code": "688503",
     "price": 95.68,
     "marketCap": 231.58,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "exchange": "科创板",
     "sector": "光伏银浆",
     "layer": "非狙击",
@@ -10534,7 +10534,7 @@
     "sniperNote": "保留观察，不在狙击靶区，不给狙击价",
     "fairValue": null,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 79.73,
@@ -10549,8 +10549,8 @@
       "pe": 37.37,
       "pb": 4.45,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:54:03+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:33+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -10563,7 +10563,7 @@
       "floatMarketCapLocalYi": 231.58,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "观察",
@@ -10571,7 +10571,7 @@
       "dailyChangePct": 20.01,
       "valuationGapPct": null,
       "summary": "不在自动狙击区；当日涨跌 +20.01%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -10580,7 +10580,7 @@
     "code": "002957",
     "price": 42.0,
     "marketCap": 176.39,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "exchange": "深市主板",
     "sector": "锂电设备+工业自动化",
     "layer": "非狙击",
@@ -10655,7 +10655,7 @@
     "sniperNote": "保留观察，不在狙击靶区，不给狙击价",
     "fairValue": null,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 41.28,
@@ -10670,8 +10670,8 @@
       "pe": 59.14,
       "pb": 5.5,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:39+08:00",
-      "quoteAgeHours": 0.0,
+      "quoteTime": "2026-08-17T12:05:39+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -10684,7 +10684,7 @@
       "floatMarketCapLocalYi": 175.85,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "观察",
@@ -10692,7 +10692,7 @@
       "dailyChangePct": 1.74,
       "valuationGapPct": null,
       "summary": "不在自动狙击区；当日涨跌 +1.74%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -10767,12 +10767,12 @@
     "conclusion": "黄灯。两维命中，储能国内见顶+海外未现突破；按系统约定归'非狙击'分类，灯色保留以观察。",
     "price": 13.34,
     "marketCap": 104.41,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "—（非狙击区）",
     "sniperNote": "保留观察，不在狙击靶区，不给狙击价",
     "fairValue": null,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 13.23,
@@ -10787,8 +10787,8 @@
       "pe": 53.45,
       "pb": 3.82,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:54+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:54+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -10801,7 +10801,7 @@
       "floatMarketCapLocalYi": 101.21,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "观察",
@@ -10809,7 +10809,7 @@
       "dailyChangePct": 0.83,
       "valuationGapPct": null,
       "summary": "不在自动狙击区；当日涨跌 +0.83%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   },
@@ -10884,12 +10884,12 @@
     "conclusion": "黄灯。两维命中，锗价反弹驱动但周期性强；按系统约定归'非狙击'（资源股）。",
     "price": 107.65,
     "marketCap": 703.08,
-    "asOf": "2026-08-17 11:53",
+    "asOf": "2026-08-17 12:48",
     "sniperPrice": "—（非狙击区）",
     "sniperNote": "保留观察，不在狙击靶区，不给狙击价",
     "fairValue": null,
     "analysisAsOf": "2026-08-07",
-    "quoteUpdatedAt": "2026-08-17T11:53:48+08:00",
+    "quoteUpdatedAt": "2026-08-17T12:48:21+08:00",
     "quoteProvider": "腾讯行情",
     "market": {
       "previousClose": 101.59,
@@ -10904,8 +10904,8 @@
       "pe": 3690.01,
       "pb": 48.07,
       "currency": "CNY",
-      "quoteTime": "2026-08-17T11:53:57+08:00",
-      "quoteAgeHours": -0.0,
+      "quoteTime": "2026-08-17T12:05:57+08:00",
+      "quoteAgeHours": 0.71,
       "stale": false,
       "provider": "腾讯行情",
       "validationStatus": "single-source",
@@ -10918,7 +10918,7 @@
       "floatMarketCapLocalYi": 702.99,
       "marketCapAccepted": true,
       "fxRateApplied": 1.0,
-      "updatedAt": "2026-08-17T11:53:48+08:00"
+      "updatedAt": "2026-08-17T12:48:21+08:00"
     },
     "autoAnalysis": {
       "signal": "观察",
@@ -10926,7 +10926,7 @@
       "dailyChangePct": 5.97,
       "valuationGapPct": null,
       "summary": "不在自动狙击区；当日涨跌 +5.97%；当前为单一行情源，交易前需用券商复核",
-      "generatedAt": "2026-08-17T11:53:48+08:00",
+      "generatedAt": "2026-08-17T12:48:21+08:00",
       "basis": "实时/收盘行情、原研究狙击区间与合理中枢；不自动改写基本面评分"
     }
   }
