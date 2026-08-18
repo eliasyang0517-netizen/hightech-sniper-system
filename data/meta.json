@@ -1,7 +1,7 @@
 {
   "quoteProvider": "腾讯行情；AKShare/东方财富可用时进行双源校验",
   "lastPriceUpdate": "2026-08-18T15:41:39+08:00",
-  "lastNewsUpdate": "2026-08-17T19:01:40+08:00",
+  "lastNewsUpdate": "2026-08-18T19:01:10+08:00",
   "stockCount": 93,
   "note": "自动任务仅更新市场行情与自动市场分析，不改写 S1–S5、红线、狙击价和原始基本面结论。",
   "updatedQuotes": 93,
@@ -13,7 +13,7 @@
   ],
   "newsProvider": "巨潮资讯（A股公告）/ 东方财富（新闻）",
   "newsWarnings": [
-    "603063 公告: Response ended prematurely"
+    "001309 公告: Response ended prematurely"
   ],
   "coveragePct": 100.0,
   "fx": {
