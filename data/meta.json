@@ -1,6 +1,6 @@
 {
   "quoteProvider": "腾讯行情；AKShare/东方财富可用时进行双源校验",
-  "lastPriceUpdate": "2026-08-20T14:53:24+08:00",
+  "lastPriceUpdate": "2026-08-20T15:45:16+08:00",
   "lastNewsUpdate": "2026-08-19T19:00:49+08:00",
   "stockCount": 93,
   "note": "自动任务仅更新市场行情与自动市场分析，不改写 S1–S5、红线、狙击价和原始基本面结论。",
@@ -22,7 +22,7 @@
     "rate": 0.85929,
     "provider": "Frankfurter（欧洲央行参考汇率）",
     "isFallback": false,
-    "checkedAt": "2026-08-20T14:53:24+08:00"
+    "checkedAt": "2026-08-20T15:45:16+08:00"
   },
   "validation": {
     "dualSourceQuotes": 0,
