@@ -1,12 +1,12 @@
 {
   "quoteProvider": "腾讯行情；AKShare/东方财富可用时进行双源校验",
-  "lastPriceUpdate": "2026-09-01T20:28:17+08:00",
+  "lastPriceUpdate": "2026-09-02T13:34:04+08:00",
   "lastNewsUpdate": "2026-09-01T23:11:18+08:00",
   "stockCount": 93,
   "note": "自动任务仅更新市场行情与自动市场分析，不改写 S1–S5、红线、狙击价和原始基本面结论。",
   "updatedQuotes": 93,
   "missingQuotes": [],
-  "hkdCnyRate": 0.85734,
+  "hkdCnyRate": 0.85732,
   "warnings": [
     "A股 AKShare 行情失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
     "港股 AKShare 行情失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
@@ -15,10 +15,10 @@
   "newsWarnings": [],
   "coveragePct": 100.0,
   "fx": {
-    "rate": 0.85734,
+    "rate": 0.85732,
     "provider": "Frankfurter（欧洲央行参考汇率）",
     "isFallback": false,
-    "checkedAt": "2026-09-01T20:28:17+08:00"
+    "checkedAt": "2026-09-02T13:34:04+08:00"
   },
   "validation": {
     "dualSourceQuotes": 0,
