@@ -1,24 +1,24 @@
 {
   "quoteProvider": "腾讯行情；新浪实时；AKShare/东方财富可用时进行三源校验",
-  "lastPriceUpdate": "2026-09-18T20:56:01+08:00",
+  "lastPriceUpdate": "2026-09-21T23:03:48+08:00",
   "lastNewsUpdate": "2026-08-10T00:35:26+08:00",
   "stockCount": 93,
   "note": "自动任务仅更新市场行情与自动市场分析，不改写 S1–S5、红线、狙击价和原始基本面结论。",
   "updatedQuotes": 93,
   "missingQuotes": [],
-  "hkdCnyRate": 0.85498,
+  "hkdCnyRate": 0.85341,
   "warnings": [
-    "A股 AKShare 行情失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+    "A股 AKShare 行情失败: 502 Server Error: Bad Gateway for url: https://82.push2delay.eastmoney.com/api/qt/clist/get?pn=1&pz=100&po=1&np=1&ut=bd1d9ddb04089700cf9c27f6f7426281&fltt=2&invt=2&fid=f12&fs=m%3A0+t%3A6%2Cm%3A0+t%3A80%2Cm%3A1+t%3A2%2Cm%3A1+t%3A23%2Cm%3A0+t%3A81+s%3A2048&fields=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6%2Cf7%2Cf8%2Cf9%2Cf10%2Cf12%2Cf13%2Cf14%2Cf15%2Cf16%2Cf17%2Cf18%2Cf20%2Cf21%2Cf23%2Cf24%2Cf25%2Cf22%2Cf11%2Cf62%2Cf128%2Cf136%2Cf115%2Cf152",
     "港股 AKShare 行情失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   ],
   "newsProvider": "巨潮资讯（A股公告）/ 东方财富（新闻）",
   "newsWarnings": [],
   "coveragePct": 100.0,
   "fx": {
-    "rate": 0.85498,
+    "rate": 0.85341,
     "provider": "Frankfurter（欧洲央行参考汇率）",
     "isFallback": false,
-    "checkedAt": "2026-09-18T20:56:01+08:00"
+    "checkedAt": "2026-09-21T23:03:48+08:00"
   },
   "validation": {
     "dualSourceQuotes": 93,
