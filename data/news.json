@@ -19,6 +19,13 @@
       },
       {
         "type": "news",
+        "title": "16只科创板个股主力资金净流入超亿元",
+        "url": "http://finance.eastmoney.com/a/202609223881286195.html",
+        "publishedAt": "2026-09-22 16:49:00",
+        "source": "证券时报网"
+      },
+      {
+        "type": "news",
         "title": "13只科创板股今日大宗交易平台发生交易",
         "url": "http://finance.eastmoney.com/a/202609213880260484.html",
         "publishedAt": "2026-09-21 21:07:00",
@@ -29,13 +36,6 @@
         "title": "寒武纪688256.SH)：2026年中报净利润为23.11亿元",
         "url": "http://finance.eastmoney.com/a/202608083835805122.html",
         "publishedAt": "2026-08-08 09:56:49",
-        "source": "界面新闻"
-      },
-      {
-        "type": "news",
-        "title": "机构风向标 | 寒武纪6882562026年二季度已披露持股减少机构超200家",
-        "url": "http://finance.eastmoney.com/a/202608083835799492.html",
-        "publishedAt": "2026-08-08 09:39:19",
         "source": "界面新闻"
       }
     ]
@@ -82,6 +82,13 @@
     "news": [
       {
         "type": "news",
+        "title": "海光发布首款嵌入式工控芯片，总裁沙超群：AI要走向真实物理世界",
+        "url": "http://finance.eastmoney.com/a/202609223881336182.html",
+        "publishedAt": "2026-09-22 17:43:02",
+        "source": "时代周报"
+      },
+      {
+        "type": "news",
         "title": "海光信息向401名激励对象授予414万股，授予价90.01元/股",
         "url": "http://finance.eastmoney.com/a/202609213880062095.html",
         "publishedAt": "2026-09-21 16:56:00",
@@ -103,16 +110,9 @@
       },
       {
         "type": "news",
-        "title": "9月21日科创板主力资金净流出3.66亿元",
-        "url": "http://finance.eastmoney.com/a/202609213880098092.html",
-        "publishedAt": "2026-09-21 17:32:00",
-        "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "电子行业9月21日资金流向日报",
-        "url": "http://finance.eastmoney.com/a/202609213880060644.html",
-        "publishedAt": "2026-09-21 16:51:00",
+        "title": "16只科创板个股主力资金净流入超亿元",
+        "url": "http://finance.eastmoney.com/a/202609223881286195.html",
+        "publishedAt": "2026-09-22 16:49:00",
         "source": "证券时报网"
       }
     ]
@@ -201,24 +201,24 @@
       },
       {
         "type": "news",
-        "title": "科创板百元股达107只，联讯仪器股价最高",
-        "url": "http://finance.eastmoney.com/a/202609213880097583.html",
-        "publishedAt": "2026-09-21 17:32:00",
+        "title": "AMD市值首破万亿美元，A股芯片概念集体走强",
+        "url": "http://finance.eastmoney.com/a/202609223881131841.html",
+        "publishedAt": "2026-09-22 13:21:49",
+        "source": "第一财经"
+      },
+      {
+        "type": "news",
+        "title": "109只科创板股票跻身百元股阵营",
+        "url": "http://finance.eastmoney.com/a/202609223881295427.html",
+        "publishedAt": "2026-09-22 16:53:00",
         "source": "证券时报网"
       },
       {
         "type": "news",
-        "title": "MCU芯片概念涨3.29%，主力资金净流入这些股",
-        "url": "http://finance.eastmoney.com/a/202609183878641311.html",
-        "publishedAt": "2026-09-18 16:35:00",
-        "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "科创板百元股达105只，联讯仪器股价最高",
-        "url": "http://finance.eastmoney.com/a/202609183878641886.html",
-        "publishedAt": "2026-09-18 16:35:00",
-        "source": "证券时报网"
+        "title": "【中证快报】9月22日中证投资资讯",
+        "url": "http://finance.eastmoney.com/a/202609223881578464.html",
+        "publishedAt": "2026-09-22 22:49:32",
+        "source": "中国证券报·中证金牛座"
       }
     ]
   },
@@ -593,9 +593,9 @@
       },
       {
         "type": "news",
-        "title": "25股获杠杆资金净买入超亿元",
-        "url": "http://finance.eastmoney.com/a/202609213879557536.html",
-        "publishedAt": "2026-09-21 09:18:00",
+        "title": "29.94亿元资金今日流出电子股",
+        "url": "http://finance.eastmoney.com/a/202609223881296064.html",
+        "publishedAt": "2026-09-22 16:52:00",
         "source": "证券时报网"
       }
     ]
@@ -656,9 +656,9 @@
       },
       {
         "type": "news",
-        "title": "9月18日16只股盘后交易额超千万元",
-        "url": "http://finance.eastmoney.com/a/202609183878637598.html",
-        "publishedAt": "2026-09-18 16:33:00",
+        "title": "通信行业资金流出榜：中际旭创等16股净流出资金超亿元",
+        "url": "http://finance.eastmoney.com/a/202609223881285620.html",
+        "publishedAt": "2026-09-22 16:49:00",
         "source": "证券时报网"
       }
     ]
@@ -859,10 +859,10 @@
       },
       {
         "type": "news",
-        "title": "批量造富！10倍大牛股300394，“五折”股权激励",
-        "url": "http://finance.eastmoney.com/a/202608123839509733.html",
-        "publishedAt": "2026-08-12 23:18:00",
-        "source": "中国基金报"
+        "title": "天孚通信计划动用最高80亿元闲置自有资金开展现金管理",
+        "url": "http://finance.eastmoney.com/a/202609193879191419.html",
+        "publishedAt": "2026-09-19 11:23:06",
+        "source": "央广财经"
       }
     ]
   },
@@ -893,16 +893,16 @@
       },
       {
         "type": "news",
-        "title": "25股获杠杆资金净买入超亿元",
-        "url": "http://finance.eastmoney.com/a/202609213879557536.html",
-        "publishedAt": "2026-09-21 09:18:00",
+        "title": "通信行业资金流出榜：中际旭创等16股净流出资金超亿元",
+        "url": "http://finance.eastmoney.com/a/202609223881285620.html",
+        "publishedAt": "2026-09-22 16:49:00",
         "source": "证券时报网"
       },
       {
         "type": "news",
-        "title": "通信行业今日涨1.32%，主力资金净流入33.63亿元",
-        "url": "http://finance.eastmoney.com/a/202609213880079437.html",
-        "publishedAt": "2026-09-21 16:52:00",
+        "title": "铜缆高速连接概念下跌1.30%，主力资金净流出35股",
+        "url": "http://finance.eastmoney.com/a/202609223881267120.html",
+        "publishedAt": "2026-09-22 16:23:00",
         "source": "证券时报网"
       }
     ]
@@ -956,9 +956,9 @@
       },
       {
         "type": "news",
-        "title": "科创板百元股达107只，联讯仪器股价最高",
-        "url": "http://finance.eastmoney.com/a/202609213880097583.html",
-        "publishedAt": "2026-09-21 17:32:00",
+        "title": "109只科创板股票跻身百元股阵营",
+        "url": "http://finance.eastmoney.com/a/202609223881295427.html",
+        "publishedAt": "2026-09-22 16:53:00",
         "source": "证券时报网"
       }
     ]
@@ -1012,6 +1012,13 @@
       },
       {
         "type": "news",
+        "title": "9月22日盘后固定价格交易额11.43亿元",
+        "url": "http://finance.eastmoney.com/a/202609223881265452.html",
+        "publishedAt": "2026-09-22 16:24:00",
+        "source": "证券时报网"
+      },
+      {
+        "type": "news",
         "title": "9月21日盘后固定价格交易额11.01亿元",
         "url": "http://finance.eastmoney.com/a/202609213880036725.html",
         "publishedAt": "2026-09-21 16:24:00",
@@ -1023,13 +1030,6 @@
         "url": "http://finance.eastmoney.com/a/202609173877067970.html",
         "publishedAt": "2026-09-17 09:52:00",
         "source": "南方财经网"
-      },
-      {
-        "type": "news",
-        "title": "25股获杠杆资金净买入超亿元",
-        "url": "http://finance.eastmoney.com/a/202609213879557536.html",
-        "publishedAt": "2026-09-21 09:18:00",
-        "source": "证券时报网"
       }
     ]
   },
@@ -1089,23 +1089,23 @@
       },
       {
         "type": "news",
-        "title": "9月21日盘后固定价格交易额11.01亿元",
-        "url": "http://finance.eastmoney.com/a/202609213880036725.html",
-        "publishedAt": "2026-09-21 16:24:00",
+        "title": "156只股中线走稳 站上半年线",
+        "url": "http://finance.eastmoney.com/a/202609223881243882.html",
+        "publishedAt": "2026-09-22 15:55:00",
         "source": "证券时报网"
       },
       {
         "type": "news",
-        "title": "9月18日16只股盘后交易额超千万元",
-        "url": "http://finance.eastmoney.com/a/202609183878637598.html",
-        "publishedAt": "2026-09-18 16:33:00",
+        "title": "147只股中线走稳 站上半年线",
+        "url": "http://finance.eastmoney.com/a/202609223881190049.html",
+        "publishedAt": "2026-09-22 14:39:00",
         "source": "证券时报网"
       },
       {
         "type": "news",
-        "title": "国家大基金持股概念涨4.03%，主力资金净流入39股",
-        "url": "http://finance.eastmoney.com/a/202609183878641526.html",
-        "publishedAt": "2026-09-18 16:35:00",
+        "title": "9月22日盘后固定价格交易额11.43亿元",
+        "url": "http://finance.eastmoney.com/a/202609223881265452.html",
+        "publishedAt": "2026-09-22 16:24:00",
         "source": "证券时报网"
       }
     ]
@@ -1159,23 +1159,37 @@
       },
       {
         "type": "news",
-        "title": "深科技：选举周庚申为董事长",
-        "url": "http://finance.eastmoney.com/a/202609093869462962.html",
-        "publishedAt": "2026-09-09 18:51:05",
-        "source": "财联社"
-      },
-      {
-        "type": "news",
         "title": "电子行业资金流入榜：有研新材等74股净流入资金超亿元",
         "url": "http://finance.eastmoney.com/a/202609163876096672.html",
         "publishedAt": "2026-09-16 16:50:00",
         "source": "证券时报网"
+      },
+      {
+        "type": "news",
+        "title": "深科技：选举周庚申为董事长",
+        "url": "http://finance.eastmoney.com/a/202609093869462962.html",
+        "publishedAt": "2026-09-09 18:51:05",
+        "source": "财联社"
       }
     ]
   },
   "301308": {
     "name": "江波龙",
     "announcements": [
+      {
+        "type": "announcement",
+        "title": "关于为子公司提供担保的进展公告",
+        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=301308&announcementId=1225577896&orgId=9900048787&announcementTime=2026-09-22 20:32:10",
+        "publishedAt": "2026-09-22 20:32:10",
+        "source": "巨潮资讯"
+      },
+      {
+        "type": "announcement",
+        "title": "关于子公司为其子公司提供担保的公告",
+        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=301308&announcementId=1225577895&orgId=9900048787&announcementTime=2026-09-22 20:30:28",
+        "publishedAt": "2026-09-22 20:30:28",
+        "source": "巨潮资讯"
+      },
       {
         "type": "announcement",
         "title": "关于股份回购实施结果暨股份变动的公告",
@@ -1195,20 +1209,6 @@
         "title": "H股公告（翌日披露报表）",
         "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=301308&announcementId=1225570657&orgId=9900048787&announcementTime=2026-09-17 19:20:27",
         "publishedAt": "2026-09-17 19:20:27",
-        "source": "巨潮资讯"
-      },
-      {
-        "type": "announcement",
-        "title": "关于为子公司提供担保的进展公告",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=301308&announcementId=1225570305&orgId=9900048787&announcementTime=2026-09-17 18:14:11",
-        "publishedAt": "2026-09-17 18:14:11",
-        "source": "巨潮资讯"
-      },
-      {
-        "type": "announcement",
-        "title": "H股公告（翌日披露报表）",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=301308&announcementId=1225566000&orgId=9900048787&announcementTime=2026-09-15 18:22:10",
-        "publishedAt": "2026-09-15 18:22:10",
         "source": "巨潮资讯"
       }
     ],
@@ -1271,6 +1271,13 @@
     "news": [
       {
         "type": "news",
+        "title": "688525，拟45亿元加码先进封测",
+        "url": "http://finance.eastmoney.com/a/202609223881581032.html",
+        "publishedAt": "2026-09-22 22:53:47",
+        "source": "证券时报"
+      },
+      {
+        "type": "news",
         "title": "佰维存储688525.SH)：2026年中报净利润为71.66亿元",
         "url": "http://finance.eastmoney.com/a/202608253852211378.html",
         "publishedAt": "2026-08-25 09:02:28",
@@ -1278,31 +1285,24 @@
       },
       {
         "type": "news",
-        "title": "9月21日科创板主力资金净流出3.66亿元",
-        "url": "http://finance.eastmoney.com/a/202609213880098092.html",
-        "publishedAt": "2026-09-21 17:32:00",
+        "title": "佰维存储：拟约45亿元投建晶圆级先进封测制造项目三期",
+        "url": "http://finance.eastmoney.com/a/202609223881363948.html",
+        "publishedAt": "2026-09-22 18:38:00",
         "source": "证券时报网"
       },
       {
         "type": "news",
-        "title": "今日120只股长线走稳 站上年线",
-        "url": "http://finance.eastmoney.com/a/202609183878458673.html",
-        "publishedAt": "2026-09-18 12:34:00",
-        "source": "证券时报网"
+        "title": "佰维存储：拟投资45亿元建设晶圆级先进封测制造项目三期",
+        "url": "http://finance.eastmoney.com/a/202609223881344483.html",
+        "publishedAt": "2026-09-22 18:29:39",
+        "source": "财联社"
       },
       {
         "type": "news",
-        "title": "31只科创板个股主力资金净流入超亿元",
-        "url": "http://finance.eastmoney.com/a/202609183878642470.html",
-        "publishedAt": "2026-09-18 16:43:00",
-        "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "国家大基金持股概念涨4.03%，主力资金净流入39股",
-        "url": "http://finance.eastmoney.com/a/202609183878641526.html",
-        "publishedAt": "2026-09-18 16:35:00",
-        "source": "证券时报网"
+        "title": "A股存储龙头，拟45亿元投建晶圆级先进封测制造项目",
+        "url": "http://finance.eastmoney.com/a/202609223881465290.html",
+        "publishedAt": "2026-09-22 21:25:43",
+        "source": "21世纪经济报道"
       }
     ]
   },
@@ -1388,6 +1388,13 @@
     "announcements": [
       {
         "type": "announcement",
+        "title": "关于控股孙公司接受关联方提供担保暨关联交易的进展公告",
+        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=300475&announcementId=1225576949&orgId=9900023854&announcementTime=2026-09-22 17:46:10",
+        "publishedAt": "2026-09-22 17:46:10",
+        "source": "巨潮资讯"
+      },
+      {
+        "type": "announcement",
         "title": "关于为全资子公司提供担保及接受关联方提供担保暨关联交易的进展公告",
         "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=300475&announcementId=1225574904&orgId=9900023854&announcementTime=2026-09-21 18:00:09",
         "publishedAt": "2026-09-21 18:00:09",
@@ -1413,13 +1420,6 @@
         "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=300475&announcementId=1225563493&orgId=9900023854&announcementTime=2026-09-14 18:34:28",
         "publishedAt": "2026-09-14 18:34:28",
         "source": "巨潮资讯"
-      },
-      {
-        "type": "announcement",
-        "title": "2026年第二次临时股东会决议公告",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=300475&announcementId=1225563492&orgId=9900023854&announcementTime=2026-09-14 18:34:28",
-        "publishedAt": "2026-09-14 18:34:28",
-        "source": "巨潮资讯"
       }
     ],
     "news": [
@@ -1429,6 +1429,20 @@
         "url": "http://finance.eastmoney.com/a/202608283857480712.html",
         "publishedAt": "2026-08-28 09:10:30",
         "source": "界面新闻"
+      },
+      {
+        "type": "news",
+        "title": "29.94亿元资金今日流出电子股",
+        "url": "http://finance.eastmoney.com/a/202609223881296064.html",
+        "publishedAt": "2026-09-22 16:52:00",
+        "source": "证券时报网"
+      },
+      {
+        "type": "news",
+        "title": "杠杆资金连续四日加仓创业板股",
+        "url": "http://finance.eastmoney.com/a/202609223880930796.html",
+        "publishedAt": "2026-09-22 09:30:00",
+        "source": "证券时报网"
       },
       {
         "type": "news",
@@ -1442,20 +1456,6 @@
         "title": "创业板公司融资余额五连降 其间累计减少88.64亿元",
         "url": "http://finance.eastmoney.com/a/202609163875671711.html",
         "publishedAt": "2026-09-16 09:32:00",
-        "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "38.04亿元主力资金今日撤离电子板块",
-        "url": "http://finance.eastmoney.com/a/202609143873515813.html",
-        "publishedAt": "2026-09-14 17:37:00",
-        "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "30股特大单净流入资金超2亿元",
-        "url": "http://finance.eastmoney.com/a/202609143873478623.html",
-        "publishedAt": "2026-09-14 16:54:00",
         "source": "证券时报网"
       }
     ]
@@ -1502,9 +1502,9 @@
       },
       {
         "type": "news",
-        "title": "9月21日盘后固定价格交易额11.01亿元",
-        "url": "http://finance.eastmoney.com/a/202609213880036725.html",
-        "publishedAt": "2026-09-21 16:24:00",
+        "title": "9月22日盘后固定价格交易额11.43亿元",
+        "url": "http://finance.eastmoney.com/a/202609223881265452.html",
+        "publishedAt": "2026-09-22 16:24:00",
         "source": "证券时报网"
       }
     ]
@@ -1572,16 +1572,16 @@
       },
       {
         "type": "news",
-        "title": "9月21日盘后固定价格交易额11.01亿元",
-        "url": "http://finance.eastmoney.com/a/202609213880036725.html",
-        "publishedAt": "2026-09-21 16:24:00",
+        "title": "强势股追踪 主力资金连续5日净流入127股",
+        "url": "http://finance.eastmoney.com/a/202609223881296611.html",
+        "publishedAt": "2026-09-22 16:52:00",
         "source": "证券时报网"
       },
       {
         "type": "news",
-        "title": "通信行业今日涨1.32%，主力资金净流入33.63亿元",
-        "url": "http://finance.eastmoney.com/a/202609213880079437.html",
-        "publishedAt": "2026-09-21 16:52:00",
+        "title": "9月22日盘后固定价格交易额11.43亿元",
+        "url": "http://finance.eastmoney.com/a/202609223881265452.html",
+        "publishedAt": "2026-09-22 16:24:00",
         "source": "证券时报网"
       }
     ]
@@ -1606,23 +1606,23 @@
       },
       {
         "type": "news",
+        "title": "壹评级发布中天科技首次评级报告",
+        "url": "http://finance.eastmoney.com/a/202609223881337444.html",
+        "publishedAt": "2026-09-22 17:44:16",
+        "source": "第一财经"
+      },
+      {
+        "type": "news",
+        "title": "9月22日盘后固定价格交易额11.43亿元",
+        "url": "http://finance.eastmoney.com/a/202609223881265452.html",
+        "publishedAt": "2026-09-22 16:24:00",
+        "source": "证券时报网"
+      },
+      {
+        "type": "news",
         "title": "9月21日盘后固定价格交易额11.01亿元",
         "url": "http://finance.eastmoney.com/a/202609213880036725.html",
         "publishedAt": "2026-09-21 16:24:00",
-        "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "通信行业今日涨1.32%，主力资金净流入33.63亿元",
-        "url": "http://finance.eastmoney.com/a/202609213880079437.html",
-        "publishedAt": "2026-09-21 16:52:00",
-        "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "9月18日16只股盘后交易额超千万元",
-        "url": "http://finance.eastmoney.com/a/202609183878637598.html",
-        "publishedAt": "2026-09-18 16:33:00",
         "source": "证券时报网"
       }
     ]
@@ -1851,9 +1851,9 @@
       },
       {
         "type": "news",
-        "title": "中芯国际概念下跌0.25%，主力资金净流出55股",
-        "url": "http://finance.eastmoney.com/a/202609213880061632.html",
-        "publishedAt": "2026-09-21 16:52:00",
+        "title": "强势股追踪 主力资金连续5日净流入127股",
+        "url": "http://finance.eastmoney.com/a/202609223881296611.html",
+        "publishedAt": "2026-09-22 16:52:00",
         "source": "证券时报网"
       }
     ]
@@ -1983,6 +1983,13 @@
       },
       {
         "type": "news",
+        "title": "29.94亿元资金今日流出电子股",
+        "url": "http://finance.eastmoney.com/a/202609223881296064.html",
+        "publishedAt": "2026-09-22 16:52:00",
+        "source": "证券时报网"
+      },
+      {
+        "type": "news",
         "title": "25股获杠杆资金净买入超亿元",
         "url": "http://finance.eastmoney.com/a/202609213879557536.html",
         "publishedAt": "2026-09-21 09:18:00",
@@ -1990,16 +1997,9 @@
       },
       {
         "type": "news",
-        "title": "9月17日盘后固定价格交易额10.57亿元",
-        "url": "http://finance.eastmoney.com/a/202609173877363365.html",
-        "publishedAt": "2026-09-17 16:57:00",
-        "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "19股受融资客青睐，净买入超亿元",
-        "url": "http://finance.eastmoney.com/a/202609183878236941.html",
-        "publishedAt": "2026-09-18 09:30:00",
+        "title": "46股受融资客青睐，净买入超亿元",
+        "url": "http://finance.eastmoney.com/a/202609223880923152.html",
+        "publishedAt": "2026-09-22 09:30:00",
         "source": "证券时报网"
       }
     ]
@@ -2060,6 +2060,13 @@
       },
       {
         "type": "news",
+        "title": "29.94亿元资金今日流出电子股",
+        "url": "http://finance.eastmoney.com/a/202609223881296064.html",
+        "publishedAt": "2026-09-22 16:52:00",
+        "source": "证券时报网"
+      },
+      {
+        "type": "news",
         "title": "9月21日科创板主力资金净流出3.66亿元",
         "url": "http://finance.eastmoney.com/a/202609213880098092.html",
         "publishedAt": "2026-09-21 17:32:00",
@@ -2067,16 +2074,9 @@
       },
       {
         "type": "news",
-        "title": "86家公司获海外机构调研",
-        "url": "http://finance.eastmoney.com/a/202609213880035423.html",
-        "publishedAt": "2026-09-21 16:24:00",
-        "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "206.46亿元资金今日流入电子股",
-        "url": "http://finance.eastmoney.com/a/202609183878650210.html",
-        "publishedAt": "2026-09-18 16:45:00",
+        "title": "23只科创板股获融资净买入超5000万元",
+        "url": "http://finance.eastmoney.com/a/202609223880811291.html",
+        "publishedAt": "2026-09-22 09:10:00",
         "source": "证券时报网"
       }
     ]
@@ -2115,9 +2115,9 @@
       },
       {
         "type": "news",
-        "title": "电子行业9月21日资金流向日报",
-        "url": "http://finance.eastmoney.com/a/202609213880060644.html",
-        "publishedAt": "2026-09-21 16:51:00",
+        "title": "46股受融资客青睐，净买入超亿元",
+        "url": "http://finance.eastmoney.com/a/202609223880923152.html",
+        "publishedAt": "2026-09-22 09:30:00",
         "source": "证券时报网"
       }
     ]
@@ -2178,23 +2178,23 @@
       },
       {
         "type": "news",
-        "title": "电子行业9月21日资金流向日报",
-        "url": "http://finance.eastmoney.com/a/202609213880060644.html",
-        "publishedAt": "2026-09-21 16:51:00",
+        "title": "基金最新调研公司名单曝光",
+        "url": "http://finance.eastmoney.com/a/202609223881085076.html",
+        "publishedAt": "2026-09-22 11:31:00",
         "source": "证券时报网"
       },
       {
         "type": "news",
-        "title": "86家公司获海外机构调研",
-        "url": "http://finance.eastmoney.com/a/202609213880035423.html",
-        "publishedAt": "2026-09-21 16:24:00",
+        "title": "29.94亿元资金今日流出电子股",
+        "url": "http://finance.eastmoney.com/a/202609223881296064.html",
+        "publishedAt": "2026-09-22 16:52:00",
         "source": "证券时报网"
       },
       {
         "type": "news",
-        "title": "国家大基金持股概念涨4.03%，主力资金净流入39股",
-        "url": "http://finance.eastmoney.com/a/202609183878641526.html",
-        "publishedAt": "2026-09-18 16:35:00",
+        "title": "近日海外机构调研股名单",
+        "url": "http://finance.eastmoney.com/a/202609223881265714.html",
+        "publishedAt": "2026-09-22 16:23:00",
         "source": "证券时报网"
       }
     ]
@@ -2202,6 +2202,20 @@
   "300476": {
     "name": "胜宏科技",
     "announcements": [
+      {
+        "type": "announcement",
+        "title": "关于变更持续督导保荐代表人的公告",
+        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=300476&announcementId=1225577683&orgId=9900024582&announcementTime=2026-09-22 19:46:10",
+        "publishedAt": "2026-09-22 19:46:10",
+        "source": "巨潮资讯"
+      },
+      {
+        "type": "announcement",
+        "title": "关于签署A股募集资金四方监管协议的公告",
+        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=300476&announcementId=1225577682&orgId=9900024582&announcementTime=2026-09-22 19:44:28",
+        "publishedAt": "2026-09-22 19:44:28",
+        "source": "巨潮资讯"
+      },
       {
         "type": "announcement",
         "title": "关于2026年A股限制性股票激励计划内幕信息知情人买卖公司股票情况的自查报告",
@@ -2222,20 +2236,6 @@
         "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=300476&announcementId=1225573324&orgId=9900024582&announcementTime=2026-09-18 20:21:28",
         "publishedAt": "2026-09-18 20:21:28",
         "source": "巨潮资讯"
-      },
-      {
-        "type": "announcement",
-        "title": "2026年第三次临时股东会决议公告",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=300476&announcementId=1225573323&orgId=9900024582&announcementTime=2026-09-18 20:21:28",
-        "publishedAt": "2026-09-18 20:21:28",
-        "source": "巨潮资讯"
-      },
-      {
-        "type": "announcement",
-        "title": "董事会薪酬与考核委员会关于2026年A股限制性股票激励计划首次授予激励对象名单的核查意见及公示情况说明",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=300476&announcementId=1225561088&orgId=9900024582&announcementTime=2026-09-11 19:12:27",
-        "publishedAt": "2026-09-11 19:12:27",
-        "source": "巨潮资讯"
       }
     ],
     "news": [
@@ -2255,23 +2255,23 @@
       },
       {
         "type": "news",
-        "title": "9月21日盘后固定价格交易额11.01亿元",
-        "url": "http://finance.eastmoney.com/a/202609213880036725.html",
-        "publishedAt": "2026-09-21 16:24:00",
+        "title": "胜宏科技：签署A股募集资金四方监管协议",
+        "url": "http://finance.eastmoney.com/a/202609223881397439.html",
+        "publishedAt": "2026-09-22 19:48:24",
+        "source": "财联社"
+      },
+      {
+        "type": "news",
+        "title": "9月22日盘后固定价格交易额11.43亿元",
+        "url": "http://finance.eastmoney.com/a/202609223881265452.html",
+        "publishedAt": "2026-09-22 16:24:00",
         "source": "证券时报网"
       },
       {
         "type": "news",
-        "title": "股价大涨！300476，紧急提示风险！",
-        "url": "http://finance.eastmoney.com/a/202608073835426725.html",
-        "publishedAt": "2026-08-07 21:05:00",
-        "source": "证券时报"
-      },
-      {
-        "type": "news",
-        "title": "电子行业9月21日资金流向日报",
-        "url": "http://finance.eastmoney.com/a/202609213880060644.html",
-        "publishedAt": "2026-09-21 16:51:00",
+        "title": "9月21日盘后固定价格交易额11.01亿元",
+        "url": "http://finance.eastmoney.com/a/202609213880036725.html",
+        "publishedAt": "2026-09-21 16:24:00",
         "source": "证券时报网"
       }
     ]
@@ -2388,6 +2388,13 @@
       },
       {
         "type": "news",
+        "title": "9月22日盘后固定价格交易额11.43亿元",
+        "url": "http://finance.eastmoney.com/a/202609223881265452.html",
+        "publishedAt": "2026-09-22 16:24:00",
+        "source": "证券时报网"
+      },
+      {
+        "type": "news",
         "title": "9月21日盘后固定价格交易额11.01亿元",
         "url": "http://finance.eastmoney.com/a/202609213880036725.html",
         "publishedAt": "2026-09-21 16:24:00",
@@ -2395,23 +2402,16 @@
       },
       {
         "type": "news",
+        "title": "29.94亿元资金今日流出电子股",
+        "url": "http://finance.eastmoney.com/a/202609223881296064.html",
+        "publishedAt": "2026-09-22 16:52:00",
+        "source": "证券时报网"
+      },
+      {
+        "type": "news",
         "title": "25股获杠杆资金净买入超亿元",
         "url": "http://finance.eastmoney.com/a/202609213879557536.html",
         "publishedAt": "2026-09-21 09:18:00",
-        "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "电子行业9月21日资金流向日报",
-        "url": "http://finance.eastmoney.com/a/202609213880060644.html",
-        "publishedAt": "2026-09-21 16:51:00",
-        "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "9月18日16只股盘后交易额超千万元",
-        "url": "http://finance.eastmoney.com/a/202609183878637598.html",
-        "publishedAt": "2026-09-18 16:33:00",
         "source": "证券时报网"
       }
     ]
@@ -2652,6 +2652,27 @@
     "announcements": [
       {
         "type": "announcement",
+        "title": "北京中银（深圳）律师事务所关于广东思泉新材料股份有限公司2026年第一次临时股东会法律意见书",
+        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=301489&announcementId=1225577143&orgId=gfbj0839556&announcementTime=2026-09-22 18:08:10",
+        "publishedAt": "2026-09-22 18:08:10",
+        "source": "巨潮资讯"
+      },
+      {
+        "type": "announcement",
+        "title": "关于2026年第一次临时股东会决议的公告",
+        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=301489&announcementId=1225577142&orgId=gfbj0839556&announcementTime=2026-09-22 18:06:28",
+        "publishedAt": "2026-09-22 18:06:28",
+        "source": "巨潮资讯"
+      },
+      {
+        "type": "announcement",
+        "title": "关于2026年限制性股票与股票期权激励计划内幕信息知情人买卖公司股票情况的自查报告",
+        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=301489&announcementId=1225576683&orgId=gfbj0839556&announcementTime=2026-09-22 17:22:10",
+        "publishedAt": "2026-09-22 17:22:10",
+        "source": "巨潮资讯"
+      },
+      {
+        "type": "announcement",
         "title": "董事会薪酬与考核委员会关于2026年限制性股票与股票期权激励计划激励对象名单的公示情况说明及核查意见",
         "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=301489&announcementId=1225569764&orgId=gfbj0839556&announcementTime=2026-09-17 17:18:28",
         "publishedAt": "2026-09-17 17:18:28",
@@ -2682,6 +2703,13 @@
       },
       {
         "type": "news",
+        "title": "深沪北百元股排行榜",
+        "url": "http://finance.eastmoney.com/a/202609223881262412.html",
+        "publishedAt": "2026-09-22 16:23:00",
+        "source": "证券时报网"
+      },
+      {
+        "type": "news",
         "title": "思泉新材：张赛玲获聘董秘，曾任职于三友联众",
         "url": "http://finance.eastmoney.com/a/202609073866838594.html",
         "publishedAt": "2026-09-07 18:58:00",
@@ -2693,13 +2721,6 @@
         "url": "http://finance.eastmoney.com/a/202609173877364796.html",
         "publishedAt": "2026-09-17 16:55:00",
         "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "电子化学品概念盘中走弱，晶圆产能扩张拉动上游湿电子化学品需求|异动情报",
-        "url": "http://finance.eastmoney.com/a/202609043865332965.html",
-        "publishedAt": "2026-09-04 14:26:01",
-        "source": "21世纪经济报道"
       }
     ]
   },
@@ -2829,10 +2850,10 @@
       },
       {
         "type": "news",
-        "title": "中巨芯：参股公司拟投资11亿元建设高纯石英材料项目",
-        "url": "http://finance.eastmoney.com/a/202609113872121724.html",
-        "publishedAt": "2026-09-11 16:57:49",
-        "source": "财联社"
+        "title": "31只科创板个股主力资金净流入超亿元",
+        "url": "http://finance.eastmoney.com/a/202609163876085778.html",
+        "publishedAt": "2026-09-16 16:42:00",
+        "source": "证券时报网"
       }
     ]
   },
@@ -2891,6 +2912,20 @@
     "news": [
       {
         "type": "news",
+        "title": "9月22日盘后固定价格交易额11.43亿元",
+        "url": "http://finance.eastmoney.com/a/202609223881265452.html",
+        "publishedAt": "2026-09-22 16:24:00",
+        "source": "证券时报网"
+      },
+      {
+        "type": "news",
+        "title": "29.94亿元资金今日流出电子股",
+        "url": "http://finance.eastmoney.com/a/202609223881296064.html",
+        "publishedAt": "2026-09-22 16:52:00",
+        "source": "证券时报网"
+      },
+      {
+        "type": "news",
         "title": "25股获杠杆资金净买入超亿元",
         "url": "http://finance.eastmoney.com/a/202609213879557536.html",
         "publishedAt": "2026-09-21 09:18:00",
@@ -2909,20 +2944,6 @@
         "url": "http://finance.eastmoney.com/a/202609163876015768.html",
         "publishedAt": "2026-09-16 15:17:58",
         "source": "央广财经"
-      },
-      {
-        "type": "news",
-        "title": "中芯国际概念下跌0.25%，主力资金净流出55股",
-        "url": "http://finance.eastmoney.com/a/202609213880061632.html",
-        "publishedAt": "2026-09-21 16:52:00",
-        "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "9月17日盘后固定价格交易额10.57亿元",
-        "url": "http://finance.eastmoney.com/a/202609173877363365.html",
-        "publishedAt": "2026-09-17 16:57:00",
-        "source": "证券时报网"
       }
     ]
   },
@@ -2932,38 +2953,38 @@
     "news": [
       {
         "type": "news",
+        "title": "港股通净买入126.91亿港元",
+        "url": "http://finance.eastmoney.com/a/202609223881556391.html",
+        "publishedAt": "2026-09-22 22:24:00",
+        "source": "证券时报网"
+      },
+      {
+        "type": "news",
+        "title": "4只个股获南向资金连续净买入",
+        "url": "http://finance.eastmoney.com/a/202609223881564343.html",
+        "publishedAt": "2026-09-22 22:30:00",
+        "source": "证券时报网"
+      },
+      {
+        "type": "news",
+        "title": "南向资金追踪｜单日买入约127亿港元创近一月新高 加仓智谱及多只硬件股",
+        "url": "http://finance.eastmoney.com/a/202609223881362114.html",
+        "publishedAt": "2026-09-22 18:34:42",
+        "source": "财联社"
+      },
+      {
+        "type": "news",
+        "title": "港股通9月22日成交活跃股名单",
+        "url": "http://finance.eastmoney.com/a/202609223881549698.html",
+        "publishedAt": "2026-09-22 22:23:00",
+        "source": "证券时报网"
+      },
+      {
+        "type": "news",
         "title": "港股通9月21日成交活跃股名单",
         "url": "http://finance.eastmoney.com/a/202609213880261211.html",
         "publishedAt": "2026-09-21 21:07:00",
         "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "港股通（沪）净买入31.18亿港元",
-        "url": "http://finance.eastmoney.com/a/202609213880261448.html",
-        "publishedAt": "2026-09-21 21:05:00",
-        "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "港股通净买入33.63亿港元",
-        "url": "http://finance.eastmoney.com/a/202609173877603156.html",
-        "publishedAt": "2026-09-17 21:56:00",
-        "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "港股通连续净买入股名单",
-        "url": "http://finance.eastmoney.com/a/202609173877602713.html",
-        "publishedAt": "2026-09-17 21:55:00",
-        "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "南向资金追踪｜净买入超33亿港元 连续加仓智谱及腾讯流出阿里",
-        "url": "http://finance.eastmoney.com/a/202609173877418860.html",
-        "publishedAt": "2026-09-17 18:08:43",
-        "source": "财联社"
       }
     ]
   },
@@ -2988,6 +3009,27 @@
     "news": [
       {
         "type": "news",
+        "title": "29.94亿元资金今日流出电子股",
+        "url": "http://finance.eastmoney.com/a/202609223881296064.html",
+        "publishedAt": "2026-09-22 16:52:00",
+        "source": "证券时报网"
+      },
+      {
+        "type": "news",
+        "title": "46股受融资客青睐，净买入超亿元",
+        "url": "http://finance.eastmoney.com/a/202609223880923152.html",
+        "publishedAt": "2026-09-22 09:30:00",
+        "source": "证券时报网"
+      },
+      {
+        "type": "news",
+        "title": "杠杆资金连续四日加仓创业板股",
+        "url": "http://finance.eastmoney.com/a/202609223880930796.html",
+        "publishedAt": "2026-09-22 09:30:00",
+        "source": "证券时报网"
+      },
+      {
+        "type": "news",
         "title": "电子行业9月21日资金流向日报",
         "url": "http://finance.eastmoney.com/a/202609213880060644.html",
         "publishedAt": "2026-09-21 16:51:00",
@@ -2999,27 +3041,6 @@
         "url": "http://finance.eastmoney.com/a/202609213880097872.html",
         "publishedAt": "2026-09-21 17:32:00",
         "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "杠杆资金连续三日加仓创业板股",
-        "url": "http://finance.eastmoney.com/a/202609213879551339.html",
-        "publishedAt": "2026-09-21 09:18:00",
-        "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "300285，迎超150家机构扎堆调研！MLCC概念热度再燃",
-        "url": "http://finance.eastmoney.com/a/202608093835885277.html",
-        "publishedAt": "2026-08-09 08:19:00",
-        "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "300285火了！超150家机构，密集调研！",
-        "url": "http://finance.eastmoney.com/a/202608083835841511.html",
-        "publishedAt": "2026-08-08 18:01:00",
-        "source": "华夏时报"
       }
     ]
   },
@@ -3105,6 +3126,20 @@
     "announcements": [
       {
         "type": "announcement",
+        "title": "关于公司股东为公司项目履约提供担保暨关联交易的公告",
+        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=301018&announcementId=1225576951&orgId=9900035574&announcementTime=2026-09-22 17:44:10",
+        "publishedAt": "2026-09-22 17:44:10",
+        "source": "巨潮资讯"
+      },
+      {
+        "type": "announcement",
+        "title": "关于第四届董事会第二十二次会议决议的公告",
+        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=301018&announcementId=1225576950&orgId=9900035574&announcementTime=2026-09-22 17:42:28",
+        "publishedAt": "2026-09-22 17:42:28",
+        "source": "巨潮资讯"
+      },
+      {
+        "type": "announcement",
         "title": "关于签订日常经营重大合同的公告",
         "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=301018&announcementId=1225569128&orgId=9900035574&announcementTime=2026-09-17 07:38:26",
         "publishedAt": "2026-09-17 07:38:26",
@@ -3122,20 +3157,6 @@
         "title": "广东申菱环境系统股份有限公司向不特定对象发行可转换公司债券募集说明书（注册稿）",
         "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=301018&announcementId=1225568161&orgId=9900035574&announcementTime=2026-09-16 18:44:11",
         "publishedAt": "2026-09-16 18:44:11",
-        "source": "巨潮资讯"
-      },
-      {
-        "type": "announcement",
-        "title": "关于向不特定对象发行可转换公司债券提交募集说明书（注册稿）等申请文件更新的提示性公告",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=301018&announcementId=1225568160&orgId=9900035574&announcementTime=2026-09-16 18:44:10",
-        "publishedAt": "2026-09-16 18:44:10",
-        "source": "巨潮资讯"
-      },
-      {
-        "type": "announcement",
-        "title": "中信建投证券股份有限公司关于广东申菱环境系统股份有限公司向不特定对象发行可转换公司债券之发行保荐书",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=301018&announcementId=1225568163&orgId=9900035574&announcementTime=2026-09-16 18:42:26",
-        "publishedAt": "2026-09-16 18:42:26",
         "source": "巨潮资讯"
       }
     ],
@@ -3303,17 +3324,17 @@
       },
       {
         "type": "news",
+        "title": "147只股中线走稳 站上半年线",
+        "url": "http://finance.eastmoney.com/a/202609223881190049.html",
+        "publishedAt": "2026-09-22 14:39:00",
+        "source": "证券时报网"
+      },
+      {
+        "type": "news",
         "title": "澜起科技：9月16日斥资1028.66万元回购5.3万股",
         "url": "http://finance.eastmoney.com/a/202609163876173636.html",
         "publishedAt": "2026-09-16 18:26:00",
         "source": "南方财经网"
-      },
-      {
-        "type": "news",
-        "title": "9月21日科创板主力资金净流出3.66亿元",
-        "url": "http://finance.eastmoney.com/a/202609213880098092.html",
-        "publishedAt": "2026-09-21 17:32:00",
-        "source": "证券时报网"
       }
     ]
   },
@@ -3366,16 +3387,16 @@
       },
       {
         "type": "news",
-        "title": "9月21日盘后固定价格交易额11.01亿元",
-        "url": "http://finance.eastmoney.com/a/202609213880036725.html",
-        "publishedAt": "2026-09-21 16:24:00",
+        "title": "9月22日盘后固定价格交易额11.43亿元",
+        "url": "http://finance.eastmoney.com/a/202609223881265452.html",
+        "publishedAt": "2026-09-22 16:24:00",
         "source": "证券时报网"
       },
       {
         "type": "news",
-        "title": "25股获杠杆资金净买入超亿元",
-        "url": "http://finance.eastmoney.com/a/202609213879557536.html",
-        "publishedAt": "2026-09-21 09:18:00",
+        "title": "9月21日盘后固定价格交易额11.01亿元",
+        "url": "http://finance.eastmoney.com/a/202609213880036725.html",
+        "publishedAt": "2026-09-21 16:24:00",
         "source": "证券时报网"
       }
     ]
@@ -3526,6 +3547,13 @@
       },
       {
         "type": "news",
+        "title": "通信行业资金流出榜：中际旭创等16股净流出资金超亿元",
+        "url": "http://finance.eastmoney.com/a/202609223881285620.html",
+        "publishedAt": "2026-09-22 16:49:00",
+        "source": "证券时报网"
+      },
+      {
+        "type": "news",
         "title": "通信行业今日涨1.32%，主力资金净流入33.63亿元",
         "url": "http://finance.eastmoney.com/a/202609213880079437.html",
         "publishedAt": "2026-09-21 16:52:00",
@@ -3536,13 +3564,6 @@
         "title": "通信行业今日涨2.62%，主力资金净流入52.86亿元",
         "url": "http://finance.eastmoney.com/a/202609183878688532.html",
         "publishedAt": "2026-09-18 17:42:00",
-        "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "通信行业资金流出榜：中际旭创等16股净流出资金超亿元",
-        "url": "http://finance.eastmoney.com/a/202609143873516228.html",
-        "publishedAt": "2026-09-14 17:37:00",
         "source": "证券时报网"
       }
     ]
@@ -3557,6 +3578,13 @@
         "url": "http://finance.eastmoney.com/a/202608283857575171.html",
         "publishedAt": "2026-08-28 09:19:23",
         "source": "界面新闻"
+      },
+      {
+        "type": "news",
+        "title": "麦格米特：拟6.64亿元收购控股子公司深圳焊接46.30%股权",
+        "url": "http://finance.eastmoney.com/a/202609223881398293.html",
+        "publishedAt": "2026-09-22 19:54:00",
+        "source": "财联社"
       },
       {
         "type": "news",
@@ -3578,13 +3606,6 @@
         "url": "http://finance.eastmoney.com/a/202609173877074169.html",
         "publishedAt": "2026-09-17 09:51:00",
         "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "电力设备行业今日跌1.75%，主力资金净流出26.20亿元",
-        "url": "http://finance.eastmoney.com/a/202609153874891576.html",
-        "publishedAt": "2026-09-15 16:54:00",
-        "source": "证券时报网"
       }
     ]
   },
@@ -3592,6 +3613,13 @@
     "name": "禾望电气",
     "announcements": [],
     "news": [
+      {
+        "type": "news",
+        "title": "融资客控盘比例超一成个股（附名单）",
+        "url": "http://finance.eastmoney.com/a/202609223880931285.html",
+        "publishedAt": "2026-09-22 09:31:00",
+        "source": "证券时报网"
+      },
       {
         "type": "news",
         "title": "融资客控盘比例超一成个股（附名单）",
@@ -3612,13 +3640,6 @@
         "url": "http://finance.eastmoney.com/a/202609143873515467.html",
         "publishedAt": "2026-09-14 17:37:00",
         "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "机构风向标 | 禾望电气6030632026年二季度已披露前十大机构累计持仓占比25.76%",
-        "url": "http://finance.eastmoney.com/a/202608053831858234.html",
-        "publishedAt": "2026-08-05 08:48:11",
-        "source": "界面新闻"
       },
       {
         "type": "news",
@@ -3678,6 +3699,13 @@
       },
       {
         "type": "news",
+        "title": "机械设备行业今日净流出资金38.32亿元，罗博特科等16股净流出资金超亿元",
+        "url": "http://finance.eastmoney.com/a/202609223881295548.html",
+        "publishedAt": "2026-09-22 16:53:00",
+        "source": "证券时报网"
+      },
+      {
+        "type": "news",
         "title": "9月21日科创板主力资金净流出3.66亿元",
         "url": "http://finance.eastmoney.com/a/202609213880098092.html",
         "publishedAt": "2026-09-21 17:32:00",
@@ -3685,23 +3713,16 @@
       },
       {
         "type": "news",
-        "title": "科创板股融资融券余额每日变动（9月18日）",
-        "url": "http://finance.eastmoney.com/a/202609213879551078.html",
-        "publishedAt": "2026-09-21 09:17:00",
+        "title": "23只科创板股获融资净买入超5000万元",
+        "url": "http://finance.eastmoney.com/a/202609223880811291.html",
+        "publishedAt": "2026-09-22 09:10:00",
         "source": "证券时报网"
       },
       {
         "type": "news",
-        "title": "募资微缩1000万元！杰普特调减补流项目，公司业绩高增应收账款走高、客户集中度高",
-        "url": "http://finance.eastmoney.com/a/202609203879296823.html",
-        "publishedAt": "2026-09-20 10:17:27",
-        "source": "深圳商报·读创"
-      },
-      {
-        "type": "news",
-        "title": "1334只股短线走稳 站上五日均线",
-        "url": "http://finance.eastmoney.com/a/202609163876068657.html",
-        "publishedAt": "2026-09-16 16:19:00",
+        "title": "科创板股融资融券余额每日变动（9月21日）",
+        "url": "http://finance.eastmoney.com/a/202609223880811681.html",
+        "publishedAt": "2026-09-22 09:10:00",
         "source": "证券时报网"
       }
     ]
@@ -3709,6 +3730,13 @@
   "002008": {
     "name": "大族激光",
     "announcements": [
+      {
+        "type": "announcement",
+        "title": "关于控股股东部分股份解除质押及质押的公告",
+        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=002008&announcementId=1225566761&orgId=gssz0002008&announcementTime=2026-09-16",
+        "publishedAt": "2026-09-16",
+        "source": "巨潮资讯"
+      },
       {
         "type": "announcement",
         "title": "关于控股股东权益变动暨触及1%整数倍的公告",
@@ -3755,16 +3783,16 @@
       },
       {
         "type": "news",
-        "title": "光刻机概念下跌0.17%，主力资金净流出29股",
-        "url": "http://finance.eastmoney.com/a/202609213880061461.html",
-        "publishedAt": "2026-09-21 16:52:00",
+        "title": "机械设备行业今日净流出资金38.32亿元，罗博特科等16股净流出资金超亿元",
+        "url": "http://finance.eastmoney.com/a/202609223881295548.html",
+        "publishedAt": "2026-09-22 16:53:00",
         "source": "证券时报网"
       },
       {
         "type": "news",
-        "title": "机械设备行业资金流入榜：大族激光等20股净流入资金超亿元",
-        "url": "http://finance.eastmoney.com/a/202609183878646392.html",
-        "publishedAt": "2026-09-18 16:45:00",
+        "title": "光刻机概念下跌0.17%，主力资金净流出29股",
+        "url": "http://finance.eastmoney.com/a/202609213880061461.html",
+        "publishedAt": "2026-09-21 16:52:00",
         "source": "证券时报网"
       }
     ]
@@ -3782,30 +3810,30 @@
       },
       {
         "type": "news",
+        "title": "铜缆高速连接概念下跌1.30%，主力资金净流出35股",
+        "url": "http://finance.eastmoney.com/a/202609223881267120.html",
+        "publishedAt": "2026-09-22 16:23:00",
+        "source": "证券时报网"
+      },
+      {
+        "type": "news",
+        "title": "机械设备行业今日净流出资金38.32亿元，罗博特科等16股净流出资金超亿元",
+        "url": "http://finance.eastmoney.com/a/202609223881295548.html",
+        "publishedAt": "2026-09-22 16:53:00",
+        "source": "证券时报网"
+      },
+      {
+        "type": "news",
+        "title": "华工科技：光谷的“激光”照向千行百业 | 活力中国调研行",
+        "url": "http://finance.eastmoney.com/a/202609223881392565.html",
+        "publishedAt": "2026-09-22 19:31:36",
+        "source": "财联社"
+      },
+      {
+        "type": "news",
         "title": "机械设备行业资金流入榜：大族激光等20股净流入资金超亿元",
         "url": "http://finance.eastmoney.com/a/202609183878646392.html",
         "publishedAt": "2026-09-18 16:45:00",
-        "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "28股获杠杆资金净买入超亿元",
-        "url": "http://finance.eastmoney.com/a/202609173876970611.html",
-        "publishedAt": "2026-09-17 09:27:00",
-        "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "F5G概念上涨4.31%，11股主力资金净流入超亿元",
-        "url": "http://finance.eastmoney.com/a/202609163876083969.html",
-        "publishedAt": "2026-09-16 16:39:00",
-        "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "机械设备行业今日涨1.48%，主力资金净流入30.83亿元",
-        "url": "http://finance.eastmoney.com/a/202609163876109946.html",
-        "publishedAt": "2026-09-16 16:50:00",
         "source": "证券时报网"
       }
     ]
@@ -3927,6 +3955,13 @@
       },
       {
         "type": "news",
+        "title": "前8月电力交易电量同比高增，电力设备持续受益AI算力资本开支丨机会前瞻",
+        "url": "http://finance.eastmoney.com/a/202609223881391118.html",
+        "publishedAt": "2026-09-22 19:28:00",
+        "source": "21世纪经济报道"
+      },
+      {
+        "type": "news",
         "title": "72股今日获机构买入评级",
         "url": "http://finance.eastmoney.com/a/202609103870667757.html",
         "publishedAt": "2026-09-10 17:36:00",
@@ -3938,13 +3973,6 @@
         "url": "http://finance.eastmoney.com/a/202609083868138646.html",
         "publishedAt": "2026-09-08 17:31:00",
         "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "险资二季度A股调仓动向：近五成资金重仓银行股，科技板块调仓明显",
-        "url": "http://finance.eastmoney.com/a/202609043865593978.html",
-        "publishedAt": "2026-09-04 20:08:03",
-        "source": "界面新闻"
       }
     ]
   },
@@ -4045,16 +4073,23 @@
       },
       {
         "type": "news",
-        "title": "33.81亿元主力资金今日撤离电力设备板块",
-        "url": "http://finance.eastmoney.com/a/202609163876099515.html",
-        "publishedAt": "2026-09-16 16:50:00",
-        "source": "证券时报网"
+        "title": "前8月电力交易电量同比高增，电力设备持续受益AI算力资本开支丨机会前瞻",
+        "url": "http://finance.eastmoney.com/a/202609223881391118.html",
+        "publishedAt": "2026-09-22 19:28:00",
+        "source": "21世纪经济报道"
       }
     ]
   },
   "300442": {
     "name": "润泽科技",
     "announcements": [
+      {
+        "type": "announcement",
+        "title": "关于特定股东减持计划期限届满的公告",
+        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=300442&announcementId=1225577655&orgId=9900023826&announcementTime=2026-09-22 19:24:28",
+        "publishedAt": "2026-09-22 19:24:28",
+        "source": "巨潮资讯"
+      },
       {
         "type": "announcement",
         "title": "关于与专业投资机构共同投资的公告",
@@ -4080,13 +4115,6 @@
         "type": "announcement",
         "title": "关于2026年度新增对外担保额度的公告",
         "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=300442&announcementId=1225564141&orgId=9900023826&announcementTime=2026-09-15 00:00:00",
-        "publishedAt": "2026-09-15 00:00:00",
-        "source": "巨潮资讯"
-      },
-      {
-        "type": "announcement",
-        "title": "关于召开2026年第三次临时股东会的通知",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=300442&announcementId=1225564140&orgId=9900023826&announcementTime=2026-09-15 00:00:00",
         "publishedAt": "2026-09-15 00:00:00",
         "source": "巨潮资讯"
       }
@@ -4122,10 +4150,10 @@
       },
       {
         "type": "news",
-        "title": "润泽科技：拟10亿元参与投资厦门时代深远创业投资基金",
-        "url": "http://finance.eastmoney.com/a/202609153874940061.html",
-        "publishedAt": "2026-09-15 20:33:00",
-        "source": "证券时报网"
+        "title": "润泽科技：特定股东减持计划期限届满 累计减持1588万股",
+        "url": "http://finance.eastmoney.com/a/202609223881387889.html",
+        "publishedAt": "2026-09-22 19:27:40",
+        "source": "财联社"
       }
     ]
   },
@@ -4192,17 +4220,17 @@
       },
       {
         "type": "news",
+        "title": "云游戏概念上涨2.39%，5股主力资金净流入超5000万元",
+        "url": "http://finance.eastmoney.com/a/202609223881261364.html",
+        "publishedAt": "2026-09-22 16:21:00",
+        "source": "证券时报网"
+      },
+      {
+        "type": "news",
         "title": "上证早知道｜300857 半年报净利润增长331.11%；600315、300247公告：子公司收到美国关税退款",
         "url": "http://finance.eastmoney.com/a/202608143840882732.html",
         "publishedAt": "2026-08-14 06:51:00",
         "source": "上海证券报"
-      },
-      {
-        "type": "news",
-        "title": "协创数据：向特定对象发行股票申请获深交所受理",
-        "url": "http://finance.eastmoney.com/a/202609163876236033.html",
-        "publishedAt": "2026-09-16 20:28:19",
-        "source": "财联社"
       }
     ]
   },
@@ -4402,10 +4430,10 @@
       },
       {
         "type": "news",
-        "title": "永茂泰拟定增募资不超9.98亿元 加码镁合金精密制造与墨西哥产能布局｜速读公告",
-        "url": "http://finance.eastmoney.com/a/202609223880371568.html",
-        "publishedAt": "2026-09-22 00:02:47",
-        "source": "财联社"
+        "title": "铜缆高速连接概念下跌1.30%，主力资金净流出35股",
+        "url": "http://finance.eastmoney.com/a/202609223881267120.html",
+        "publishedAt": "2026-09-22 16:23:00",
+        "source": "证券时报网"
       }
     ]
   },
@@ -4528,6 +4556,13 @@
       },
       {
         "type": "news",
+        "title": "铜缆高速连接概念下跌1.30%，主力资金净流出35股",
+        "url": "http://finance.eastmoney.com/a/202609223881267120.html",
+        "publishedAt": "2026-09-22 16:23:00",
+        "source": "证券时报网"
+      },
+      {
+        "type": "news",
         "title": "99.13亿元资金今日流出电子股",
         "url": "http://finance.eastmoney.com/a/202609173877364334.html",
         "publishedAt": "2026-09-17 16:54:00",
@@ -4538,13 +4573,6 @@
         "title": "近日海外机构调研股名单",
         "url": "http://finance.eastmoney.com/a/202609173877359131.html",
         "publishedAt": "2026-09-17 16:53:00",
-        "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "海外机构调研股名单 广合科技最受关注",
-        "url": "http://finance.eastmoney.com/a/202609163876100746.html",
-        "publishedAt": "2026-09-16 16:54:00",
         "source": "证券时报网"
       }
     ]
@@ -4569,6 +4597,13 @@
       },
       {
         "type": "news",
+        "title": "29.94亿元资金今日流出电子股",
+        "url": "http://finance.eastmoney.com/a/202609223881296064.html",
+        "publishedAt": "2026-09-22 16:52:00",
+        "source": "证券时报网"
+      },
+      {
+        "type": "news",
         "title": "9月18日16只股盘后交易额超千万元",
         "url": "http://finance.eastmoney.com/a/202609183878637598.html",
         "publishedAt": "2026-09-18 16:33:00",
@@ -4579,13 +4614,6 @@
         "title": "206.46亿元资金今日流入电子股",
         "url": "http://finance.eastmoney.com/a/202609183878650210.html",
         "publishedAt": "2026-09-18 16:45:00",
-        "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "72股特大单净流入资金超2亿元",
-        "url": "http://finance.eastmoney.com/a/202609183878642364.html",
-        "publishedAt": "2026-09-18 16:43:00",
         "source": "证券时报网"
       }
     ]
@@ -4632,17 +4660,17 @@
       },
       {
         "type": "news",
+        "title": "牛市早报｜央行召开外资金融机构座谈会",
+        "url": "http://finance.eastmoney.com/a/202609223880542361.html",
+        "publishedAt": "2026-09-22 07:46:00",
+        "source": "澎湃新闻"
+      },
+      {
+        "type": "news",
         "title": "A股三大指数收涨 超4500只股飘红 创新药概念股爆发",
         "url": "http://finance.eastmoney.com/a/202609213879979426.html",
         "publishedAt": "2026-09-21 15:00:55",
         "source": "东方财富Choice数据"
-      },
-      {
-        "type": "news",
-        "title": "33.82亿元主力资金今日抢筹汽车板块",
-        "url": "http://finance.eastmoney.com/a/202609173877364173.html",
-        "publishedAt": "2026-09-17 16:54:00",
-        "source": "证券时报网"
       }
     ]
   },
@@ -4709,17 +4737,17 @@
       },
       {
         "type": "news",
-        "title": "33.82亿元主力资金今日抢筹汽车板块",
-        "url": "http://finance.eastmoney.com/a/202609173877364173.html",
-        "publishedAt": "2026-09-17 16:54:00",
-        "source": "证券时报网"
+        "title": "机器人RV减速器龙头环动科技IPO撤单",
+        "url": "http://finance.eastmoney.com/a/202609223881102918.html",
+        "publishedAt": "2026-09-22 12:06:07",
+        "source": "北京商报"
       },
       {
         "type": "news",
-        "title": "汽车行业今日净流出资金14.00亿元，山子高科等5股净流出资金超5000万元",
-        "url": "http://finance.eastmoney.com/a/202609163876096073.html",
-        "publishedAt": "2026-09-16 16:50:00",
-        "source": "证券时报网"
+        "title": "环动科技终止科创板IPO",
+        "url": "http://finance.eastmoney.com/a/202609223881417525.html",
+        "publishedAt": "2026-09-22 20:25:37",
+        "source": "经济参考网"
       }
     ]
   },
@@ -4905,6 +4933,13 @@
       },
       {
         "type": "news",
+        "title": "深沪北百元股排行榜",
+        "url": "http://finance.eastmoney.com/a/202609223881262412.html",
+        "publishedAt": "2026-09-22 16:23:00",
+        "source": "证券时报网"
+      },
+      {
+        "type": "news",
         "title": "深沪北百元股数量达217只，科创板股票占46.08%",
         "url": "http://finance.eastmoney.com/a/202609173877364796.html",
         "publishedAt": "2026-09-17 16:55:00",
@@ -4915,13 +4950,6 @@
         "title": "百元股数量达209只，一日增加4只",
         "url": "http://finance.eastmoney.com/a/202609153874722847.html",
         "publishedAt": "2026-09-15 16:31:00",
-        "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "55.81亿主力资金净流入，PCB概念涨0.58%",
-        "url": "http://finance.eastmoney.com/a/202609153874723513.html",
-        "publishedAt": "2026-09-15 16:32:00",
         "source": "证券时报网"
       }
     ]
@@ -4975,23 +5003,23 @@
       },
       {
         "type": "news",
+        "title": "23只科创板股获融资净买入超5000万元",
+        "url": "http://finance.eastmoney.com/a/202609223880811291.html",
+        "publishedAt": "2026-09-22 09:10:00",
+        "source": "证券时报网"
+      },
+      {
+        "type": "news",
+        "title": "109只科创板股票跻身百元股阵营",
+        "url": "http://finance.eastmoney.com/a/202609223881295427.html",
+        "publishedAt": "2026-09-22 16:53:00",
+        "source": "证券时报网"
+      },
+      {
+        "type": "news",
         "title": "15只科创板个股主力资金净流入超亿元",
         "url": "http://finance.eastmoney.com/a/202609173877404361.html",
         "publishedAt": "2026-09-17 17:44:00",
-        "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "融资客大幅净买入的科创板股（附股）",
-        "url": "http://finance.eastmoney.com/a/202609183878236066.html",
-        "publishedAt": "2026-09-18 09:30:00",
-        "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "科创板百元股达105只，联讯仪器股价最高",
-        "url": "http://finance.eastmoney.com/a/202609183878641886.html",
-        "publishedAt": "2026-09-18 16:35:00",
         "source": "证券时报网"
       }
     ]
@@ -5211,6 +5239,13 @@
       },
       {
         "type": "news",
+        "title": "近日海外机构调研股名单",
+        "url": "http://finance.eastmoney.com/a/202609223881265714.html",
+        "publishedAt": "2026-09-22 16:23:00",
+        "source": "证券时报网"
+      },
+      {
+        "type": "news",
         "title": "86家公司获海外机构调研",
         "url": "http://finance.eastmoney.com/a/202609213880035423.html",
         "publishedAt": "2026-09-21 16:24:00",
@@ -5222,13 +5257,6 @@
         "url": "http://finance.eastmoney.com/a/202609123872722236.html",
         "publishedAt": "2026-09-12 15:43:58",
         "source": "人民财讯"
-      },
-      {
-        "type": "news",
-        "title": "江苏雷利：已进入多家国内外机器人本体、模组厂商和灵巧手企业供应链",
-        "url": "http://finance.eastmoney.com/a/202609123872723274.html",
-        "publishedAt": "2026-09-12 15:40:00",
-        "source": "证券时报网"
       }
     ]
   },
@@ -5236,6 +5264,13 @@
     "name": "阿里巴巴",
     "announcements": [],
     "news": [
+      {
+        "type": "news",
+        "title": "阿里CEO吴泳铭：计划训练5万亿至10万亿参数新模型 2032年阿里云数据中心规模将超20GW",
+        "url": "http://finance.eastmoney.com/a/202609223881069718.html",
+        "publishedAt": "2026-09-22 11:11:00",
+        "source": "澎湃新闻"
+      },
       {
         "type": "news",
         "title": "鹏华精选成长混合A：2026年上半年利润1625.11万元 净值增长率7.22%",
@@ -5262,13 +5297,6 @@
         "title": "700家公司公布最新股东户数",
         "url": "http://finance.eastmoney.com/a/202609083868102265.html",
         "publishedAt": "2026-09-08 16:58:00",
-        "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "速看，最新筹码集中股找到了（附股）",
-        "url": "http://finance.eastmoney.com/a/202609073866779759.html",
-        "publishedAt": "2026-09-07 17:38:00",
         "source": "证券时报网"
       }
     ]
@@ -5319,6 +5347,13 @@
     "announcements": [
       {
         "type": "announcement",
+        "title": "关于2026年度第七期绿色科技创新债券发行完成的公告",
+        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=300750&announcementId=1225577258&orgId=GD165627&announcementTime=2026-09-22 18:28:10",
+        "publishedAt": "2026-09-22 18:28:10",
+        "source": "巨潮资讯"
+      },
+      {
+        "type": "announcement",
         "title": "H股公告（翌日披露报表）",
         "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=300750&announcementId=1225575164&orgId=GD165627&announcementTime=2026-09-21 18:30:09",
         "publishedAt": "2026-09-21 18:30:09",
@@ -5343,13 +5378,6 @@
         "title": "关于2022年股票期权与限制性股票激励计划之股票期权首次及预留授予第四个行权期自主行权的提示性公告",
         "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=300750&announcementId=1225568908&orgId=GD165627&announcementTime=2026-09-16 20:02:26",
         "publishedAt": "2026-09-16 20:02:26",
-        "source": "巨潮资讯"
-      },
-      {
-        "type": "announcement",
-        "title": "关于参与投资厦门时代深远创业投资基金合伙企业（有限合伙）的公告",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=300750&announcementId=1225566768&orgId=GD165627&announcementTime=2026-09-15 20:10:07",
-        "publishedAt": "2026-09-15 20:10:07",
         "source": "巨潮资讯"
       }
     ],
@@ -5377,17 +5405,17 @@
       },
       {
         "type": "news",
-        "title": "宁德时代：9月18日回购151.26万股A股股份",
-        "url": "http://finance.eastmoney.com/a/202609183878809289.html",
-        "publishedAt": "2026-09-18 20:49:00",
+        "title": "4只个股大宗交易超5000万元",
+        "url": "http://finance.eastmoney.com/a/202609223881547816.html",
+        "publishedAt": "2026-09-22 22:21:00",
         "source": "证券时报网"
       },
       {
         "type": "news",
-        "title": "宁德时代：9月18日斥资4.56亿元回购151.26万股",
-        "url": "http://finance.eastmoney.com/a/202609183878741152.html",
-        "publishedAt": "2026-09-18 19:17:00",
-        "source": "南方财经网"
+        "title": "宁德时代：9月18日回购151.26万股A股股份",
+        "url": "http://finance.eastmoney.com/a/202609183878809289.html",
+        "publishedAt": "2026-09-18 20:49:00",
+        "source": "证券时报网"
       }
     ]
   },
@@ -5440,6 +5468,13 @@
       },
       {
         "type": "news",
+        "title": "46股受融资客青睐，净买入超亿元",
+        "url": "http://finance.eastmoney.com/a/202609223880923152.html",
+        "publishedAt": "2026-09-22 09:30:00",
+        "source": "证券时报网"
+      },
+      {
+        "type": "news",
         "title": "电力设备行业今日净流出资金11.54亿元，亿纬锂能等13股净流出资金超亿元",
         "url": "http://finance.eastmoney.com/a/202609213880060397.html",
         "publishedAt": "2026-09-21 16:51:00",
@@ -5451,13 +5486,6 @@
         "url": "http://finance.eastmoney.com/a/202609213879551339.html",
         "publishedAt": "2026-09-21 09:18:00",
         "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "中证投服中心年内已提名超50家上市公司独董 行权步入常态化阶段",
-        "url": "http://finance.eastmoney.com/a/202609173876930334.html",
-        "publishedAt": "2026-09-17 09:12:00",
-        "source": "财联社"
       }
     ]
   },
@@ -5524,17 +5552,17 @@
       },
       {
         "type": "news",
-        "title": "电力设备行业今日净流出资金11.54亿元，亿纬锂能等13股净流出资金超亿元",
-        "url": "http://finance.eastmoney.com/a/202609213880060397.html",
-        "publishedAt": "2026-09-21 16:51:00",
+        "title": "23只科创板股获融资净买入超5000万元",
+        "url": "http://finance.eastmoney.com/a/202609223880811291.html",
+        "publishedAt": "2026-09-22 09:10:00",
         "source": "证券时报网"
       },
       {
         "type": "news",
-        "title": "聚和材料：拟3亿元入伙国聚同辉布局半导体材料领域",
-        "url": "http://finance.eastmoney.com/a/202609143873539089.html",
-        "publishedAt": "2026-09-14 18:23:44",
-        "source": "财联社"
+        "title": "电力设备行业今日净流出资金11.54亿元，亿纬锂能等13股净流出资金超亿元",
+        "url": "http://finance.eastmoney.com/a/202609213880060397.html",
+        "publishedAt": "2026-09-21 16:51:00",
+        "source": "证券时报网"
       }
     ]
   },
@@ -5594,23 +5622,23 @@
       },
       {
         "type": "news",
-        "title": "机械设备行业今日涨1.48%，主力资金净流入30.83亿元",
-        "url": "http://finance.eastmoney.com/a/202609163876109946.html",
-        "publishedAt": "2026-09-16 16:50:00",
+        "title": "科瑞技术：拟定增募资不超7.52亿元 用于超高精密度零部件基地建设及相关设备扩产项目等",
+        "url": "http://finance.eastmoney.com/a/202609223881426380.html",
+        "publishedAt": "2026-09-22 20:31:00",
         "source": "证券时报网"
       },
       {
         "type": "news",
-        "title": "66只股上午收盘涨停(附股)",
-        "url": "http://finance.eastmoney.com/a/202609163875931878.html",
-        "publishedAt": "2026-09-16 13:06:00",
-        "source": "证券时报网"
+        "title": "科瑞技术：拟定增募资不超7.52亿元用于超高精密度零部件基地建设等项目",
+        "url": "http://finance.eastmoney.com/a/202609223881414622.html",
+        "publishedAt": "2026-09-22 20:12:12",
+        "source": "财联社"
       },
       {
         "type": "news",
-        "title": "涨停股复盘：22股封单超亿元",
-        "url": "http://finance.eastmoney.com/a/202609163876068419.html",
-        "publishedAt": "2026-09-16 16:19:00",
+        "title": "机械设备行业今日净流出资金38.32亿元，罗博特科等16股净流出资金超亿元",
+        "url": "http://finance.eastmoney.com/a/202609223881295548.html",
+        "publishedAt": "2026-09-22 16:53:00",
         "source": "证券时报网"
       }
     ]
@@ -5713,6 +5741,13 @@
       },
       {
         "type": "news",
+        "title": "9月22日盘后固定价格交易额11.43亿元",
+        "url": "http://finance.eastmoney.com/a/202609223881265452.html",
+        "publishedAt": "2026-09-22 16:24:00",
+        "source": "证券时报网"
+      },
+      {
+        "type": "news",
         "title": "云南锗业：控股孙公司申请2.17亿元固定资产贷款",
         "url": "http://finance.eastmoney.com/a/202609163876169671.html",
         "publishedAt": "2026-09-16 18:40:24",
@@ -5724,13 +5759,6 @@
         "url": "http://finance.eastmoney.com/a/202609183878637598.html",
         "publishedAt": "2026-09-18 16:33:00",
         "source": "证券时报网"
-      },
-      {
-        "type": "news",
-        "title": "A股午评来了！002428，三连板",
-        "url": "http://finance.eastmoney.com/a/202608063833704539.html",
-        "publishedAt": "2026-08-06 12:37:00",
-        "source": "中国基金报"
       }
     ]
   }
