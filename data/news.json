@@ -313,13 +313,6 @@
         "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=688072&announcementId=1225585616&orgId=9900048695&announcementTime=2026-09-29",
         "publishedAt": "2026-09-29",
         "source": "巨潮资讯"
-      },
-      {
-        "type": "announcement",
-        "title": "关于召开2026年半年度业绩暨现金分红说明会的公告",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=688072&announcementId=1225573948&orgId=9900048695&announcementTime=2026-09-22",
-        "publishedAt": "2026-09-22",
-        "source": "巨潮资讯"
       }
     ],
     "news": [
@@ -389,13 +382,6 @@
         "title": "芯源微关于获得政府补助的公告",
         "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=688037&announcementId=1225579830&orgId=9900039964&announcementTime=2026-09-24",
         "publishedAt": "2026-09-24",
-        "source": "巨潮资讯"
-      },
-      {
-        "type": "announcement",
-        "title": "芯源微股东询价转让定价情况提示性公告",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=688037&announcementId=1225574247&orgId=9900039964&announcementTime=2026-09-22",
-        "publishedAt": "2026-09-22",
         "source": "巨潮资讯"
       }
     ],
@@ -875,17 +861,17 @@
       },
       {
         "type": "news",
-        "title": "电子行业今日净流出资金133.38亿元，兆易创新等47股净流出资金超亿元",
-        "url": "http://finance.eastmoney.com/a/202609303887783174.html",
-        "publishedAt": "2026-09-30 17:26:00",
-        "source": "证券时报网"
-      },
-      {
-        "type": "news",
         "title": "长电科技600584.SH)2026年中报净利润为8.45亿元、较去年同期上涨79.41%",
         "url": "http://finance.eastmoney.com/a/202608213849111095.html",
         "publishedAt": "2026-08-21 11:58:56",
         "source": "界面新闻"
+      },
+      {
+        "type": "news",
+        "title": "电子行业今日净流出资金133.38亿元，兆易创新等47股净流出资金超亿元",
+        "url": "http://finance.eastmoney.com/a/202609303887783174.html",
+        "publishedAt": "2026-09-30 17:26:00",
+        "source": "证券时报网"
       }
     ]
   },
@@ -1016,20 +1002,6 @@
         "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=301308&announcementId=1225588221&orgId=9900048787&announcementTime=2026-09-29 18:20:07",
         "publishedAt": "2026-09-29 18:20:07",
         "source": "巨潮资讯"
-      },
-      {
-        "type": "announcement",
-        "title": "关于为子公司提供担保的进展公告",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=301308&announcementId=1225577896&orgId=9900048787&announcementTime=2026-09-22 20:32:10",
-        "publishedAt": "2026-09-22 20:32:10",
-        "source": "巨潮资讯"
-      },
-      {
-        "type": "announcement",
-        "title": "关于子公司为其子公司提供担保的公告",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=301308&announcementId=1225577895&orgId=9900048787&announcementTime=2026-09-22 20:30:27",
-        "publishedAt": "2026-09-22 20:30:27",
-        "source": "巨潮资讯"
       }
     ],
     "news": [
@@ -1140,10 +1112,10 @@
       },
       {
         "type": "news",
-        "title": "电子行业今日净流出资金133.38亿元，兆易创新等47股净流出资金超亿元",
-        "url": "http://finance.eastmoney.com/a/202609303887783174.html",
-        "publishedAt": "2026-09-30 17:26:00",
-        "source": "证券时报网"
+        "title": "佰维存储：今日首次回购104.47万股 耗资2.22亿元",
+        "url": "http://finance.eastmoney.com/a/202609243883784770.html",
+        "publishedAt": "2026-09-24 17:32:25",
+        "source": "财联社"
       }
     ]
   },
@@ -1162,13 +1134,6 @@
         "title": "关于2023年限制性股票激励计划首次授予限制性股票第三个解除限售期解除限售股份上市流通的提示性公告",
         "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=001309&announcementId=1225578718&orgId=nssc1000644&announcementTime=2026-09-24",
         "publishedAt": "2026-09-24",
-        "source": "巨潮资讯"
-      },
-      {
-        "type": "announcement",
-        "title": "关于2025年股票期权激励计划预留部分授予登记完成的公告",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=001309&announcementId=1225574554&orgId=nssc1000644&announcementTime=2026-09-22",
-        "publishedAt": "2026-09-22",
         "source": "巨潮资讯"
       }
     ],
@@ -1484,15 +1449,7 @@
   },
   "605358": {
     "name": "立昂微",
-    "announcements": [
-      {
-        "type": "announcement",
-        "title": "立昂微股东及董事、高级管理人员减持股份结果",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=605358&announcementId=1225575035&orgId=9900038308&announcementTime=2026-09-22",
-        "publishedAt": "2026-09-22",
-        "source": "巨潮资讯"
-      }
-    ],
+    "announcements": [],
     "news": [
       {
         "type": "news",
@@ -1565,8 +1522,8 @@
       },
       {
         "type": "news",
-        "title": "先进封装概念下跌2.38%，主力资金净流出132股",
-        "url": "http://finance.eastmoney.com/a/202609303887737083.html",
+        "title": "存储芯片概念下跌2.73%，26股主力资金净流出超亿元",
+        "url": "http://finance.eastmoney.com/a/202609303887739498.html",
         "publishedAt": "2026-09-30 16:25:00",
         "source": "证券时报网"
       }
@@ -1621,15 +1578,15 @@
       },
       {
         "type": "news",
-        "title": "先进封装概念下跌2.38%，主力资金净流出132股",
-        "url": "http://finance.eastmoney.com/a/202609303887737083.html",
+        "title": "存储芯片概念下跌2.73%，26股主力资金净流出超亿元",
+        "url": "http://finance.eastmoney.com/a/202609303887739498.html",
         "publishedAt": "2026-09-30 16:25:00",
         "source": "证券时报网"
       },
       {
         "type": "news",
-        "title": "存储芯片概念下跌2.73%，26股主力资金净流出超亿元",
-        "url": "http://finance.eastmoney.com/a/202609303887739498.html",
+        "title": "先进封装概念下跌2.38%，主力资金净流出132股",
+        "url": "http://finance.eastmoney.com/a/202609303887737083.html",
         "publishedAt": "2026-09-30 16:25:00",
         "source": "证券时报网"
       }
@@ -2011,20 +1968,6 @@
         "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=300476&announcementId=1225591111&orgId=9900024582&announcementTime=2026-09-30 18:08:09",
         "publishedAt": "2026-09-30 18:08:09",
         "source": "巨潮资讯"
-      },
-      {
-        "type": "announcement",
-        "title": "关于变更持续督导保荐代表人的公告",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=300476&announcementId=1225577683&orgId=9900024582&announcementTime=2026-09-22 19:46:10",
-        "publishedAt": "2026-09-22 19:46:10",
-        "source": "巨潮资讯"
-      },
-      {
-        "type": "announcement",
-        "title": "关于签署A股募集资金四方监管协议的公告",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=300476&announcementId=1225577682&orgId=9900024582&announcementTime=2026-09-22 19:44:28",
-        "publishedAt": "2026-09-22 19:44:28",
-        "source": "巨潮资讯"
       }
     ],
     "news": [
@@ -2305,20 +2248,6 @@
         "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=601208&announcementId=1225589737&orgId=9900019705&announcementTime=2026-10-01",
         "publishedAt": "2026-10-01",
         "source": "巨潮资讯"
-      },
-      {
-        "type": "announcement",
-        "title": "四川东材科技集团股份有限公司2026年半年度权益分派实施公告",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=601208&announcementId=1225575752&orgId=9900019705&announcementTime=2026-09-22",
-        "publishedAt": "2026-09-22",
-        "source": "巨潮资讯"
-      },
-      {
-        "type": "announcement",
-        "title": "四川东材科技集团股份有限公司关于召开2026年半年度业绩说明会的公告",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=601208&announcementId=1225575751&orgId=9900019705&announcementTime=2026-09-22",
-        "publishedAt": "2026-09-22",
-        "source": "巨潮资讯"
       }
     ],
     "news": [
@@ -2505,15 +2434,15 @@
       },
       {
         "type": "news",
-        "title": "先进封装概念下跌2.38%，主力资金净流出132股",
-        "url": "http://finance.eastmoney.com/a/202609303887737083.html",
+        "title": "存储芯片概念下跌2.73%，26股主力资金净流出超亿元",
+        "url": "http://finance.eastmoney.com/a/202609303887739498.html",
         "publishedAt": "2026-09-30 16:25:00",
         "source": "证券时报网"
       },
       {
         "type": "news",
-        "title": "存储芯片概念下跌2.73%，26股主力资金净流出超亿元",
-        "url": "http://finance.eastmoney.com/a/202609303887739498.html",
+        "title": "先进封装概念下跌2.38%，主力资金净流出132股",
+        "url": "http://finance.eastmoney.com/a/202609303887737083.html",
         "publishedAt": "2026-09-30 16:25:00",
         "source": "证券时报网"
       },
@@ -2826,20 +2755,6 @@
         "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=301018&announcementId=1225578436&orgId=9900035574&announcementTime=2026-09-23 16:52:09",
         "publishedAt": "2026-09-23 16:52:09",
         "source": "巨潮资讯"
-      },
-      {
-        "type": "announcement",
-        "title": "关于公司股东为公司项目履约提供担保暨关联交易的公告",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=301018&announcementId=1225576951&orgId=9900035574&announcementTime=2026-09-22 17:44:10",
-        "publishedAt": "2026-09-22 17:44:10",
-        "source": "巨潮资讯"
-      },
-      {
-        "type": "announcement",
-        "title": "关于第四届董事会第二十二次会议决议的公告",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=301018&announcementId=1225576950&orgId=9900035574&announcementTime=2026-09-22 17:42:28",
-        "publishedAt": "2026-09-22 17:42:28",
-        "source": "巨潮资讯"
       }
     ],
     "news": [
@@ -3041,16 +2956,16 @@
     "news": [
       {
         "type": "news",
-        "title": "9月30日18只股盘后交易额超500万元",
-        "url": "http://finance.eastmoney.com/a/202609303887719317.html",
-        "publishedAt": "2026-09-30 16:23:00",
+        "title": "18股今日获机构买入评级",
+        "url": "http://finance.eastmoney.com/a/202609293886644543.html",
+        "publishedAt": "2026-09-29 17:43:00",
         "source": "证券时报网"
       },
       {
         "type": "news",
-        "title": "18股今日获机构买入评级",
-        "url": "http://finance.eastmoney.com/a/202609293886644543.html",
-        "publishedAt": "2026-09-29 17:43:00",
+        "title": "9月30日18只股盘后交易额超500万元",
+        "url": "http://finance.eastmoney.com/a/202609303887719317.html",
+        "publishedAt": "2026-09-30 16:23:00",
         "source": "证券时报网"
       },
       {
@@ -3700,29 +3615,7 @@
   },
   "600406": {
     "name": "国电南瑞",
-    "announcements": [
-      {
-        "type": "announcement",
-        "title": "国电南瑞关于2026年半年度权益分派实施后调整回购价格上限的公告",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=600406&announcementId=1225575120&orgId=gssh0600406&announcementTime=2026-09-22",
-        "publishedAt": "2026-09-22",
-        "source": "巨潮资讯"
-      },
-      {
-        "type": "announcement",
-        "title": "国电南瑞2026年半年度权益分派实施公告",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=600406&announcementId=1225575117&orgId=gssh0600406&announcementTime=2026-09-22",
-        "publishedAt": "2026-09-22",
-        "source": "巨潮资讯"
-      },
-      {
-        "type": "announcement",
-        "title": "上海东方华银律师事务所关于国电南瑞科技股份有限公司差异化分红之法律意见书",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=600406&announcementId=1225575102&orgId=gssh0600406&announcementTime=2026-09-22",
-        "publishedAt": "2026-09-22",
-        "source": "巨潮资讯"
-      }
-    ],
+    "announcements": [],
     "news": [
       {
         "type": "news",
@@ -3776,13 +3669,6 @@
         "title": "2026年第三次临时股东会决议公告",
         "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=300442&announcementId=1225590472&orgId=9900023826&announcementTime=2026-09-30 17:06:09",
         "publishedAt": "2026-09-30 17:06:09",
-        "source": "巨潮资讯"
-      },
-      {
-        "type": "announcement",
-        "title": "关于特定股东减持计划期限届满的公告",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=300442&announcementId=1225577655&orgId=9900023826&announcementTime=2026-09-22 19:24:28",
-        "publishedAt": "2026-09-22 19:24:28",
         "source": "巨潮资讯"
       }
     ],
@@ -4020,13 +3906,6 @@
         "title": "关于“立讯转债”即将到期及停止交易的第三次提示性公告",
         "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=002475&announcementId=1225576263&orgId=9900014448&announcementTime=2026-09-23",
         "publishedAt": "2026-09-23",
-        "source": "巨潮资讯"
-      },
-      {
-        "type": "announcement",
-        "title": "关于“立讯转债”即将到期及停止交易的第二次提示性公告",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=002475&announcementId=1225575502&orgId=9900014448&announcementTime=2026-09-22",
-        "publishedAt": "2026-09-22",
         "source": "巨潮资讯"
       }
     ],
@@ -4357,20 +4236,6 @@
         "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=002472&announcementId=1225584572&orgId=9900014368&announcementTime=2026-09-29",
         "publishedAt": "2026-09-29",
         "source": "巨潮资讯"
-      },
-      {
-        "type": "announcement",
-        "title": "浙江天册律师事务所关于公司2026年第二次临时股东会的法律意见书",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=002472&announcementId=1225574871&orgId=9900014368&announcementTime=2026-09-22",
-        "publishedAt": "2026-09-22",
-        "source": "巨潮资讯"
-      },
-      {
-        "type": "announcement",
-        "title": "2026年第二次临时股东会决议公告",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=002472&announcementId=1225574870&orgId=9900014368&announcementTime=2026-09-22",
-        "publishedAt": "2026-09-22",
-        "source": "巨潮资讯"
       }
     ],
     "news": [
@@ -4413,29 +4278,7 @@
   },
   "003043": {
     "name": "华亚智能",
-    "announcements": [
-      {
-        "type": "announcement",
-        "title": "关于实际控制人及一致行动人因股份注销导致持股比例被动增加触及1%整数倍的权益变动公告",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=003043&announcementId=1225575570&orgId=9900037303&announcementTime=2026-09-22",
-        "publishedAt": "2026-09-22",
-        "source": "巨潮资讯"
-      },
-      {
-        "type": "announcement",
-        "title": "东吴证券股份有限公司关于苏州华亚智能科技股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易之2025年业绩补偿实施情况的核查意见",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=003043&announcementId=1225575569&orgId=9900037303&announcementTime=2026-09-22",
-        "publishedAt": "2026-09-22",
-        "source": "巨潮资讯"
-      },
-      {
-        "type": "announcement",
-        "title": "关于并购重组业绩承诺补偿股份注销完成的公告",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=003043&announcementId=1225575568&orgId=9900037303&announcementTime=2026-09-22",
-        "publishedAt": "2026-09-22",
-        "source": "巨潮资讯"
-      }
-    ],
+    "announcements": [],
     "news": [
       {
         "type": "news",
@@ -4490,13 +4333,6 @@
         "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=002138&announcementId=1225576680&orgId=9900003163&announcementTime=2026-09-23",
         "publishedAt": "2026-09-23",
         "source": "巨潮资讯"
-      },
-      {
-        "type": "announcement",
-        "title": "关于董事长部分股份质押与解除质押的公告",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=002138&announcementId=1225574027&orgId=9900003163&announcementTime=2026-09-22",
-        "publishedAt": "2026-09-22",
-        "source": "巨潮资讯"
       }
     ],
     "news": [
@@ -4539,22 +4375,7 @@
   },
   "600563": {
     "name": "法拉电子",
-    "announcements": [
-      {
-        "type": "announcement",
-        "title": "法拉电子2026年第一次临时股东会决议公告",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=600563&announcementId=1225574244&orgId=gssh0600563&announcementTime=2026-09-22",
-        "publishedAt": "2026-09-22",
-        "source": "巨潮资讯"
-      },
-      {
-        "type": "announcement",
-        "title": "法拉电子2026年第一次临时股东会法律意见书",
-        "url": "http://www.cninfo.com.cn/new/disclosure/detail?stockCode=600563&announcementId=1225574169&orgId=gssh0600563&announcementTime=2026-09-22",
-        "publishedAt": "2026-09-22",
-        "source": "巨潮资讯"
-      }
-    ],
+    "announcements": [],
     "news": [
       {
         "type": "news",
@@ -5031,17 +4852,17 @@
       },
       {
         "type": "news",
+        "title": "又一家锂电企业距离“A+H”更进一步！全球电解液龙头通过港交所聆讯",
+        "url": "http://finance.eastmoney.com/a/202610063888814110.html",
+        "publishedAt": "2026-10-06 22:44:00",
+        "source": "澎湃新闻"
+      },
+      {
+        "type": "news",
         "title": "宁德时代：完成发行第八期绿色科技创新债券，规模50亿元",
         "url": "http://finance.eastmoney.com/a/202609283885284793.html",
         "publishedAt": "2026-09-28 17:32:00",
         "source": "新京报"
-      },
-      {
-        "type": "news",
-        "title": "9月30日18只股盘后交易额超500万元",
-        "url": "http://finance.eastmoney.com/a/202609303887719317.html",
-        "publishedAt": "2026-09-30 16:23:00",
-        "source": "证券时报网"
       },
       {
         "type": "news",
