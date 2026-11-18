@@ -1,21 +1,21 @@
 {
   "quoteProvider": "腾讯行情；AKShare/东方财富可用时进行双源校验",
-  "lastPriceUpdate": "2026-11-17T16:55:35+08:00",
+  "lastPriceUpdate": "2026-11-18T16:20:29+08:00",
   "lastNewsUpdate": "2026-11-18T03:23:39+08:00",
   "stockCount": 93,
   "note": "自动任务仅更新市场行情与自动市场分析，不改写 S1–S5、红线、狙击价和原始基本面结论。",
   "updatedQuotes": 93,
   "missingQuotes": [],
-  "hkdCnyRate": 0.84956,
+  "hkdCnyRate": 0.84961,
   "warnings": [],
   "newsProvider": "巨潮资讯（A股公告）/ 东方财富（新闻）",
   "newsWarnings": [],
   "coveragePct": 100.0,
   "fx": {
-    "rate": 0.84956,
+    "rate": 0.84961,
     "provider": "Frankfurter（欧洲央行参考汇率）",
     "isFallback": false,
-    "checkedAt": "2026-11-17T16:55:35+08:00"
+    "checkedAt": "2026-11-18T16:20:29+08:00"
   },
   "validation": {
     "dualSourceQuotes": 93,
