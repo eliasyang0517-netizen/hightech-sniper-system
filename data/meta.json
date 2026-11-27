@@ -1,7 +1,7 @@
 {
   "quoteProvider": "腾讯行情；AKShare/东方财富可用时进行双源校验",
   "lastPriceUpdate": "2026-11-27T17:31:14+08:00",
-  "lastNewsUpdate": "2026-11-27T03:49:05+08:00",
+  "lastNewsUpdate": "2026-11-28T03:38:50+08:00",
   "stockCount": 93,
   "note": "自动任务仅更新市场行情与自动市场分析，不改写 S1–S5、红线、狙击价和原始基本面结论。",
   "updatedQuotes": 93,
@@ -12,7 +12,9 @@
     "港股 AKShare 行情失败: 东方财富 push2 行情服务器断开了连接，通常是短时间内请求过多，当前 IP 被临时限流。首次限流一般约 5 分钟后恢复，反复触发后可能需要 40 分钟以上；等待期间不要重复调用东方财富的行情接口，否则会延长限流。"
   ],
   "newsProvider": "巨潮资讯（A股公告）/ 东方财富（新闻）",
-  "newsWarnings": [],
+  "newsWarnings": [
+    "002138 公告: Expecting value: line 1 column 1 (char 0)"
+  ],
   "coveragePct": 100.0,
   "fx": {
     "rate": 0.84981,
